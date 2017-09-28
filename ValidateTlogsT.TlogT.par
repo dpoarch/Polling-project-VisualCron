@@ -1,0 +1,6 @@
+TLOGS = f:\pos\polling\Poll\TlogT\Polled\\
+MOVEGOOD = f:\pos\polling\Poll\TlogT\\Good\
+MOVEBAD = f:\pos\polling\Poll\TlogT\\Bad\
+EXCEPTIONS = f:\pos\polling\Poll\Bin\ValidateTlogsT_Exceptions.txt
+EXCLUDEFILE = f:\pos\polling\Poll\Auditworks\Translate\exclude.dat
+MOVEGOODEXCLUDE = f:\pos\polling\Poll\TlogT\\GoodExclude\

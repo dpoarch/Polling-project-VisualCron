@@ -1,0 +1,7 @@
+open SIRIS-AS400.SGICORP.SPENCERGIFTS.COM
+user snobat snotbl
+binary
+CD SGPRODDATA
+PUT \\sghpnas\pos\Data\Redo\Upload\Uplogs POG4601.POG4601 (REPLACE
+Close
+Quit

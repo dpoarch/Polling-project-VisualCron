@@ -1,0 +1,67 @@
+ 
+
+Tue Dec 02 03:50:23 2014 -- Begin Program 
+
+Tue Dec 02 03:50:23 2014 -- Begin writing ProcessTlogsFinal.flg 
+
+Tue Dec 02 03:50:23 2014 -- End writing ProcessTlogsFinal.flg 
+
+Tue Dec 02 03:50:23 2014 -- Begin compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 03:50:23 2014 -- End compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 03:50:23 2014 -- Begin decompress Trovato tlogs 
+
+Tue Dec 02 03:50:23 2014 -- End decompress Trovato tlogs 
+
+Tue Dec 02 03:50:23 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 03:50:24 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 03:50:24 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 03:50:24 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 03:50:24 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 03:50:24 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 03:50:24 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 03:50:24 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 03:50:24 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 03:50:24 2014 -- Begin exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 03:50:25 2014 -- End exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 03:50:25 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 03:50:25 2014 -- End call TlogUpdater 
+
+Tue Dec 02 03:50:25 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 03:50:41 2014 -- Wait 120 seconds for the translate to complete... 
+
+Tue Dec 02 03:52:43 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 03:52:43 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 03:52:56 2014 -- Wait 120 seconds for the translate to complete... 
+
+Tue Dec 02 03:54:57 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 03:54:58 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 03:54:58 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 03:54:58 2014 -- Begin move tlogs not processed 
+
+Tue Dec 02 03:54:58 2014 -- End move tlogs not processed 
+
+Tue Dec 02 03:54:58 2014 -- Begin deleting ProcessTlogsFinal.flg 
+
+Tue Dec 02 03:54:58 2014 -- End deleting ProcessTlogsFinal.flg 
+
+Tue Dec 02 03:54:58 2014 -- End Program 

@@ -1,0 +1,6 @@
+open SIRIS-AS400.SGICORP.SPENCERGIFTS.COM
+user snobat snotbl
+CD SGPRODDATA
+PUT \\sghpnas\pos\poll\upload\interstore.txt SD48C00001.SD48C00001 (REPLACE
+Close
+Quit

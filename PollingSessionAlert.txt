@@ -1,0 +1,1 @@
+A Polling Session failed to complete by the appropriate time.

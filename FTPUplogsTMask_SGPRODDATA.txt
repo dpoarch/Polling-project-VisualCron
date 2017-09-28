@@ -1,0 +1,6 @@
+open SIRIS-AS400.SGICORP.SPENCERGIFTS.COM
+user snobat snotbl
+CD SGPRODDATA
+PUT \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Upload\UplogsTMask TROVATOTLG.TROVATOTLG (REPLACE
+Close
+Quit

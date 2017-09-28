@@ -1,0 +1,10 @@
+
+Windows IP Configuration
+
+
+Ethernet adapter Local Area Connection 2:
+
+   Connection-specific DNS Suffix  . : sgicorp.spencergifts.com
+   IP Address. . . . . . . . . . . . : 172.16.0.164
+   Subnet Mask . . . . . . . . . . . : 255.255.248.0
+   Default Gateway . . . . . . . . . : 172.16.0.1

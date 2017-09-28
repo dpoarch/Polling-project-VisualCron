@@ -1,0 +1,76 @@
+
+@goto CHECKWARN
+
+:COMPRESS
+  :: Compress mail file.
+  @if ERROR_FLAG==TRUE goto :EOF
+  :: Set variables.
+  @set STORE_NUM=%1
+
+  :: Delete ARS mail for Trovato store.
+  :: if exist E:\Poll\StoreMail\Mail%STORE_NUM% del E:\Poll\StoreMail\Mail%STORE_NUM%
+  :: @if errorlevel 1 @call :MESS Error deleting E:\Poll\StoreMail\Mail%STORE_NUM% & set WARNING_FLAG=TRUE
+
+  @if exist E:\Poll\StoreMailT\Temp\Mail%STORE_NUM% goto CMPRS
+  @goto :EOF
+
+:DELARS
+  @if ERROR_FLAG==TRUE goto :EOF
+  :: Set variables.
+  @set STORE_NUM=%1
+
+  :: Delete ARS Mail for Installed Trovato Stores
+  if exist E:\Poll\StoreMail\Mail%STORE_NUM% del E:\Poll\StoreMail\Mail%STORE_NUM%
+  @if errorlevel 1 @call :MESS Error deleting E:\Poll\StoreMail\Mail%STORE_NUM% & set WARNING_FLAG=TRUE
+  @goto :EOF
+
+:CMPRS
+  @call :MESS Begin compress store mail %STORE_NUM%
+
+  if exist E:\Poll\StoreMailT\Temp\Mail.dwn del E:\Poll\StoreMailT\Temp\Mail.dwn
+  @if errorlevel 1 @call :MESS Fatal error deleting E:\Poll\StoreMailT\Temp\Mail.dwn & goto CMPRSERR
+
+  if exist E:\Poll\StoreMailT\Mail%STORE_NUM%.zip "E:\Program Files\Winzip\wzunzip.exe" E:\Poll\StoreMailT\Mail%1.zip E:\Poll\StoreMailT\Temp Mail.dwn
+  @if errorlevel 1 @call :MESS Fatal error unzipping E:\Poll\StoreMailT\Mail%STORE_NUM%.zip & goto CMPRSERR
+
+  if exist E:\Poll\StoreMailT\Temp\Mail.dwn copy E:\Poll\StoreMailT\Temp\Mail.dwn /A + E:\Poll\StoreMailT\Temp\Mail%STORE_NUM% /A E:\Poll\StoreMailT\Temp\Mail.dwn /A
+  @if errorlevel 1 @call :MESS Fatal error copying E:\Poll\StoreMailT\Temp\Mail.dwn and E:\Poll\StoreMailT\Temp\Mail%STORE_NUM% /A to E:\Poll\StoreMailT\Temp\Mail.dwn (%STORE_NUM%) & goto CMPRSERR
+
+  if not exist E:\Poll\StoreMailT\Temp\Mail.dwn copy E:\Poll\StoreMailT\Temp\Mail%STORE_NUM% E:\Poll\StoreMailT\Temp\Mail.dwn
+  @if errorlevel 1 @call :MESS Fatal error copying E:\Poll\StoreMailT\Mail%STORE_NUM% to E:\Poll\StoreMailT\Temp\Mail.dwn (%STORE_NUM%) & goto CMPRSERR
+
+  "E:\Program Files\Winzip\wzzip.exe" E:\Poll\StoreMailT\Mail%1.zip E:\Poll\StoreMailT\Temp\Mail.dwn
+  @if errorlevel 1 @call :MESS Fatal error zipping E:\Poll\StoreMailT\Temp\Mail.dwn (%STORE_NUM%) & goto CMPRSERR
+
+  del E:\Poll\StoreMailT\Temp\Mail%STORE_NUM%
+  @if errorlevel 1 @call :MESS Fatal error deleting E:\Poll\StoreMailT\Temp\Mail%STORE_NUM% & goto CMPRSERR
+  del E:\Poll\StoreMailT\Temp\Mail.dwn
+  @if errorlevel 1 @call :MESS Fatal error deleting E:\Poll\StoreMailT\Temp\Mail.dwn (%STORE_NUM%) & goto CMPRSERR
+
+  @call :MESS End compress store mail %STORE_NUM%
+  @goto :EOF
+
+:CMPRSERR
+  @set ERROR_FLAG=TRUE
+  @ren _
+  @goto :EOF
+
+:CHECKWARN
+  :: Check warning flag.
+  @if %WARNING_FLAG%==TRUE @echo Error(s) deleting ARS mail for Trovato stores >> CompressStoreMail.warn
+
+:END
+  @goto :EOF
+
+:MESS
+  :: Write message to log file and screen.
+  @now %1 %2 %3 %4 %5 %6 %7 %8 %9 >> %LOG_FILE%
+  @ver > nul
+  @echo.
+  @now %1 %2 %3 %4 %5 %6 %7 %8 %9
+  @ver > nul
+  @goto :EOF
+
+:ERR
+  :: Force an error code to be returned to the O/S.
+  @ren _

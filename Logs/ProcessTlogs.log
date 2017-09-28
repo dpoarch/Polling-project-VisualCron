@@ -1,0 +1,4742 @@
+ 
+
+Mon Dec 01 23:01:01 2014 -- Begin Program 
+
+Mon Dec 01 23:01:01 2014 -- Begin adding ProcessTlogs.flg 
+
+Mon Dec 01 23:01:01 2014 -- End adding ProcessTlogs.flg 
+
+Mon Dec 01 23:01:01 2014 -- Begin compose subprogram to decompress Trovato tlogs 
+
+Mon Dec 01 23:01:01 2014 -- End compose subprogram to decompress Trovato tlogs 
+
+Mon Dec 01 23:01:01 2014 -- Begin decompress Trovato tlogs 
+
+Mon Dec 01 23:01:01 2014 -- End decompress Trovato tlogs 
+
+Mon Dec 01 23:01:01 2014 -- Begin check Trovato tlogs 
+
+Mon Dec 01 23:01:02 2014 -- End check Trovato tlogs 
+
+Mon Dec 01 23:01:02 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Mon Dec 01 23:01:02 2014 -- End copy for Wizmail converting 
+
+Mon Dec 01 23:01:02 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Mon Dec 01 23:01:02 2014 -- This has been turned off. The tlogs will simply 
+
+Mon Dec 01 23:01:02 2014 -- End convert Trovato tlogs for ARS format 
+
+Mon Dec 01 23:01:03 2014 -- Begin exclude tlogs from all processing 
+
+Mon Dec 01 23:01:03 2014 -- End exclude tlogs from all processing 
+
+Mon Dec 01 23:01:03 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Mon Dec 01 23:01:03 2014 -- End exclude tlogs from internal (local) processing 
+
+Mon Dec 01 23:01:03 2014 -- Begin exclude tlogs from all processing EXCEPT payroll processing 
+
+Mon Dec 01 23:01:03 2014 -- End exclude tlogs from all processing EXCEPT payroll processing 
+
+Mon Dec 01 23:01:03 2014 -- Begin call TlogUpdater 
+
+Mon Dec 01 23:01:04 2014 -- End call TlogUpdater 
+
+Mon Dec 01 23:01:04 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Mon Dec 01 23:01:04 2014 -- End translate tlogs and send to AuditWorks 
+
+Mon Dec 01 23:01:04 2014 -- Begin exclude tlogs from mainframe upload 
+
+Mon Dec 01 23:01:04 2014 -- End exclude tlogs from mainframe upload 
+
+Mon Dec 01 23:01:04 2014 -- Begin deleting ProcessTlogs.flg 
+
+Mon Dec 01 23:01:04 2014 -- End deleting ProcessTlogs.flg 
+
+Mon Dec 01 23:01:04 2014 -- End Program 
+ 
+
+Mon Dec 01 23:06:00 2014 -- Begin Program 
+
+Mon Dec 01 23:06:00 2014 -- Begin adding ProcessTlogs.flg 
+
+Mon Dec 01 23:06:00 2014 -- End adding ProcessTlogs.flg 
+
+Mon Dec 01 23:06:01 2014 -- Begin compose subprogram to decompress Trovato tlogs 
+
+Mon Dec 01 23:06:01 2014 -- End compose subprogram to decompress Trovato tlogs 
+
+Mon Dec 01 23:06:01 2014 -- Begin decompress Trovato tlogs 
+
+Mon Dec 01 23:06:01 2014 -- End decompress Trovato tlogs 
+
+Mon Dec 01 23:06:01 2014 -- Begin check Trovato tlogs 
+
+Mon Dec 01 23:06:01 2014 -- End check Trovato tlogs 
+
+Mon Dec 01 23:06:01 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Mon Dec 01 23:06:01 2014 -- End copy for Wizmail converting 
+
+Mon Dec 01 23:06:01 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Mon Dec 01 23:06:02 2014 -- This has been turned off. The tlogs will simply 
+
+Mon Dec 01 23:06:02 2014 -- End convert Trovato tlogs for ARS format 
+
+Mon Dec 01 23:06:02 2014 -- Begin exclude tlogs from all processing 
+
+Mon Dec 01 23:06:02 2014 -- End exclude tlogs from all processing 
+
+Mon Dec 01 23:06:02 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Mon Dec 01 23:06:02 2014 -- End exclude tlogs from internal (local) processing 
+
+Mon Dec 01 23:06:02 2014 -- Begin exclude tlogs from all processing EXCEPT payroll processing 
+
+Mon Dec 01 23:06:02 2014 -- End exclude tlogs from all processing EXCEPT payroll processing 
+
+Mon Dec 01 23:06:02 2014 -- Begin call TlogUpdater 
+
+Mon Dec 01 23:06:03 2014 -- End call TlogUpdater 
+
+Mon Dec 01 23:06:03 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Mon Dec 01 23:06:03 2014 -- End translate tlogs and send to AuditWorks 
+
+Mon Dec 01 23:06:03 2014 -- Begin exclude tlogs from mainframe upload 
+
+Mon Dec 01 23:06:03 2014 -- End exclude tlogs from mainframe upload 
+
+Mon Dec 01 23:06:03 2014 -- Begin deleting ProcessTlogs.flg 
+
+Mon Dec 01 23:06:03 2014 -- End deleting ProcessTlogs.flg 
+
+Mon Dec 01 23:06:03 2014 -- End Program 
+ 
+
+Mon Dec 01 23:11:01 2014 -- Begin Program 
+
+Mon Dec 01 23:11:01 2014 -- Begin adding ProcessTlogs.flg 
+
+Mon Dec 01 23:11:01 2014 -- End adding ProcessTlogs.flg 
+
+Mon Dec 01 23:11:01 2014 -- Begin compose subprogram to decompress Trovato tlogs 
+
+Mon Dec 01 23:11:01 2014 -- End compose subprogram to decompress Trovato tlogs 
+
+Mon Dec 01 23:11:01 2014 -- Begin decompress Trovato tlogs 
+
+Mon Dec 01 23:11:01 2014 -- End decompress Trovato tlogs 
+
+Mon Dec 01 23:11:02 2014 -- Begin check Trovato tlogs 
+
+Mon Dec 01 23:11:02 2014 -- End check Trovato tlogs 
+
+Mon Dec 01 23:11:02 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Mon Dec 01 23:11:02 2014 -- End copy for Wizmail converting 
+
+Mon Dec 01 23:11:02 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Mon Dec 01 23:11:02 2014 -- This has been turned off. The tlogs will simply 
+
+Mon Dec 01 23:11:02 2014 -- End convert Trovato tlogs for ARS format 
+
+Mon Dec 01 23:11:02 2014 -- Begin exclude tlogs from all processing 
+
+Mon Dec 01 23:11:03 2014 -- End exclude tlogs from all processing 
+
+Mon Dec 01 23:11:03 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Mon Dec 01 23:11:03 2014 -- End exclude tlogs from internal (local) processing 
+
+Mon Dec 01 23:11:03 2014 -- Begin exclude tlogs from all processing EXCEPT payroll processing 
+
+Mon Dec 01 23:11:03 2014 -- End exclude tlogs from all processing EXCEPT payroll processing 
+
+Mon Dec 01 23:11:03 2014 -- Begin call TlogUpdater 
+
+Mon Dec 01 23:11:03 2014 -- End call TlogUpdater 
+
+Mon Dec 01 23:11:03 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Mon Dec 01 23:11:03 2014 -- End translate tlogs and send to AuditWorks 
+
+Mon Dec 01 23:11:03 2014 -- Begin exclude tlogs from mainframe upload 
+
+Mon Dec 01 23:11:04 2014 -- End exclude tlogs from mainframe upload 
+
+Mon Dec 01 23:11:04 2014 -- Begin deleting ProcessTlogs.flg 
+
+Mon Dec 01 23:11:04 2014 -- End deleting ProcessTlogs.flg 
+
+Mon Dec 01 23:11:04 2014 -- End Program 
+ 
+
+Mon Dec 01 23:16:01 2014 -- Begin Program 
+
+Mon Dec 01 23:16:01 2014 -- Begin adding ProcessTlogs.flg 
+
+Mon Dec 01 23:16:01 2014 -- End adding ProcessTlogs.flg 
+
+Mon Dec 01 23:16:01 2014 -- Begin compose subprogram to decompress Trovato tlogs 
+
+Mon Dec 01 23:16:01 2014 -- End compose subprogram to decompress Trovato tlogs 
+
+Mon Dec 01 23:16:01 2014 -- Begin decompress Trovato tlogs 
+
+Mon Dec 01 23:16:02 2014 -- End decompress Trovato tlogs 
+
+Mon Dec 01 23:16:02 2014 -- Begin check Trovato tlogs 
+
+Mon Dec 01 23:16:02 2014 -- End check Trovato tlogs 
+
+Mon Dec 01 23:16:02 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Mon Dec 01 23:16:02 2014 -- End copy for Wizmail converting 
+
+Mon Dec 01 23:16:02 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Mon Dec 01 23:16:02 2014 -- This has been turned off. The tlogs will simply 
+
+Mon Dec 01 23:16:02 2014 -- End convert Trovato tlogs for ARS format 
+
+Mon Dec 01 23:16:02 2014 -- Begin exclude tlogs from all processing 
+
+Mon Dec 01 23:16:03 2014 -- End exclude tlogs from all processing 
+
+Mon Dec 01 23:16:03 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Mon Dec 01 23:16:03 2014 -- End exclude tlogs from internal (local) processing 
+
+Mon Dec 01 23:16:03 2014 -- Begin exclude tlogs from all processing EXCEPT payroll processing 
+
+Mon Dec 01 23:16:03 2014 -- End exclude tlogs from all processing EXCEPT payroll processing 
+
+Mon Dec 01 23:16:03 2014 -- Begin call TlogUpdater 
+
+Mon Dec 01 23:16:03 2014 -- End call TlogUpdater 
+
+Mon Dec 01 23:16:03 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Mon Dec 01 23:16:03 2014 -- End translate tlogs and send to AuditWorks 
+
+Mon Dec 01 23:16:04 2014 -- Begin exclude tlogs from mainframe upload 
+
+Mon Dec 01 23:16:04 2014 -- End exclude tlogs from mainframe upload 
+
+Mon Dec 01 23:16:04 2014 -- Begin deleting ProcessTlogs.flg 
+
+Mon Dec 01 23:16:04 2014 -- End deleting ProcessTlogs.flg 
+
+Mon Dec 01 23:16:04 2014 -- End Program 
+ 
+
+Mon Dec 01 23:21:01 2014 -- Begin Program 
+
+Mon Dec 01 23:21:01 2014 -- Begin adding ProcessTlogs.flg 
+
+Mon Dec 01 23:21:01 2014 -- End adding ProcessTlogs.flg 
+
+Mon Dec 01 23:21:01 2014 -- Begin compose subprogram to decompress Trovato tlogs 
+
+Mon Dec 01 23:21:01 2014 -- End compose subprogram to decompress Trovato tlogs 
+
+Mon Dec 01 23:21:01 2014 -- Begin decompress Trovato tlogs 
+
+Mon Dec 01 23:21:01 2014 -- End decompress Trovato tlogs 
+
+Mon Dec 01 23:21:01 2014 -- Begin check Trovato tlogs 
+
+Mon Dec 01 23:21:02 2014 -- End check Trovato tlogs 
+
+Mon Dec 01 23:21:02 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Mon Dec 01 23:21:02 2014 -- End copy for Wizmail converting 
+
+Mon Dec 01 23:21:02 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Mon Dec 01 23:21:02 2014 -- This has been turned off. The tlogs will simply 
+
+Mon Dec 01 23:21:02 2014 -- End convert Trovato tlogs for ARS format 
+
+Mon Dec 01 23:21:03 2014 -- Begin exclude tlogs from all processing 
+
+Mon Dec 01 23:21:03 2014 -- End exclude tlogs from all processing 
+
+Mon Dec 01 23:21:03 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Mon Dec 01 23:21:03 2014 -- End exclude tlogs from internal (local) processing 
+
+Mon Dec 01 23:21:04 2014 -- Begin exclude tlogs from all processing EXCEPT payroll processing 
+
+Mon Dec 01 23:21:04 2014 -- End exclude tlogs from all processing EXCEPT payroll processing 
+
+Mon Dec 01 23:21:04 2014 -- Begin call TlogUpdater 
+
+Mon Dec 01 23:21:04 2014 -- End call TlogUpdater 
+
+Mon Dec 01 23:21:04 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Mon Dec 01 23:21:04 2014 -- End translate tlogs and send to AuditWorks 
+
+Mon Dec 01 23:21:04 2014 -- Begin exclude tlogs from mainframe upload 
+
+Mon Dec 01 23:21:05 2014 -- End exclude tlogs from mainframe upload 
+
+Mon Dec 01 23:21:05 2014 -- Begin deleting ProcessTlogs.flg 
+
+Mon Dec 01 23:21:05 2014 -- End deleting ProcessTlogs.flg 
+
+Mon Dec 01 23:21:06 2014 -- End Program 
+ 
+
+Mon Dec 01 23:26:01 2014 -- Begin Program 
+
+Mon Dec 01 23:26:01 2014 -- Begin adding ProcessTlogs.flg 
+
+Mon Dec 01 23:26:01 2014 -- End adding ProcessTlogs.flg 
+
+Mon Dec 01 23:26:01 2014 -- Begin compose subprogram to decompress Trovato tlogs 
+
+Mon Dec 01 23:26:01 2014 -- End compose subprogram to decompress Trovato tlogs 
+
+Mon Dec 01 23:26:01 2014 -- Begin decompress Trovato tlogs 
+
+Mon Dec 01 23:26:01 2014 -- End decompress Trovato tlogs 
+
+Mon Dec 01 23:26:01 2014 -- Begin check Trovato tlogs 
+
+Mon Dec 01 23:26:02 2014 -- End check Trovato tlogs 
+
+Mon Dec 01 23:26:02 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Mon Dec 01 23:26:02 2014 -- End copy for Wizmail converting 
+
+Mon Dec 01 23:26:02 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Mon Dec 01 23:26:02 2014 -- This has been turned off. The tlogs will simply 
+
+Mon Dec 01 23:26:02 2014 -- End convert Trovato tlogs for ARS format 
+
+Mon Dec 01 23:26:02 2014 -- Begin exclude tlogs from all processing 
+
+Mon Dec 01 23:26:02 2014 -- End exclude tlogs from all processing 
+
+Mon Dec 01 23:26:02 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Mon Dec 01 23:26:03 2014 -- End exclude tlogs from internal (local) processing 
+
+Mon Dec 01 23:26:03 2014 -- Begin exclude tlogs from all processing EXCEPT payroll processing 
+
+Mon Dec 01 23:26:03 2014 -- End exclude tlogs from all processing EXCEPT payroll processing 
+
+Mon Dec 01 23:26:03 2014 -- Begin call TlogUpdater 
+
+Mon Dec 01 23:26:03 2014 -- End call TlogUpdater 
+
+Mon Dec 01 23:26:03 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Mon Dec 01 23:26:03 2014 -- End translate tlogs and send to AuditWorks 
+
+Mon Dec 01 23:26:03 2014 -- Begin exclude tlogs from mainframe upload 
+
+Mon Dec 01 23:26:03 2014 -- End exclude tlogs from mainframe upload 
+
+Mon Dec 01 23:26:03 2014 -- Begin deleting ProcessTlogs.flg 
+
+Mon Dec 01 23:26:03 2014 -- End deleting ProcessTlogs.flg 
+
+Mon Dec 01 23:26:04 2014 -- End Program 
+ 
+
+Mon Dec 01 23:31:01 2014 -- Begin Program 
+
+Mon Dec 01 23:31:01 2014 -- Begin adding ProcessTlogs.flg 
+
+Mon Dec 01 23:31:01 2014 -- End adding ProcessTlogs.flg 
+
+Mon Dec 01 23:31:01 2014 -- Begin compose subprogram to decompress Trovato tlogs 
+
+Mon Dec 01 23:31:01 2014 -- End compose subprogram to decompress Trovato tlogs 
+
+Mon Dec 01 23:31:01 2014 -- Begin decompress Trovato tlogs 
+
+Mon Dec 01 23:31:01 2014 -- End decompress Trovato tlogs 
+
+Mon Dec 01 23:31:01 2014 -- Begin check Trovato tlogs 
+
+Mon Dec 01 23:31:02 2014 -- End check Trovato tlogs 
+
+Mon Dec 01 23:31:02 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Mon Dec 01 23:31:02 2014 -- End copy for Wizmail converting 
+
+Mon Dec 01 23:31:02 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Mon Dec 01 23:31:02 2014 -- This has been turned off. The tlogs will simply 
+
+Mon Dec 01 23:31:02 2014 -- End convert Trovato tlogs for ARS format 
+
+Mon Dec 01 23:31:02 2014 -- Begin exclude tlogs from all processing 
+
+Mon Dec 01 23:31:02 2014 -- End exclude tlogs from all processing 
+
+Mon Dec 01 23:31:03 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Mon Dec 01 23:31:03 2014 -- End exclude tlogs from internal (local) processing 
+
+Mon Dec 01 23:31:03 2014 -- Begin exclude tlogs from all processing EXCEPT payroll processing 
+
+Mon Dec 01 23:31:03 2014 -- End exclude tlogs from all processing EXCEPT payroll processing 
+
+Mon Dec 01 23:31:03 2014 -- Begin call TlogUpdater 
+
+Mon Dec 01 23:31:03 2014 -- End call TlogUpdater 
+
+Mon Dec 01 23:31:03 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Mon Dec 01 23:31:03 2014 -- End translate tlogs and send to AuditWorks 
+
+Mon Dec 01 23:31:03 2014 -- Begin exclude tlogs from mainframe upload 
+
+Mon Dec 01 23:31:03 2014 -- End exclude tlogs from mainframe upload 
+
+Mon Dec 01 23:31:04 2014 -- Begin deleting ProcessTlogs.flg 
+
+Mon Dec 01 23:31:04 2014 -- End deleting ProcessTlogs.flg 
+
+Mon Dec 01 23:31:04 2014 -- End Program 
+ 
+
+Mon Dec 01 23:36:01 2014 -- Begin Program 
+
+Mon Dec 01 23:36:01 2014 -- Begin adding ProcessTlogs.flg 
+
+Mon Dec 01 23:36:01 2014 -- End adding ProcessTlogs.flg 
+
+Mon Dec 01 23:36:01 2014 -- Begin compose subprogram to decompress Trovato tlogs 
+
+Mon Dec 01 23:36:01 2014 -- End compose subprogram to decompress Trovato tlogs 
+
+Mon Dec 01 23:36:01 2014 -- Begin decompress Trovato tlogs 
+
+Mon Dec 01 23:36:01 2014 -- End decompress Trovato tlogs 
+
+Mon Dec 01 23:36:02 2014 -- Begin check Trovato tlogs 
+
+Mon Dec 01 23:36:02 2014 -- End check Trovato tlogs 
+
+Mon Dec 01 23:36:02 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Mon Dec 01 23:36:02 2014 -- End copy for Wizmail converting 
+
+Mon Dec 01 23:36:02 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Mon Dec 01 23:36:02 2014 -- This has been turned off. The tlogs will simply 
+
+Mon Dec 01 23:36:02 2014 -- End convert Trovato tlogs for ARS format 
+
+Mon Dec 01 23:36:02 2014 -- Begin exclude tlogs from all processing 
+
+Mon Dec 01 23:36:03 2014 -- End exclude tlogs from all processing 
+
+Mon Dec 01 23:36:03 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Mon Dec 01 23:36:03 2014 -- End exclude tlogs from internal (local) processing 
+
+Mon Dec 01 23:36:03 2014 -- Begin exclude tlogs from all processing EXCEPT payroll processing 
+
+Mon Dec 01 23:36:03 2014 -- End exclude tlogs from all processing EXCEPT payroll processing 
+
+Mon Dec 01 23:36:03 2014 -- Begin call TlogUpdater 
+
+Mon Dec 01 23:36:03 2014 -- End call TlogUpdater 
+
+Mon Dec 01 23:36:03 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Mon Dec 01 23:36:03 2014 -- End translate tlogs and send to AuditWorks 
+
+Mon Dec 01 23:36:03 2014 -- Begin exclude tlogs from mainframe upload 
+
+Mon Dec 01 23:36:04 2014 -- End exclude tlogs from mainframe upload 
+
+Mon Dec 01 23:36:04 2014 -- Begin deleting ProcessTlogs.flg 
+
+Mon Dec 01 23:36:04 2014 -- End deleting ProcessTlogs.flg 
+
+Mon Dec 01 23:36:04 2014 -- End Program 
+ 
+
+Mon Dec 01 23:41:01 2014 -- Begin Program 
+
+Mon Dec 01 23:41:01 2014 -- Begin adding ProcessTlogs.flg 
+
+Mon Dec 01 23:41:01 2014 -- End adding ProcessTlogs.flg 
+
+Mon Dec 01 23:41:01 2014 -- Begin compose subprogram to decompress Trovato tlogs 
+
+Mon Dec 01 23:41:01 2014 -- End compose subprogram to decompress Trovato tlogs 
+
+Mon Dec 01 23:41:01 2014 -- Begin decompress Trovato tlogs 
+
+Mon Dec 01 23:41:01 2014 -- End decompress Trovato tlogs 
+
+Mon Dec 01 23:41:02 2014 -- Begin check Trovato tlogs 
+
+Mon Dec 01 23:41:02 2014 -- End check Trovato tlogs 
+
+Mon Dec 01 23:41:02 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Mon Dec 01 23:41:02 2014 -- End copy for Wizmail converting 
+
+Mon Dec 01 23:41:02 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Mon Dec 01 23:41:02 2014 -- This has been turned off. The tlogs will simply 
+
+Mon Dec 01 23:41:02 2014 -- End convert Trovato tlogs for ARS format 
+
+Mon Dec 01 23:41:02 2014 -- Begin exclude tlogs from all processing 
+
+Mon Dec 01 23:41:03 2014 -- End exclude tlogs from all processing 
+
+Mon Dec 01 23:41:03 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Mon Dec 01 23:41:03 2014 -- End exclude tlogs from internal (local) processing 
+
+Mon Dec 01 23:41:03 2014 -- Begin exclude tlogs from all processing EXCEPT payroll processing 
+
+Mon Dec 01 23:41:03 2014 -- End exclude tlogs from all processing EXCEPT payroll processing 
+
+Mon Dec 01 23:41:03 2014 -- Begin call TlogUpdater 
+
+Mon Dec 01 23:41:03 2014 -- End call TlogUpdater 
+
+Mon Dec 01 23:41:03 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Mon Dec 01 23:41:03 2014 -- End translate tlogs and send to AuditWorks 
+
+Mon Dec 01 23:41:03 2014 -- Begin exclude tlogs from mainframe upload 
+
+Mon Dec 01 23:41:03 2014 -- End exclude tlogs from mainframe upload 
+
+Mon Dec 01 23:41:04 2014 -- Begin deleting ProcessTlogs.flg 
+
+Mon Dec 01 23:41:04 2014 -- End deleting ProcessTlogs.flg 
+
+Mon Dec 01 23:41:04 2014 -- End Program 
+ 
+
+Mon Dec 01 23:46:01 2014 -- Begin Program 
+
+Mon Dec 01 23:46:01 2014 -- Begin adding ProcessTlogs.flg 
+
+Mon Dec 01 23:46:01 2014 -- End adding ProcessTlogs.flg 
+
+Mon Dec 01 23:46:01 2014 -- Begin compose subprogram to decompress Trovato tlogs 
+
+Mon Dec 01 23:46:01 2014 -- End compose subprogram to decompress Trovato tlogs 
+
+Mon Dec 01 23:46:01 2014 -- Begin decompress Trovato tlogs 
+
+Mon Dec 01 23:46:02 2014 -- End decompress Trovato tlogs 
+
+Mon Dec 01 23:46:02 2014 -- Begin check Trovato tlogs 
+
+Mon Dec 01 23:46:02 2014 -- End check Trovato tlogs 
+
+Mon Dec 01 23:46:02 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Mon Dec 01 23:46:02 2014 -- End copy for Wizmail converting 
+
+Mon Dec 01 23:46:02 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Mon Dec 01 23:46:02 2014 -- This has been turned off. The tlogs will simply 
+
+Mon Dec 01 23:46:02 2014 -- End convert Trovato tlogs for ARS format 
+
+Mon Dec 01 23:46:02 2014 -- Begin exclude tlogs from all processing 
+
+Mon Dec 01 23:46:03 2014 -- End exclude tlogs from all processing 
+
+Mon Dec 01 23:46:03 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Mon Dec 01 23:46:03 2014 -- End exclude tlogs from internal (local) processing 
+
+Mon Dec 01 23:46:03 2014 -- Begin exclude tlogs from all processing EXCEPT payroll processing 
+
+Mon Dec 01 23:46:03 2014 -- End exclude tlogs from all processing EXCEPT payroll processing 
+
+Mon Dec 01 23:46:03 2014 -- Begin call TlogUpdater 
+
+Mon Dec 01 23:46:03 2014 -- End call TlogUpdater 
+
+Mon Dec 01 23:46:03 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Mon Dec 01 23:46:03 2014 -- End translate tlogs and send to AuditWorks 
+
+Mon Dec 01 23:46:04 2014 -- Begin exclude tlogs from mainframe upload 
+
+Mon Dec 01 23:46:04 2014 -- End exclude tlogs from mainframe upload 
+
+Mon Dec 01 23:46:04 2014 -- Begin deleting ProcessTlogs.flg 
+
+Mon Dec 01 23:46:04 2014 -- End deleting ProcessTlogs.flg 
+
+Mon Dec 01 23:46:04 2014 -- End Program 
+ 
+
+Mon Dec 01 23:51:01 2014 -- Begin Program 
+
+Mon Dec 01 23:51:01 2014 -- Begin adding ProcessTlogs.flg 
+
+Mon Dec 01 23:51:01 2014 -- End adding ProcessTlogs.flg 
+
+Mon Dec 01 23:51:01 2014 -- Begin compose subprogram to decompress Trovato tlogs 
+
+Mon Dec 01 23:51:01 2014 -- End compose subprogram to decompress Trovato tlogs 
+
+Mon Dec 01 23:51:01 2014 -- Begin decompress Trovato tlogs 
+
+Mon Dec 01 23:51:01 2014 -- End decompress Trovato tlogs 
+
+Mon Dec 01 23:51:01 2014 -- Begin check Trovato tlogs 
+
+Mon Dec 01 23:51:02 2014 -- End check Trovato tlogs 
+
+Mon Dec 01 23:51:02 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Mon Dec 01 23:51:02 2014 -- End copy for Wizmail converting 
+
+Mon Dec 01 23:51:02 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Mon Dec 01 23:51:02 2014 -- This has been turned off. The tlogs will simply 
+
+Mon Dec 01 23:51:02 2014 -- End convert Trovato tlogs for ARS format 
+
+Mon Dec 01 23:51:02 2014 -- Begin exclude tlogs from all processing 
+
+Mon Dec 01 23:51:02 2014 -- End exclude tlogs from all processing 
+
+Mon Dec 01 23:51:02 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Mon Dec 01 23:51:03 2014 -- End exclude tlogs from internal (local) processing 
+
+Mon Dec 01 23:51:03 2014 -- Begin exclude tlogs from all processing EXCEPT payroll processing 
+
+Mon Dec 01 23:51:03 2014 -- End exclude tlogs from all processing EXCEPT payroll processing 
+
+Mon Dec 01 23:51:03 2014 -- Begin call TlogUpdater 
+
+Mon Dec 01 23:51:03 2014 -- End call TlogUpdater 
+
+Mon Dec 01 23:51:03 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Mon Dec 01 23:51:03 2014 -- End translate tlogs and send to AuditWorks 
+
+Mon Dec 01 23:51:03 2014 -- Begin exclude tlogs from mainframe upload 
+
+Mon Dec 01 23:51:03 2014 -- End exclude tlogs from mainframe upload 
+
+Mon Dec 01 23:51:03 2014 -- Begin deleting ProcessTlogs.flg 
+
+Mon Dec 01 23:51:03 2014 -- End deleting ProcessTlogs.flg 
+
+Mon Dec 01 23:51:04 2014 -- End Program 
+ 
+
+Mon Dec 01 23:56:00 2014 -- Begin Program 
+
+Mon Dec 01 23:56:00 2014 -- Begin adding ProcessTlogs.flg 
+
+Mon Dec 01 23:56:00 2014 -- End adding ProcessTlogs.flg 
+
+Mon Dec 01 23:56:00 2014 -- Begin compose subprogram to decompress Trovato tlogs 
+
+Mon Dec 01 23:56:01 2014 -- End compose subprogram to decompress Trovato tlogs 
+
+Mon Dec 01 23:56:01 2014 -- Begin decompress Trovato tlogs 
+
+Mon Dec 01 23:56:01 2014 -- End decompress Trovato tlogs 
+
+Mon Dec 01 23:56:01 2014 -- Begin check Trovato tlogs 
+
+Mon Dec 01 23:56:01 2014 -- End check Trovato tlogs 
+
+Mon Dec 01 23:56:01 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Mon Dec 01 23:56:01 2014 -- End copy for Wizmail converting 
+
+Mon Dec 01 23:56:01 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Mon Dec 01 23:56:02 2014 -- This has been turned off. The tlogs will simply 
+
+Mon Dec 01 23:56:02 2014 -- End convert Trovato tlogs for ARS format 
+
+Mon Dec 01 23:56:02 2014 -- Begin exclude tlogs from all processing 
+
+Mon Dec 01 23:56:02 2014 -- End exclude tlogs from all processing 
+
+Mon Dec 01 23:56:02 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Mon Dec 01 23:56:02 2014 -- End exclude tlogs from internal (local) processing 
+
+Mon Dec 01 23:56:02 2014 -- Begin exclude tlogs from all processing EXCEPT payroll processing 
+
+Mon Dec 01 23:56:02 2014 -- End exclude tlogs from all processing EXCEPT payroll processing 
+
+Mon Dec 01 23:56:02 2014 -- Begin call TlogUpdater 
+
+Mon Dec 01 23:56:03 2014 -- End call TlogUpdater 
+
+Mon Dec 01 23:56:03 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Mon Dec 01 23:56:03 2014 -- End translate tlogs and send to AuditWorks 
+
+Mon Dec 01 23:56:03 2014 -- Begin exclude tlogs from mainframe upload 
+
+Mon Dec 01 23:56:03 2014 -- End exclude tlogs from mainframe upload 
+
+Mon Dec 01 23:56:03 2014 -- Begin deleting ProcessTlogs.flg 
+
+Mon Dec 01 23:56:03 2014 -- End deleting ProcessTlogs.flg 
+
+Mon Dec 01 23:56:03 2014 -- End Program 
+ 
+
+Tue Dec 02 00:01:01 2014 -- Begin Program 
+
+Tue Dec 02 00:01:01 2014 -- Begin adding ProcessTlogs.flg 
+
+Tue Dec 02 00:01:02 2014 -- End adding ProcessTlogs.flg 
+
+Tue Dec 02 00:01:02 2014 -- Begin compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 00:01:02 2014 -- End compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 00:01:03 2014 -- Begin decompress Trovato tlogs 
+
+Tue Dec 02 00:01:03 2014 -- End decompress Trovato tlogs 
+
+Tue Dec 02 00:01:03 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 00:01:03 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 00:01:03 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 00:01:04 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 00:01:04 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 00:01:04 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 00:01:04 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 00:01:04 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 00:01:05 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 00:01:05 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 00:01:05 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 00:01:05 2014 -- Begin exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 00:01:06 2014 -- End exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 00:01:06 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 00:01:06 2014 -- End call TlogUpdater 
+
+Tue Dec 02 00:01:06 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 00:01:06 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 00:01:06 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 00:01:06 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 00:01:07 2014 -- Begin deleting ProcessTlogs.flg 
+
+Tue Dec 02 00:01:07 2014 -- End deleting ProcessTlogs.flg 
+
+Tue Dec 02 00:01:07 2014 -- End Program 
+ 
+
+Tue Dec 02 00:06:01 2014 -- Begin Program 
+
+Tue Dec 02 00:06:01 2014 -- Begin adding ProcessTlogs.flg 
+
+Tue Dec 02 00:06:01 2014 -- End adding ProcessTlogs.flg 
+
+Tue Dec 02 00:06:01 2014 -- Begin compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 00:06:02 2014 -- End compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 00:06:02 2014 -- Begin decompress Trovato tlogs 
+
+Tue Dec 02 00:06:02 2014 -- End decompress Trovato tlogs 
+
+Tue Dec 02 00:06:02 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 00:06:02 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 00:06:03 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 00:06:03 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 00:06:03 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 00:06:03 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 00:06:03 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 00:06:03 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 00:06:03 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 00:06:04 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 00:06:04 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 00:06:04 2014 -- Begin exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 00:06:04 2014 -- End exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 00:06:04 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 00:06:04 2014 -- End call TlogUpdater 
+
+Tue Dec 02 00:06:04 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 00:06:04 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 00:06:04 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 00:06:05 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 00:06:05 2014 -- Begin deleting ProcessTlogs.flg 
+
+Tue Dec 02 00:06:05 2014 -- End deleting ProcessTlogs.flg 
+
+Tue Dec 02 00:06:05 2014 -- End Program 
+ 
+
+Tue Dec 02 00:11:01 2014 -- Begin Program 
+
+Tue Dec 02 00:11:01 2014 -- Begin adding ProcessTlogs.flg 
+
+Tue Dec 02 00:11:01 2014 -- End adding ProcessTlogs.flg 
+
+Tue Dec 02 00:11:01 2014 -- Begin compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 00:11:29 2014 -- End compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 00:11:29 2014 -- Begin decompress Trovato tlogs 
+
+Tue Dec 02 00:12:32 2014 -- End decompress Trovato tlogs 
+
+Tue Dec 02 00:12:32 2014 -- Begin check Trovato tlogs 
+*** Good Tlog 'Tlog00001' (852)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00010' (622)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00014' (858)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00019' (390)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00020' (607)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00023' (610)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00024' (705)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00025' (456)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00026' (844)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00027' (556)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00029' (526)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00033' (470)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00035' (453)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00036' (577)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00038' (895)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00041' (714)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00042' (598)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00046' (760)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00051' (700)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00057' (966)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00060' (620)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00063' (622)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00065' (589)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00067' (601)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00069' (628)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00071' (453)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00074' (735)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00076' (798)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00078' (541)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00079' (481)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00080' (775)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00081' (637)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00084' (722)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00088' (585)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Bad Tlog 'Tlog00089' Transaction date '2010-08-27 01:09:31' is too old at record #1318.
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Bad\
+*** Good Tlog 'Tlog00090' (779)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00092' (570)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00094' (657)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00095' (836)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00096' (811)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00099' (767)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00100' (1201)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00101' (961)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00102' (785)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00107' (459)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00110' (495)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00111' (355)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00114' (642)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00115' (707)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00116' (632)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00117' (493)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00122' (538)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00128' (413)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00130' (1021)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00131' (678)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00132' (561)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00136' (852)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00139' (783)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00144' (618)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00145' (1066)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00147' (910)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00151' (516)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00153' (464)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00154' (416)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00161' (764)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00163' (516)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00165' (708)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00167' (369)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00171' (649)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00179' (907)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00181' (857)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00192' (633)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00194' (872)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00196' (547)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00203' (493)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00210' (687)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00211' (848)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00212' (928)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00221' (481)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00222' (450)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00223' (726)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00226' (521)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00227' (724)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00228' (345)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00230' (651)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00231' (793)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00233' (857)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00235' (628)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00237' (756)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00240' (872)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00241' (559)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00247' (416)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00253' (545)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00254' (611)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00258' (591)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00260' (508)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00263' (476)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00269' (1175)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00270' (487)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00272' (532)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00276' (572)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00277' (753)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00281' (864)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00287' (515)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00290' (729)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00296' (799)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00297' (672)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00298' (588)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00304' (1015)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00311' (711)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00313' (780)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00318' (742)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00319' (1029)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00323' (615)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00324' (1048)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00327' (430)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00331' (667)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00340' (885)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00342' (860)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00344' (604)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00354' (785)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00356' (672)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00359' (550)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00370' (553)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00373' (599)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00376' (493)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00380' (516)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00382' (985)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00390' (757)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00398' (620)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00399' (388)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00402' (511)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00404' (388)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00406' (448)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00409' (824)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00412' (744)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00419' (1098)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00422' (725)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00427' (622)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00428' (446)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00429' (708)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00430' (442)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00441' (523)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00447' (586)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00450' (668)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00454' (597)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00456' (527)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00459' (502)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00460' (846)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00462' (777)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00463' (673)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00464' (1009)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00466' (325)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00469' (602)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00470' (772)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00471' (629)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00474' (757)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00483' (671)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00487' (757)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00489' (846)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00493' (582)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00495' (681)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00500' (1000)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00502' (763)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00507' (739)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00508' (1182)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00512' (963)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00515' (418)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00519' (561)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00527' (770)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00530' (676)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00538' (736)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00544' (795)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00545' (450)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00552' (677)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00563' (595)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00566' (537)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00568' (627)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00572' (696)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00575' (613)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00576' (419)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00579' (785)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00582' (599)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00583' (686)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00591' (450)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00596' (479)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00611' (535)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00614' (440)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00616' (497)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00619' (630)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00620' (641)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00621' (975)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00622' (982)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00630' (730)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00631' (600)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00632' (517)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00635' (492)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00637' (436)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00638' (542)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00639' (594)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00645' (473)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00655' (586)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00656' (576)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00657' (759)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00661' (492)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00664' (680)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00676' (517)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00684' (432)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00685' (462)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00687' (504)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00688' (692)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00802' (977)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00804' (474)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02098' (666)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02099' (453)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02100' (868)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02112' (344)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02113' (511)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02115' (660)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02126' (688)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02156' (593)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02158' (544)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02159' (586)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02175' (421)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog03023' (1142)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog03044' (1496)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog03047' (898)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+
+Tue Dec 02 00:12:38 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 00:12:39 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 00:12:39 2014 -- Error copying \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\Tlog*.* to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\WizConvert\ToSMTP 
+
+Tue Dec 02 00:12:39 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 00:12:39 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 00:12:39 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 00:12:40 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 00:12:40 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 00:12:41 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 00:12:41 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 00:12:41 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 00:12:41 2014 -- Begin exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 00:12:41 2014 -- End exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 00:12:41 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 00:17:13 2014 -- End call TlogUpdater 
+
+Tue Dec 02 00:17:13 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 00:17:13 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 00:17:13 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 00:17:13 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 00:17:13 2014 -- Begin deleting ProcessTlogs.flg 
+
+Tue Dec 02 00:17:13 2014 -- End deleting ProcessTlogs.flg 
+
+Tue Dec 02 00:17:13 2014 -- End Program 
+ 
+
+Tue Dec 02 00:21:01 2014 -- Begin Program 
+
+Tue Dec 02 00:21:01 2014 -- Begin adding ProcessTlogs.flg 
+
+Tue Dec 02 00:21:01 2014 -- End adding ProcessTlogs.flg 
+
+Tue Dec 02 00:21:01 2014 -- Begin compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 00:21:13 2014 -- End compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 00:21:14 2014 -- Begin decompress Trovato tlogs 
+
+Tue Dec 02 00:21:49 2014 -- End decompress Trovato tlogs 
+
+Tue Dec 02 00:21:49 2014 -- Begin check Trovato tlogs 
+*** Good Tlog 'Tlog00562' (1010)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00580' (407)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00628' (496)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00662' (622)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00682' (648)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00683' (700)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00800' (825)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00803' (619)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00805' (699)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00807' (754)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00808' (783)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00810' (912)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00812' (579)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00819' (724)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00822' (772)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00824' (541)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00825' (553)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00835' (856)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00836' (513)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00837' (643)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00838' (589)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00840' (492)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00844' (414)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00849' (1044)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00853' (643)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00862' (546)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00870' (453)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00872' (523)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00875' (553)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00876' (657)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00877' (491)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00879' (657)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00886' (732)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00888' (754)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00892' (749)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00997' (10)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02005' (419)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02007' (571)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02011' (549)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02013' (562)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02016' (640)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02018' (768)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02020' (528)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02022' (763)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02024' (412)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02026' (663)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02027' (591)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02030' (555)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02034' (686)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02035' (756)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02037' (479)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02038' (727)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02041' (527)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02042' (414)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02046' (447)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02061' (608)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02062' (601)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02063' (957)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02078' (501)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02080' (486)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02082' (542)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02083' (575)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02084' (807)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02090' (488)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02093' (708)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02094' (419)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02105' (500)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02107' (512)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02109' (675)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02116' (709)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02118' (530)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02139' (734)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02141' (538)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02148' (827)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02151' (761)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02154' (591)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02160' (530)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02166' (669)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02167' (592)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02168' (718)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02170' (397)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02182' (869)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02189' (580)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02193' (394)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02195' (763)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02196' (631)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02913' (743)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02928' (607)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog03028' (1053)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog03038' (1347)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog03039' (1667)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog03046' (1101)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog03049' (1452)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog03050' (1569)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog03056' (1226)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog03066' (1421)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog03069' (973)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+
+Tue Dec 02 00:21:53 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 00:21:53 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 00:21:54 2014 -- Error copying \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\Tlog*.* to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\WizConvert\ToSMTP 
+
+Tue Dec 02 00:21:54 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 00:21:54 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 00:21:54 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 00:21:55 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 00:21:55 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 00:21:55 2014 -- Exclude store #00997 
+
+Tue Dec 02 00:21:55 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 00:21:55 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 00:21:56 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 00:21:56 2014 -- Begin exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 00:21:56 2014 -- End exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 00:21:56 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 00:23:48 2014 -- End call TlogUpdater 
+
+Tue Dec 02 00:23:48 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 00:23:48 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 00:23:48 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 00:23:48 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 00:23:48 2014 -- Begin deleting ProcessTlogs.flg 
+
+Tue Dec 02 00:23:48 2014 -- End deleting ProcessTlogs.flg 
+
+Tue Dec 02 00:23:48 2014 -- End Program 
+ 
+
+Tue Dec 02 00:26:01 2014 -- Begin Program 
+
+Tue Dec 02 00:26:02 2014 -- Begin adding ProcessTlogs.flg 
+
+Tue Dec 02 00:26:02 2014 -- End adding ProcessTlogs.flg 
+
+Tue Dec 02 00:26:02 2014 -- Begin compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 00:26:02 2014 -- End compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 00:26:02 2014 -- Begin decompress Trovato tlogs 
+
+Tue Dec 02 00:26:03 2014 -- End decompress Trovato tlogs 
+
+Tue Dec 02 00:26:03 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 00:26:03 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 00:26:03 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 00:26:04 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 00:26:04 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 00:26:04 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 00:26:04 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 00:26:04 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 00:26:04 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 00:26:04 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 00:26:05 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 00:26:05 2014 -- Begin exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 00:26:05 2014 -- End exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 00:26:05 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 00:26:05 2014 -- End call TlogUpdater 
+
+Tue Dec 02 00:26:05 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 00:26:05 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 00:26:05 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 00:26:05 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 00:26:06 2014 -- Begin deleting ProcessTlogs.flg 
+
+Tue Dec 02 00:26:06 2014 -- End deleting ProcessTlogs.flg 
+
+Tue Dec 02 00:26:06 2014 -- End Program 
+ 
+
+Tue Dec 02 00:31:01 2014 -- Begin Program 
+
+Tue Dec 02 00:31:01 2014 -- Begin adding ProcessTlogs.flg 
+
+Tue Dec 02 00:31:01 2014 -- End adding ProcessTlogs.flg 
+
+Tue Dec 02 00:31:01 2014 -- Begin compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 00:31:01 2014 -- End compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 00:31:01 2014 -- Begin decompress Trovato tlogs 
+
+Tue Dec 02 00:31:02 2014 -- End decompress Trovato tlogs 
+
+Tue Dec 02 00:31:02 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 00:31:02 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 00:31:02 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 00:31:02 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 00:31:02 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 00:31:02 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 00:31:02 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 00:31:02 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 00:31:03 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 00:31:03 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 00:31:03 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 00:31:03 2014 -- Begin exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 00:31:03 2014 -- End exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 00:31:03 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 00:31:03 2014 -- End call TlogUpdater 
+
+Tue Dec 02 00:31:03 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 00:31:04 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 00:31:04 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 00:31:04 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 00:31:04 2014 -- Begin deleting ProcessTlogs.flg 
+
+Tue Dec 02 00:31:04 2014 -- End deleting ProcessTlogs.flg 
+
+Tue Dec 02 00:31:04 2014 -- End Program 
+ 
+
+Tue Dec 02 00:36:00 2014 -- Begin Program 
+
+Tue Dec 02 00:36:00 2014 -- Begin adding ProcessTlogs.flg 
+
+Tue Dec 02 00:36:00 2014 -- End adding ProcessTlogs.flg 
+
+Tue Dec 02 00:36:00 2014 -- Begin compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 00:36:01 2014 -- End compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 00:36:01 2014 -- Begin decompress Trovato tlogs 
+
+Tue Dec 02 00:36:14 2014 -- End decompress Trovato tlogs 
+
+Tue Dec 02 00:36:14 2014 -- Begin check Trovato tlogs 
+*** Good Tlog 'Tlog02087' (733)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+
+Tue Dec 02 00:36:15 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 00:36:15 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 00:36:15 2014 -- Error copying \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\Tlog*.* to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\WizConvert\ToSMTP 
+
+Tue Dec 02 00:36:15 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 00:36:16 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 00:36:16 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 00:36:16 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 00:36:16 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 00:36:16 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 00:36:16 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 00:36:16 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 00:36:17 2014 -- Begin exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 00:36:17 2014 -- End exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 00:36:17 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 00:36:19 2014 -- End call TlogUpdater 
+
+Tue Dec 02 00:36:20 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 00:36:20 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 00:36:20 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 00:36:20 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 00:36:20 2014 -- Begin deleting ProcessTlogs.flg 
+
+Tue Dec 02 00:36:20 2014 -- End deleting ProcessTlogs.flg 
+
+Tue Dec 02 00:36:20 2014 -- End Program 
+ 
+
+Tue Dec 02 00:41:00 2014 -- Begin Program 
+
+Tue Dec 02 00:41:01 2014 -- Begin adding ProcessTlogs.flg 
+
+Tue Dec 02 00:41:01 2014 -- End adding ProcessTlogs.flg 
+
+Tue Dec 02 00:41:01 2014 -- Begin compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 00:41:01 2014 -- End compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 00:41:01 2014 -- Begin decompress Trovato tlogs 
+
+Tue Dec 02 00:41:01 2014 -- End decompress Trovato tlogs 
+
+Tue Dec 02 00:41:01 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 00:41:02 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 00:41:02 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 00:41:02 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 00:41:02 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 00:41:02 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 00:41:02 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 00:41:02 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 00:41:02 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 00:41:03 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 00:41:03 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 00:41:03 2014 -- Begin exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 00:41:03 2014 -- End exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 00:41:03 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 00:41:03 2014 -- End call TlogUpdater 
+
+Tue Dec 02 00:41:03 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 00:41:03 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 00:41:04 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 00:41:04 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 00:41:04 2014 -- Begin deleting ProcessTlogs.flg 
+
+Tue Dec 02 00:41:04 2014 -- End deleting ProcessTlogs.flg 
+
+Tue Dec 02 00:41:04 2014 -- End Program 
+ 
+
+Tue Dec 02 00:46:01 2014 -- Begin Program 
+
+Tue Dec 02 00:46:01 2014 -- Begin adding ProcessTlogs.flg 
+
+Tue Dec 02 00:46:01 2014 -- End adding ProcessTlogs.flg 
+
+Tue Dec 02 00:46:01 2014 -- Begin compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 00:46:01 2014 -- End compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 00:46:01 2014 -- Begin decompress Trovato tlogs 
+
+Tue Dec 02 00:46:02 2014 -- End decompress Trovato tlogs 
+
+Tue Dec 02 00:46:02 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 00:46:02 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 00:46:02 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 00:46:02 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 00:46:02 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 00:46:02 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 00:46:02 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 00:46:03 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 00:46:03 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 00:46:03 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 00:46:03 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 00:46:03 2014 -- Begin exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 00:46:03 2014 -- End exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 00:46:03 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 00:46:03 2014 -- End call TlogUpdater 
+
+Tue Dec 02 00:46:04 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 00:46:04 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 00:46:04 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 00:46:04 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 00:46:04 2014 -- Begin deleting ProcessTlogs.flg 
+
+Tue Dec 02 00:46:04 2014 -- End deleting ProcessTlogs.flg 
+
+Tue Dec 02 00:46:04 2014 -- End Program 
+ 
+
+Tue Dec 02 00:51:01 2014 -- Begin Program 
+
+Tue Dec 02 00:51:01 2014 -- Begin adding ProcessTlogs.flg 
+
+Tue Dec 02 00:51:01 2014 -- End adding ProcessTlogs.flg 
+
+Tue Dec 02 00:51:01 2014 -- Begin compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 00:51:01 2014 -- End compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 00:51:01 2014 -- Begin decompress Trovato tlogs 
+
+Tue Dec 02 00:51:02 2014 -- End decompress Trovato tlogs 
+
+Tue Dec 02 00:51:02 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 00:51:02 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 00:51:02 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 00:51:02 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 00:51:02 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 00:51:02 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 00:51:02 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 00:51:03 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 00:51:03 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 00:51:03 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 00:51:03 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 00:51:03 2014 -- Begin exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 00:51:03 2014 -- End exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 00:51:03 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 00:51:03 2014 -- End call TlogUpdater 
+
+Tue Dec 02 00:51:04 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 00:51:04 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 00:51:04 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 00:51:04 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 00:51:04 2014 -- Begin deleting ProcessTlogs.flg 
+
+Tue Dec 02 00:51:04 2014 -- End deleting ProcessTlogs.flg 
+
+Tue Dec 02 00:51:04 2014 -- End Program 
+ 
+
+Tue Dec 02 00:56:00 2014 -- Begin Program 
+
+Tue Dec 02 00:56:00 2014 -- Begin adding ProcessTlogs.flg 
+
+Tue Dec 02 00:56:01 2014 -- End adding ProcessTlogs.flg 
+
+Tue Dec 02 00:56:01 2014 -- Begin compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 00:56:01 2014 -- End compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 00:56:01 2014 -- Begin decompress Trovato tlogs 
+
+Tue Dec 02 00:56:01 2014 -- End decompress Trovato tlogs 
+
+Tue Dec 02 00:56:01 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 00:56:02 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 00:56:02 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 00:56:02 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 00:56:02 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 00:56:02 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 00:56:02 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 00:56:02 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 00:56:02 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 00:56:02 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 00:56:03 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 00:56:03 2014 -- Begin exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 00:56:03 2014 -- End exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 00:56:03 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 00:56:03 2014 -- End call TlogUpdater 
+
+Tue Dec 02 00:56:03 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 00:56:03 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 00:56:03 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 00:56:03 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 00:56:03 2014 -- Begin deleting ProcessTlogs.flg 
+
+Tue Dec 02 00:56:04 2014 -- End deleting ProcessTlogs.flg 
+
+Tue Dec 02 00:56:04 2014 -- End Program 
+ 
+
+Tue Dec 02 01:01:01 2014 -- Begin Program 
+
+Tue Dec 02 01:01:01 2014 -- Begin adding ProcessTlogs.flg 
+
+Tue Dec 02 01:01:01 2014 -- End adding ProcessTlogs.flg 
+
+Tue Dec 02 01:01:01 2014 -- Begin compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 01:01:01 2014 -- End compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 01:01:01 2014 -- Begin decompress Trovato tlogs 
+
+Tue Dec 02 01:01:01 2014 -- End decompress Trovato tlogs 
+
+Tue Dec 02 01:01:02 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 01:01:02 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 01:01:02 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 01:01:02 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 01:01:02 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 01:01:02 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 01:01:02 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 01:01:02 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 01:01:03 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 01:01:03 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 01:01:03 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 01:01:03 2014 -- Begin exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 01:01:03 2014 -- End exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 01:01:03 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 01:01:03 2014 -- End call TlogUpdater 
+
+Tue Dec 02 01:01:03 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 01:01:03 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 01:01:03 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 01:01:04 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 01:01:04 2014 -- Begin deleting ProcessTlogs.flg 
+
+Tue Dec 02 01:01:04 2014 -- End deleting ProcessTlogs.flg 
+
+Tue Dec 02 01:01:04 2014 -- End Program 
+ 
+
+Tue Dec 02 01:06:01 2014 -- Begin Program 
+
+Tue Dec 02 01:06:01 2014 -- Begin adding ProcessTlogs.flg 
+
+Tue Dec 02 01:06:01 2014 -- End adding ProcessTlogs.flg 
+
+Tue Dec 02 01:06:01 2014 -- Begin compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 01:06:01 2014 -- End compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 01:06:01 2014 -- Begin decompress Trovato tlogs 
+
+Tue Dec 02 01:06:01 2014 -- End decompress Trovato tlogs 
+
+Tue Dec 02 01:06:01 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 01:06:02 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 01:06:02 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 01:06:02 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 01:06:02 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 01:06:02 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 01:06:02 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 01:06:02 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 01:06:02 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 01:06:02 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 01:06:03 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 01:06:03 2014 -- Begin exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 01:06:03 2014 -- End exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 01:06:03 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 01:06:03 2014 -- End call TlogUpdater 
+
+Tue Dec 02 01:06:03 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 01:06:03 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 01:06:03 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 01:06:03 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 01:06:03 2014 -- Begin deleting ProcessTlogs.flg 
+
+Tue Dec 02 01:06:03 2014 -- End deleting ProcessTlogs.flg 
+
+Tue Dec 02 01:06:04 2014 -- End Program 
+ 
+
+Tue Dec 02 01:11:02 2014 -- Begin Program 
+
+Tue Dec 02 01:11:02 2014 -- Begin adding ProcessTlogs.flg 
+
+Tue Dec 02 01:11:02 2014 -- End adding ProcessTlogs.flg 
+
+Tue Dec 02 01:11:02 2014 -- Begin compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 01:11:22 2014 -- End compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 01:11:23 2014 -- Begin decompress Trovato tlogs 
+
+Tue Dec 02 01:12:02 2014 -- End decompress Trovato tlogs 
+
+Tue Dec 02 01:12:02 2014 -- Begin check Trovato tlogs 
+*** Good Tlog 'Tlog00012' (783)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00031' (987)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00037' (555)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00039' (741)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00048' (954)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00052' (736)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00056' (504)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00059' (668)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00075' (670)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00077' (963)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00085' (641)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00087' (835)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00109' (648)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00113' (573)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00118' (506)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00119' (858)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00120' (625)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00141' (685)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00159' (898)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00160' (813)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00172' (441)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00177' (479)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00187' (713)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00189' (496)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00193' (696)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00197' (801)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00204' (1047)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00205' (829)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00214' (733)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00215' (1065)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00220' (728)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00232' (870)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00236' (810)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00239' (692)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00242' (920)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00244' (592)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00245' (824)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00250' (848)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00262' (583)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00265' (471)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00271' (564)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00279' (657)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00286' (494)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00291' (507)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00303' (564)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00306' (624)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00314' (748)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00315' (529)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00320' (700)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00326' (409)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00329' (335)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00337' (582)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00339' (638)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00346' (498)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00349' (711)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00351' (1124)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00355' (858)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00366' (565)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00371' (672)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00375' (787)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00388' (1019)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00391' (445)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00393' (808)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00396' (572)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00403' (785)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00411' (690)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00413' (736)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00414' (1093)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00420' (528)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00421' (994)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00440' (756)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00446' (830)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00457' (782)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00467' (417)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00479' (795)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00491' (803)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00499' (619)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00501' (748)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00503' (456)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00505' (602)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00506' (698)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00509' (613)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00513' (649)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00524' (660)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00532' (972)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00541' (543)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00547' (596)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00556' (912)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00557' (735)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00564' (640)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00573' (626)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00578' (721)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00581' (421)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00594' (423)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00598' (741)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00599' (711)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00603' (573)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00604' (1245)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00623' (525)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00625' (536)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00626' (624)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00633' (892)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00641' (564)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00650' (508)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00652' (575)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00653' (1256)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00654' (647)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00658' (626)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00660' (446)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00665' (1133)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00669' (506)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00671' (551)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00672' (1080)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00675' (480)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00680' (585)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00686' (602)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00806' (298)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00813' (812)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00814' (603)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00821' (670)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00827' (741)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00839' (716)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00842' (406)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00863' (632)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00885' (476)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00889' (598)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00890' (516)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02012' (581)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02036' (618)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02040' (769)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02048' (489)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02056' (528)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02057' (644)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02065' (649)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02068' (588)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02072' (593)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02081' (642)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02085' (429)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02088' (581)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02095' (513)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02096' (668)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02097' (402)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02101' (516)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02102' (803)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02108' (986)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02110' (717)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02111' (672)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02114' (488)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02119' (445)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02120' (659)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02123' (700)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02124' (547)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02125' (710)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02130' (527)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02136' (252)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02143' (604)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02152' (454)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02157' (545)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02183' (745)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02187' (423)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02190' (626)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02194' (486)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02197' (402)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02304' (855)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02305' (513)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02306' (429)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog03055' (1382)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog03061' (817)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog03063' (1268)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+
+Tue Dec 02 01:12:06 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 01:12:06 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 01:12:07 2014 -- Error copying \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\Tlog*.* to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\WizConvert\ToSMTP 
+
+Tue Dec 02 01:12:07 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 01:12:07 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 01:12:08 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 01:12:08 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 01:12:08 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 01:12:09 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 01:12:09 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 01:12:09 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 01:12:09 2014 -- Begin exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 01:12:09 2014 -- End exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 01:12:09 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 01:14:59 2014 -- End call TlogUpdater 
+
+Tue Dec 02 01:14:59 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 01:14:59 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 01:14:59 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 01:14:59 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 01:14:59 2014 -- Begin deleting ProcessTlogs.flg 
+
+Tue Dec 02 01:14:59 2014 -- End deleting ProcessTlogs.flg 
+
+Tue Dec 02 01:15:00 2014 -- End Program 
+ 
+
+Tue Dec 02 01:16:01 2014 -- Begin Program 
+
+Tue Dec 02 01:16:01 2014 -- Begin adding ProcessTlogs.flg 
+
+Tue Dec 02 01:16:01 2014 -- End adding ProcessTlogs.flg 
+
+Tue Dec 02 01:16:01 2014 -- Begin compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 01:16:02 2014 -- End compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 01:16:02 2014 -- Begin decompress Trovato tlogs 
+
+Tue Dec 02 01:16:05 2014 -- End decompress Trovato tlogs 
+
+Tue Dec 02 01:16:05 2014 -- Begin check Trovato tlogs 
+*** Good Tlog 'Tlog02121' (684)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02133' (398)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02135' (450)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02150' (535)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02177' (399)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02178' (391)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02179' (397)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog03058' (888)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog03059' (812)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog03060' (714)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+
+Tue Dec 02 01:16:05 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 01:16:05 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 01:16:06 2014 -- Error copying \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\Tlog*.* to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\WizConvert\ToSMTP 
+
+Tue Dec 02 01:16:06 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 01:16:06 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 01:16:06 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 01:16:06 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 01:16:06 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 01:16:06 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 01:16:07 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 01:16:07 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 01:16:07 2014 -- Begin exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 01:16:07 2014 -- End exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 01:16:07 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 01:16:16 2014 -- End call TlogUpdater 
+
+Tue Dec 02 01:16:16 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 01:16:17 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 01:16:17 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 01:16:17 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 01:16:17 2014 -- Begin deleting ProcessTlogs.flg 
+
+Tue Dec 02 01:16:17 2014 -- End deleting ProcessTlogs.flg 
+
+Tue Dec 02 01:16:17 2014 -- End Program 
+ 
+
+Tue Dec 02 01:21:01 2014 -- Begin Program 
+
+Tue Dec 02 01:21:01 2014 -- Begin adding ProcessTlogs.flg 
+
+Tue Dec 02 01:21:01 2014 -- End adding ProcessTlogs.flg 
+
+Tue Dec 02 01:21:01 2014 -- Begin compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 01:21:01 2014 -- End compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 01:21:01 2014 -- Begin decompress Trovato tlogs 
+
+Tue Dec 02 01:21:02 2014 -- End decompress Trovato tlogs 
+
+Tue Dec 02 01:21:02 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 01:21:02 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 01:21:02 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 01:21:02 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 01:21:02 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 01:21:02 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 01:21:02 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 01:21:02 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 01:21:03 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 01:21:03 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 01:21:03 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 01:21:03 2014 -- Begin exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 01:21:03 2014 -- End exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 01:21:03 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 01:21:03 2014 -- End call TlogUpdater 
+
+Tue Dec 02 01:21:04 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 01:21:04 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 01:21:04 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 01:21:04 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 01:21:04 2014 -- Begin deleting ProcessTlogs.flg 
+
+Tue Dec 02 01:21:04 2014 -- End deleting ProcessTlogs.flg 
+
+Tue Dec 02 01:21:04 2014 -- End Program 
+ 
+
+Tue Dec 02 01:26:01 2014 -- Begin Program 
+
+Tue Dec 02 01:26:01 2014 -- Begin adding ProcessTlogs.flg 
+
+Tue Dec 02 01:26:01 2014 -- End adding ProcessTlogs.flg 
+
+Tue Dec 02 01:26:01 2014 -- Begin compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 01:26:01 2014 -- End compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 01:26:01 2014 -- Begin decompress Trovato tlogs 
+
+Tue Dec 02 01:26:02 2014 -- End decompress Trovato tlogs 
+
+Tue Dec 02 01:26:02 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 01:26:02 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 01:26:02 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 01:26:02 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 01:26:02 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 01:26:02 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 01:26:02 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 01:26:02 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 01:26:03 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 01:26:03 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 01:26:03 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 01:26:03 2014 -- Begin exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 01:26:03 2014 -- End exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 01:26:03 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 01:26:03 2014 -- End call TlogUpdater 
+
+Tue Dec 02 01:26:03 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 01:26:03 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 01:26:03 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 01:26:04 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 01:26:04 2014 -- Begin deleting ProcessTlogs.flg 
+
+Tue Dec 02 01:26:04 2014 -- End deleting ProcessTlogs.flg 
+
+Tue Dec 02 01:26:04 2014 -- End Program 
+ 
+
+Tue Dec 02 01:31:00 2014 -- Begin Program 
+
+Tue Dec 02 01:31:00 2014 -- Begin adding ProcessTlogs.flg 
+
+Tue Dec 02 01:31:01 2014 -- End adding ProcessTlogs.flg 
+
+Tue Dec 02 01:31:01 2014 -- Begin compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 01:31:01 2014 -- End compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 01:31:01 2014 -- Begin decompress Trovato tlogs 
+
+Tue Dec 02 01:31:01 2014 -- End decompress Trovato tlogs 
+
+Tue Dec 02 01:31:01 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 01:31:02 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 01:31:02 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 01:31:02 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 01:31:02 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 01:31:02 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 01:31:02 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 01:31:02 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 01:31:02 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 01:31:02 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 01:31:03 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 01:31:03 2014 -- Begin exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 01:31:03 2014 -- End exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 01:31:03 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 01:31:03 2014 -- End call TlogUpdater 
+
+Tue Dec 02 01:31:03 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 01:31:03 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 01:31:03 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 01:31:03 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 01:31:04 2014 -- Begin deleting ProcessTlogs.flg 
+
+Tue Dec 02 01:31:04 2014 -- End deleting ProcessTlogs.flg 
+
+Tue Dec 02 01:31:04 2014 -- End Program 
+ 
+
+Tue Dec 02 01:36:00 2014 -- Begin Program 
+
+Tue Dec 02 01:36:00 2014 -- Begin adding ProcessTlogs.flg 
+
+Tue Dec 02 01:36:00 2014 -- End adding ProcessTlogs.flg 
+
+Tue Dec 02 01:36:00 2014 -- Begin compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 01:36:01 2014 -- End compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 01:36:01 2014 -- Begin decompress Trovato tlogs 
+
+Tue Dec 02 01:36:01 2014 -- End decompress Trovato tlogs 
+
+Tue Dec 02 01:36:01 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 01:36:01 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 01:36:01 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 01:36:01 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 01:36:01 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 01:36:01 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 01:36:02 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 01:36:02 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 01:36:02 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 01:36:02 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 01:36:02 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 01:36:02 2014 -- Begin exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 01:36:02 2014 -- End exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 01:36:03 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 01:36:03 2014 -- End call TlogUpdater 
+
+Tue Dec 02 01:36:03 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 01:36:03 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 01:36:03 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 01:36:03 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 01:36:03 2014 -- Begin deleting ProcessTlogs.flg 
+
+Tue Dec 02 01:36:03 2014 -- End deleting ProcessTlogs.flg 
+
+Tue Dec 02 01:36:03 2014 -- End Program 
+ 
+
+Tue Dec 02 01:41:00 2014 -- Begin Program 
+
+Tue Dec 02 01:41:01 2014 -- Begin adding ProcessTlogs.flg 
+
+Tue Dec 02 01:41:01 2014 -- End adding ProcessTlogs.flg 
+
+Tue Dec 02 01:41:01 2014 -- Begin compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 01:41:01 2014 -- End compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 01:41:01 2014 -- Begin decompress Trovato tlogs 
+
+Tue Dec 02 01:41:01 2014 -- End decompress Trovato tlogs 
+
+Tue Dec 02 01:41:01 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 01:41:02 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 01:41:02 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 01:41:02 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 01:41:02 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 01:41:03 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 01:41:03 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 01:41:03 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 01:41:03 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 01:41:04 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 01:41:04 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 01:41:04 2014 -- Begin exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 01:41:04 2014 -- End exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 01:41:04 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 01:41:04 2014 -- End call TlogUpdater 
+
+Tue Dec 02 01:41:04 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 01:41:04 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 01:41:04 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 01:41:05 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 01:41:05 2014 -- Begin deleting ProcessTlogs.flg 
+
+Tue Dec 02 01:41:05 2014 -- End deleting ProcessTlogs.flg 
+
+Tue Dec 02 01:41:05 2014 -- End Program 
+ 
+
+Tue Dec 02 01:46:00 2014 -- Begin Program 
+
+Tue Dec 02 01:46:00 2014 -- Begin adding ProcessTlogs.flg 
+
+Tue Dec 02 01:46:00 2014 -- End adding ProcessTlogs.flg 
+
+Tue Dec 02 01:46:00 2014 -- Begin compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 01:46:01 2014 -- End compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 01:46:01 2014 -- Begin decompress Trovato tlogs 
+
+Tue Dec 02 01:46:01 2014 -- End decompress Trovato tlogs 
+
+Tue Dec 02 01:46:01 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 01:46:01 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 01:46:01 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 01:46:01 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 01:46:01 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 01:46:01 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 01:46:02 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 01:46:02 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 01:46:02 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 01:46:02 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 01:46:02 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 01:46:02 2014 -- Begin exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 01:46:02 2014 -- End exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 01:46:02 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 01:46:02 2014 -- End call TlogUpdater 
+
+Tue Dec 02 01:46:03 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 01:46:03 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 01:46:03 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 01:46:03 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 01:46:03 2014 -- Begin deleting ProcessTlogs.flg 
+
+Tue Dec 02 01:46:03 2014 -- End deleting ProcessTlogs.flg 
+
+Tue Dec 02 01:46:03 2014 -- End Program 
+ 
+
+Tue Dec 02 01:51:01 2014 -- Begin Program 
+
+Tue Dec 02 01:51:01 2014 -- Begin adding ProcessTlogs.flg 
+
+Tue Dec 02 01:51:01 2014 -- End adding ProcessTlogs.flg 
+
+Tue Dec 02 01:51:01 2014 -- Begin compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 01:51:02 2014 -- End compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 01:51:02 2014 -- Begin decompress Trovato tlogs 
+
+Tue Dec 02 01:51:02 2014 -- End decompress Trovato tlogs 
+
+Tue Dec 02 01:51:02 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 01:51:02 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 01:51:02 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 01:51:03 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 01:51:03 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 01:51:03 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 01:51:03 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 01:51:03 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 01:51:03 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 01:51:03 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 01:51:03 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 01:51:03 2014 -- Begin exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 01:51:04 2014 -- End exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 01:51:04 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 01:51:04 2014 -- End call TlogUpdater 
+
+Tue Dec 02 01:51:04 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 01:51:04 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 01:51:04 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 01:51:04 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 01:51:04 2014 -- Begin deleting ProcessTlogs.flg 
+
+Tue Dec 02 01:51:04 2014 -- End deleting ProcessTlogs.flg 
+
+Tue Dec 02 01:51:04 2014 -- End Program 
+ 
+
+Tue Dec 02 01:56:00 2014 -- Begin Program 
+
+Tue Dec 02 01:56:01 2014 -- Begin adding ProcessTlogs.flg 
+
+Tue Dec 02 01:56:01 2014 -- End adding ProcessTlogs.flg 
+
+Tue Dec 02 01:56:01 2014 -- Begin compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 01:56:01 2014 -- End compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 01:56:01 2014 -- Begin decompress Trovato tlogs 
+
+Tue Dec 02 01:56:01 2014 -- End decompress Trovato tlogs 
+
+Tue Dec 02 01:56:01 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 01:56:02 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 01:56:02 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 01:56:02 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 01:56:02 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 01:56:02 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 01:56:02 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 01:56:02 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 01:56:02 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 01:56:03 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 01:56:03 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 01:56:03 2014 -- Begin exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 01:56:03 2014 -- End exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 01:56:03 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 01:56:03 2014 -- End call TlogUpdater 
+
+Tue Dec 02 01:56:03 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 01:56:03 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 01:56:03 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 01:56:03 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 01:56:03 2014 -- Begin deleting ProcessTlogs.flg 
+
+Tue Dec 02 01:56:04 2014 -- End deleting ProcessTlogs.flg 
+
+Tue Dec 02 01:56:04 2014 -- End Program 
+ 
+
+Tue Dec 02 02:01:01 2014 -- Begin Program 
+
+Tue Dec 02 02:01:01 2014 -- Begin adding ProcessTlogs.flg 
+
+Tue Dec 02 02:01:01 2014 -- End adding ProcessTlogs.flg 
+
+Tue Dec 02 02:01:02 2014 -- Begin compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 02:01:02 2014 -- End compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 02:01:02 2014 -- Begin decompress Trovato tlogs 
+
+Tue Dec 02 02:01:03 2014 -- End decompress Trovato tlogs 
+
+Tue Dec 02 02:01:03 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 02:01:03 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 02:01:04 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 02:01:04 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 02:01:04 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 02:01:04 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 02:01:04 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 02:01:04 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 02:01:05 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 02:01:05 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 02:01:05 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 02:01:05 2014 -- Begin exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 02:01:05 2014 -- End exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 02:01:05 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 02:01:05 2014 -- End call TlogUpdater 
+
+Tue Dec 02 02:01:06 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 02:01:06 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 02:01:06 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 02:01:06 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 02:01:06 2014 -- Begin deleting ProcessTlogs.flg 
+
+Tue Dec 02 02:01:06 2014 -- End deleting ProcessTlogs.flg 
+
+Tue Dec 02 02:01:06 2014 -- End Program 
+ 
+
+Tue Dec 02 02:06:01 2014 -- Begin Program 
+
+Tue Dec 02 02:06:01 2014 -- Begin adding ProcessTlogs.flg 
+
+Tue Dec 02 02:06:01 2014 -- End adding ProcessTlogs.flg 
+
+Tue Dec 02 02:06:01 2014 -- Begin compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 02:06:01 2014 -- End compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 02:06:02 2014 -- Begin decompress Trovato tlogs 
+
+Tue Dec 02 02:06:03 2014 -- End decompress Trovato tlogs 
+
+Tue Dec 02 02:06:04 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 02:06:04 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 02:06:04 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 02:06:04 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 02:06:05 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 02:06:05 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 02:06:05 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 02:06:05 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 02:06:05 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 02:06:06 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 02:06:06 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 02:06:06 2014 -- Begin exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 02:06:06 2014 -- End exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 02:06:06 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 02:06:06 2014 -- End call TlogUpdater 
+
+Tue Dec 02 02:06:06 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 02:06:07 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 02:06:07 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 02:06:07 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 02:06:07 2014 -- Begin deleting ProcessTlogs.flg 
+
+Tue Dec 02 02:06:07 2014 -- End deleting ProcessTlogs.flg 
+
+Tue Dec 02 02:06:07 2014 -- End Program 
+ 
+
+Tue Dec 02 02:11:01 2014 -- Begin Program 
+
+Tue Dec 02 02:11:01 2014 -- Begin adding ProcessTlogs.flg 
+
+Tue Dec 02 02:11:01 2014 -- End adding ProcessTlogs.flg 
+
+Tue Dec 02 02:11:01 2014 -- Begin compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 02:11:08 2014 -- End compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 02:11:08 2014 -- Begin decompress Trovato tlogs 
+
+Tue Dec 02 02:11:21 2014 -- End decompress Trovato tlogs 
+
+Tue Dec 02 02:11:21 2014 -- Begin check Trovato tlogs 
+*** Good Tlog 'Tlog00032' (628)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00034' (1121)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00055' (780)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00070' (526)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00164' (567)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00176' (636)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00183' (790)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00216' (993)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00219' (726)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00264' (728)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00266' (980)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00285' (453)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00381' (469)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00383' (557)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00385' (745)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00386' (815)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00387' (505)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00445' (800)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00498' (499)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00560' (612)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00589' (591)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00613' (629)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00627' (538)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00629' (602)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00663' (638)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00681' (850)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00834' (1000)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02010' (550)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02019' (599)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02021' (692)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02032' (396)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02047' (837)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02053' (547)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02092' (964)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02142' (639)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02149' (704)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02163' (582)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02164' (603)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02173' (340)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02174' (672)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02176' (618)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02184' (509)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02188' (697)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02191' (590)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02937' (605)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog03021' (1173)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog03025' (1871)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog03042' (1384)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog03048' (889)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog03053' (1386)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog03054' (764)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog03062' (837)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog03065' (1486)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+
+Tue Dec 02 02:11:22 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 02:11:22 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 02:11:22 2014 -- Error copying \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\Tlog*.* to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\WizConvert\ToSMTP 
+
+Tue Dec 02 02:11:23 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 02:11:23 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 02:11:23 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 02:11:23 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 02:11:23 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 02:11:23 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 02:11:23 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 02:11:24 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 02:11:24 2014 -- Begin exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 02:11:24 2014 -- End exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 02:11:24 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 02:12:25 2014 -- End call TlogUpdater 
+
+Tue Dec 02 02:12:25 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 02:12:25 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 02:12:25 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 02:12:25 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 02:12:25 2014 -- Begin deleting ProcessTlogs.flg 
+
+Tue Dec 02 02:12:26 2014 -- End deleting ProcessTlogs.flg 
+
+Tue Dec 02 02:12:26 2014 -- End Program 
+ 
+
+Tue Dec 02 02:16:01 2014 -- Begin Program 
+
+Tue Dec 02 02:16:01 2014 -- Begin adding ProcessTlogs.flg 
+
+Tue Dec 02 02:16:01 2014 -- End adding ProcessTlogs.flg 
+
+Tue Dec 02 02:16:01 2014 -- Begin compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 02:16:01 2014 -- End compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 02:16:01 2014 -- Begin decompress Trovato tlogs 
+
+Tue Dec 02 02:16:02 2014 -- End decompress Trovato tlogs 
+
+Tue Dec 02 02:16:02 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 02:16:02 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 02:16:02 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 02:16:02 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 02:16:02 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 02:16:02 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 02:16:02 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 02:16:02 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 02:16:03 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 02:16:03 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 02:16:03 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 02:16:03 2014 -- Begin exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 02:16:03 2014 -- End exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 02:16:03 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 02:16:03 2014 -- End call TlogUpdater 
+
+Tue Dec 02 02:16:03 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 02:16:03 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 02:16:03 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 02:16:04 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 02:16:04 2014 -- Begin deleting ProcessTlogs.flg 
+
+Tue Dec 02 02:16:04 2014 -- End deleting ProcessTlogs.flg 
+
+Tue Dec 02 02:16:04 2014 -- End Program 
+ 
+
+Tue Dec 02 02:21:01 2014 -- Begin Program 
+
+Tue Dec 02 02:21:01 2014 -- Begin adding ProcessTlogs.flg 
+
+Tue Dec 02 02:21:02 2014 -- End adding ProcessTlogs.flg 
+
+Tue Dec 02 02:21:02 2014 -- Begin compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 02:21:02 2014 -- End compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 02:21:02 2014 -- Begin decompress Trovato tlogs 
+
+Tue Dec 02 02:21:02 2014 -- End decompress Trovato tlogs 
+
+Tue Dec 02 02:21:02 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 02:21:03 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 02:21:03 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 02:21:03 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 02:21:03 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 02:21:03 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 02:21:03 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 02:21:03 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 02:21:03 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 02:21:04 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 02:21:04 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 02:21:04 2014 -- Begin exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 02:21:04 2014 -- End exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 02:21:04 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 02:21:04 2014 -- End call TlogUpdater 
+
+Tue Dec 02 02:21:04 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 02:21:04 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 02:21:05 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 02:21:05 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 02:21:05 2014 -- Begin deleting ProcessTlogs.flg 
+
+Tue Dec 02 02:21:05 2014 -- End deleting ProcessTlogs.flg 
+
+Tue Dec 02 02:21:05 2014 -- End Program 
+ 
+
+Tue Dec 02 02:26:01 2014 -- Begin Program 
+
+Tue Dec 02 02:26:01 2014 -- Begin adding ProcessTlogs.flg 
+
+Tue Dec 02 02:26:01 2014 -- End adding ProcessTlogs.flg 
+
+Tue Dec 02 02:26:01 2014 -- Begin compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 02:26:01 2014 -- End compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 02:26:01 2014 -- Begin decompress Trovato tlogs 
+
+Tue Dec 02 02:26:01 2014 -- End decompress Trovato tlogs 
+
+Tue Dec 02 02:26:02 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 02:26:02 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 02:26:02 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 02:26:02 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 02:26:02 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 02:26:02 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 02:26:02 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 02:26:02 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 02:26:03 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 02:26:03 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 02:26:03 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 02:26:03 2014 -- Begin exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 02:26:03 2014 -- End exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 02:26:03 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 02:26:03 2014 -- End call TlogUpdater 
+
+Tue Dec 02 02:26:03 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 02:26:03 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 02:26:03 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 02:26:03 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 02:26:03 2014 -- Begin deleting ProcessTlogs.flg 
+
+Tue Dec 02 02:26:04 2014 -- End deleting ProcessTlogs.flg 
+
+Tue Dec 02 02:26:04 2014 -- End Program 
+ 
+
+Tue Dec 02 02:31:00 2014 -- Begin Program 
+
+Tue Dec 02 02:31:00 2014 -- Begin adding ProcessTlogs.flg 
+
+Tue Dec 02 02:31:01 2014 -- End adding ProcessTlogs.flg 
+
+Tue Dec 02 02:31:01 2014 -- Begin compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 02:31:01 2014 -- End compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 02:31:01 2014 -- Begin decompress Trovato tlogs 
+
+Tue Dec 02 02:31:01 2014 -- End decompress Trovato tlogs 
+
+Tue Dec 02 02:31:01 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 02:31:01 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 02:31:01 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 02:31:02 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 02:31:02 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 02:31:02 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 02:31:02 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 02:31:02 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 02:31:02 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 02:31:02 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 02:31:02 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 02:31:02 2014 -- Begin exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 02:31:03 2014 -- End exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 02:31:03 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 02:31:03 2014 -- End call TlogUpdater 
+
+Tue Dec 02 02:31:03 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 02:31:03 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 02:31:03 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 02:31:03 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 02:31:03 2014 -- Begin deleting ProcessTlogs.flg 
+
+Tue Dec 02 02:31:03 2014 -- End deleting ProcessTlogs.flg 
+
+Tue Dec 02 02:31:04 2014 -- End Program 
+ 
+
+Tue Dec 02 02:36:00 2014 -- Begin Program 
+
+Tue Dec 02 02:36:00 2014 -- Begin adding ProcessTlogs.flg 
+
+Tue Dec 02 02:36:00 2014 -- End adding ProcessTlogs.flg 
+
+Tue Dec 02 02:36:00 2014 -- Begin compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 02:36:01 2014 -- End compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 02:36:01 2014 -- Begin decompress Trovato tlogs 
+
+Tue Dec 02 02:36:01 2014 -- End decompress Trovato tlogs 
+
+Tue Dec 02 02:36:01 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 02:36:01 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 02:36:01 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 02:36:01 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 02:36:01 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 02:36:01 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 02:36:02 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 02:36:02 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 02:36:02 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 02:36:02 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 02:36:02 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 02:36:02 2014 -- Begin exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 02:36:02 2014 -- End exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 02:36:02 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 02:36:03 2014 -- End call TlogUpdater 
+
+Tue Dec 02 02:36:03 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 02:36:03 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 02:36:03 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 02:36:03 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 02:36:03 2014 -- Begin deleting ProcessTlogs.flg 
+
+Tue Dec 02 02:36:03 2014 -- End deleting ProcessTlogs.flg 
+
+Tue Dec 02 02:36:03 2014 -- End Program 
+ 
+
+Tue Dec 02 02:41:00 2014 -- Begin Program 
+
+Tue Dec 02 02:41:01 2014 -- Begin adding ProcessTlogs.flg 
+
+Tue Dec 02 02:41:01 2014 -- End adding ProcessTlogs.flg 
+
+Tue Dec 02 02:41:01 2014 -- Begin compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 02:41:01 2014 -- End compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 02:41:01 2014 -- Begin decompress Trovato tlogs 
+
+Tue Dec 02 02:41:01 2014 -- End decompress Trovato tlogs 
+
+Tue Dec 02 02:41:01 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 02:41:01 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 02:41:02 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 02:41:02 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 02:41:02 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 02:41:02 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 02:41:02 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 02:41:02 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 02:41:02 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 02:41:02 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 02:41:02 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 02:41:03 2014 -- Begin exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 02:41:03 2014 -- End exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 02:41:03 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 02:41:03 2014 -- End call TlogUpdater 
+
+Tue Dec 02 02:41:03 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 02:41:03 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 02:41:03 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 02:41:03 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 02:41:03 2014 -- Begin deleting ProcessTlogs.flg 
+
+Tue Dec 02 02:41:03 2014 -- End deleting ProcessTlogs.flg 
+
+Tue Dec 02 02:41:04 2014 -- End Program 
+ 
+
+Tue Dec 02 02:46:00 2014 -- Begin Program 
+
+Tue Dec 02 02:46:00 2014 -- Begin adding ProcessTlogs.flg 
+
+Tue Dec 02 02:46:00 2014 -- End adding ProcessTlogs.flg 
+
+Tue Dec 02 02:46:00 2014 -- Begin compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 02:46:01 2014 -- End compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 02:46:01 2014 -- Begin decompress Trovato tlogs 
+
+Tue Dec 02 02:46:01 2014 -- End decompress Trovato tlogs 
+
+Tue Dec 02 02:46:01 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 02:46:01 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 02:46:01 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 02:46:01 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 02:46:01 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 02:46:01 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 02:46:02 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 02:46:02 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 02:46:02 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 02:46:02 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 02:46:02 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 02:46:02 2014 -- Begin exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 02:46:02 2014 -- End exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 02:46:02 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 02:46:02 2014 -- End call TlogUpdater 
+
+Tue Dec 02 02:46:03 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 02:46:03 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 02:46:03 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 02:46:03 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 02:46:03 2014 -- Begin deleting ProcessTlogs.flg 
+
+Tue Dec 02 02:46:03 2014 -- End deleting ProcessTlogs.flg 
+
+Tue Dec 02 02:46:03 2014 -- End Program 
+ 
+
+Tue Dec 02 02:51:00 2014 -- Begin Program 
+
+Tue Dec 02 02:51:01 2014 -- Begin adding ProcessTlogs.flg 
+
+Tue Dec 02 02:51:01 2014 -- End adding ProcessTlogs.flg 
+
+Tue Dec 02 02:51:01 2014 -- Begin compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 02:51:01 2014 -- End compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 02:51:01 2014 -- Begin decompress Trovato tlogs 
+
+Tue Dec 02 02:51:02 2014 -- End decompress Trovato tlogs 
+
+Tue Dec 02 02:51:02 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 02:51:02 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 02:51:02 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 02:51:02 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 02:51:02 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 02:51:02 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 02:51:03 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 02:51:03 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 02:51:03 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 02:51:03 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 02:51:03 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 02:51:03 2014 -- Begin exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 02:51:03 2014 -- End exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 02:51:03 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 02:51:04 2014 -- End call TlogUpdater 
+
+Tue Dec 02 02:51:04 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 02:51:04 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 02:51:04 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 02:51:04 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 02:51:04 2014 -- Begin deleting ProcessTlogs.flg 
+
+Tue Dec 02 02:51:04 2014 -- End deleting ProcessTlogs.flg 
+
+Tue Dec 02 02:51:04 2014 -- End Program 
+ 
+
+Tue Dec 02 02:56:00 2014 -- Begin Program 
+
+Tue Dec 02 02:56:00 2014 -- Begin adding ProcessTlogs.flg 
+
+Tue Dec 02 02:56:01 2014 -- End adding ProcessTlogs.flg 
+
+Tue Dec 02 02:56:01 2014 -- Begin compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 02:56:01 2014 -- End compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 02:56:01 2014 -- Begin decompress Trovato tlogs 
+
+Tue Dec 02 02:56:01 2014 -- End decompress Trovato tlogs 
+
+Tue Dec 02 02:56:01 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 02:56:01 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 02:56:01 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 02:56:02 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 02:56:02 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 02:56:02 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 02:56:02 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 02:56:02 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 02:56:02 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 02:56:02 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 02:56:02 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 02:56:03 2014 -- Begin exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 02:56:03 2014 -- End exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 02:56:03 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 02:56:03 2014 -- End call TlogUpdater 
+
+Tue Dec 02 02:56:03 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 02:56:03 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 02:56:03 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 02:56:04 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 02:56:04 2014 -- Begin deleting ProcessTlogs.flg 
+
+Tue Dec 02 02:56:04 2014 -- End deleting ProcessTlogs.flg 
+
+Tue Dec 02 02:56:04 2014 -- End Program 
+ 
+
+Tue Dec 02 03:01:01 2014 -- Begin Program 
+
+Tue Dec 02 03:01:01 2014 -- Begin adding ProcessTlogs.flg 
+
+Tue Dec 02 03:01:01 2014 -- End adding ProcessTlogs.flg 
+
+Tue Dec 02 03:01:01 2014 -- Begin compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 03:01:01 2014 -- End compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 03:01:01 2014 -- Begin decompress Trovato tlogs 
+
+Tue Dec 02 03:01:01 2014 -- End decompress Trovato tlogs 
+
+Tue Dec 02 03:01:01 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 03:01:02 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 03:01:02 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 03:01:02 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 03:01:02 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 03:01:02 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 03:01:02 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 03:01:02 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 03:01:02 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 03:01:03 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 03:01:03 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 03:01:03 2014 -- Begin exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 03:01:03 2014 -- End exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 03:01:03 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 03:01:03 2014 -- End call TlogUpdater 
+
+Tue Dec 02 03:01:03 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 03:01:03 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 03:01:03 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 03:01:03 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 03:01:03 2014 -- Begin deleting ProcessTlogs.flg 
+
+Tue Dec 02 03:01:04 2014 -- End deleting ProcessTlogs.flg 
+
+Tue Dec 02 03:01:04 2014 -- End Program 
+ 
+
+Tue Dec 02 03:06:00 2014 -- Begin Program 
+
+Tue Dec 02 03:06:01 2014 -- Begin adding ProcessTlogs.flg 
+
+Tue Dec 02 03:06:01 2014 -- End adding ProcessTlogs.flg 
+
+Tue Dec 02 03:06:01 2014 -- Begin compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 03:06:01 2014 -- End compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 03:06:01 2014 -- Begin decompress Trovato tlogs 
+
+Tue Dec 02 03:06:01 2014 -- End decompress Trovato tlogs 
+
+Tue Dec 02 03:06:01 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 03:06:02 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 03:06:02 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 03:06:02 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 03:06:02 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 03:06:02 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 03:06:02 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 03:06:02 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 03:06:02 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 03:06:02 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 03:06:02 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 03:06:03 2014 -- Begin exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 03:06:03 2014 -- End exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 03:06:03 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 03:06:03 2014 -- End call TlogUpdater 
+
+Tue Dec 02 03:06:03 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 03:06:03 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 03:06:03 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 03:06:03 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 03:06:03 2014 -- Begin deleting ProcessTlogs.flg 
+
+Tue Dec 02 03:06:03 2014 -- End deleting ProcessTlogs.flg 
+
+Tue Dec 02 03:06:03 2014 -- End Program 
+ 
+
+Tue Dec 02 03:11:00 2014 -- Begin Program 
+
+Tue Dec 02 03:11:01 2014 -- Begin adding ProcessTlogs.flg 
+
+Tue Dec 02 03:11:01 2014 -- End adding ProcessTlogs.flg 
+
+Tue Dec 02 03:11:01 2014 -- Begin compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 03:11:11 2014 -- End compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 03:11:12 2014 -- Begin decompress Trovato tlogs 
+
+Tue Dec 02 03:11:32 2014 -- End decompress Trovato tlogs 
+
+Tue Dec 02 03:11:32 2014 -- Begin check Trovato tlogs 
+*** Good Tlog 'Tlog00030' (753)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00058' (555)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00082' (926)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00104' (503)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00123' (989)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00125' (707)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00127' (659)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00158' (802)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00256' (862)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00257' (738)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00274' (545)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00289' (561)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00292' (849)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00294' (697)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00300' (807)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00307' (840)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00328' (876)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00334' (884)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00335' (598)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00360' (646)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00384' (646)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00418' (580)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00496' (719)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00516' (681)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00520' (443)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00522' (808)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00525' (713)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00570' (726)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00574' (696)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00595' (673)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00600' (715)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00608' (936)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00609' (648)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00612' (562)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00615' (735)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00618' (662)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00624' (496)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00634' (629)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00640' (1061)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00642' (454)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00644' (489)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00646' (533)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00678' (639)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00721' (509)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00818' (796)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00826' (635)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00828' (516)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00865' (909)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00878' (874)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02029' (780)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02039' (686)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02050' (821)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02054' (667)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02067' (738)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02076' (556)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02077' (734)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02089' (491)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02091' (747)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02106' (718)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02117' (516)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02122' (760)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02127' (611)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02128' (718)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02129' (443)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02131' (729)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02132' (562)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02137' (887)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02140' (703)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02144' (662)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02146' (666)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02147' (847)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02161' (890)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02165' (498)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02169' (512)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02171' (855)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02172' (502)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog02180' (631)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog03004' (1098)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog03013' (1329)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog03022' (1362)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog03026' (975)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog03031' (1148)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog03041' (990)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog03043' (867)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog03045' (778)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog03051' (951)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog03052' (1208)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog03057' (927)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+
+Tue Dec 02 03:11:34 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 03:11:34 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 03:11:35 2014 -- Error copying \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\Tlog*.* to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\WizConvert\ToSMTP 
+
+Tue Dec 02 03:11:35 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 03:11:35 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 03:11:35 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 03:11:35 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 03:11:35 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 03:11:36 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 03:11:36 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 03:11:36 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 03:11:36 2014 -- Begin exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 03:11:36 2014 -- End exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 03:11:36 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 03:13:12 2014 -- End call TlogUpdater 
+
+Tue Dec 02 03:13:13 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 03:13:13 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 03:13:13 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 03:13:13 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 03:13:13 2014 -- Begin deleting ProcessTlogs.flg 
+
+Tue Dec 02 03:13:13 2014 -- End deleting ProcessTlogs.flg 
+
+Tue Dec 02 03:13:13 2014 -- End Program 
+ 
+
+Tue Dec 02 03:16:00 2014 -- Begin Program 
+
+Tue Dec 02 03:16:01 2014 -- Begin adding ProcessTlogs.flg 
+
+Tue Dec 02 03:16:01 2014 -- End adding ProcessTlogs.flg 
+
+Tue Dec 02 03:16:01 2014 -- Begin compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 03:16:01 2014 -- End compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 03:16:01 2014 -- Begin decompress Trovato tlogs 
+
+Tue Dec 02 03:16:01 2014 -- End decompress Trovato tlogs 
+
+Tue Dec 02 03:16:01 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 03:16:01 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 03:16:02 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 03:16:02 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 03:16:02 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 03:16:02 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 03:16:02 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 03:16:02 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 03:16:02 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 03:16:02 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 03:16:02 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 03:16:03 2014 -- Begin exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 03:16:03 2014 -- End exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 03:16:03 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 03:16:03 2014 -- End call TlogUpdater 
+
+Tue Dec 02 03:16:03 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 03:16:03 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 03:16:03 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 03:16:04 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 03:16:04 2014 -- Begin deleting ProcessTlogs.flg 
+
+Tue Dec 02 03:16:04 2014 -- End deleting ProcessTlogs.flg 
+
+Tue Dec 02 03:16:04 2014 -- End Program 
+ 
+
+Tue Dec 02 03:21:01 2014 -- Begin Program 
+
+Tue Dec 02 03:21:01 2014 -- Begin adding ProcessTlogs.flg 
+
+Tue Dec 02 03:21:01 2014 -- End adding ProcessTlogs.flg 
+
+Tue Dec 02 03:21:01 2014 -- Begin compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 03:21:01 2014 -- End compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 03:21:01 2014 -- Begin decompress Trovato tlogs 
+
+Tue Dec 02 03:21:01 2014 -- End decompress Trovato tlogs 
+
+Tue Dec 02 03:21:02 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 03:21:02 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 03:21:02 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 03:21:02 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 03:21:02 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 03:21:02 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 03:21:02 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 03:21:02 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 03:21:02 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 03:21:03 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 03:21:03 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 03:21:03 2014 -- Begin exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 03:21:03 2014 -- End exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 03:21:03 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 03:21:03 2014 -- End call TlogUpdater 
+
+Tue Dec 02 03:21:03 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 03:21:03 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 03:21:03 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 03:21:04 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 03:21:04 2014 -- Begin deleting ProcessTlogs.flg 
+
+Tue Dec 02 03:21:04 2014 -- End deleting ProcessTlogs.flg 
+
+Tue Dec 02 03:21:04 2014 -- End Program 
+ 
+
+Tue Dec 02 03:26:01 2014 -- Begin Program 
+
+Tue Dec 02 03:26:01 2014 -- Begin adding ProcessTlogs.flg 
+
+Tue Dec 02 03:26:01 2014 -- End adding ProcessTlogs.flg 
+
+Tue Dec 02 03:26:01 2014 -- Begin compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 03:26:01 2014 -- End compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 03:26:01 2014 -- Begin decompress Trovato tlogs 
+
+Tue Dec 02 03:26:01 2014 -- End decompress Trovato tlogs 
+
+Tue Dec 02 03:26:01 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 03:26:02 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 03:26:02 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 03:26:02 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 03:26:02 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 03:26:02 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 03:26:02 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 03:26:02 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 03:26:02 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 03:26:02 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 03:26:03 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 03:26:03 2014 -- Begin exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 03:26:03 2014 -- End exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 03:26:03 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 03:26:03 2014 -- End call TlogUpdater 
+
+Tue Dec 02 03:26:03 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 03:26:03 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 03:26:03 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 03:26:03 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 03:26:03 2014 -- Begin deleting ProcessTlogs.flg 
+
+Tue Dec 02 03:26:03 2014 -- End deleting ProcessTlogs.flg 
+
+Tue Dec 02 03:26:04 2014 -- End Program 
+ 
+
+Tue Dec 02 03:31:01 2014 -- Begin Program 
+
+Tue Dec 02 03:31:01 2014 -- Begin adding ProcessTlogs.flg 
+
+Tue Dec 02 03:31:01 2014 -- End adding ProcessTlogs.flg 
+
+Tue Dec 02 03:31:01 2014 -- Begin compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 03:31:01 2014 -- End compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 03:31:02 2014 -- Begin decompress Trovato tlogs 
+
+Tue Dec 02 03:31:02 2014 -- End decompress Trovato tlogs 
+
+Tue Dec 02 03:31:02 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 03:31:02 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 03:31:02 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 03:31:02 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 03:31:02 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 03:31:02 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 03:31:02 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 03:31:03 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 03:31:03 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 03:31:03 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 03:31:03 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 03:31:03 2014 -- Begin exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 03:31:03 2014 -- End exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 03:31:03 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 03:31:03 2014 -- End call TlogUpdater 
+
+Tue Dec 02 03:31:04 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 03:31:04 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 03:31:04 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 03:31:04 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 03:31:04 2014 -- Begin deleting ProcessTlogs.flg 
+
+Tue Dec 02 03:31:04 2014 -- End deleting ProcessTlogs.flg 
+
+Tue Dec 02 03:31:04 2014 -- End Program 
+ 
+
+Tue Dec 02 03:36:01 2014 -- Begin Program 
+
+Tue Dec 02 03:36:01 2014 -- Begin adding ProcessTlogs.flg 
+
+Tue Dec 02 03:36:01 2014 -- End adding ProcessTlogs.flg 
+
+Tue Dec 02 03:36:01 2014 -- Begin compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 03:36:01 2014 -- End compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 03:36:01 2014 -- Begin decompress Trovato tlogs 
+
+Tue Dec 02 03:36:01 2014 -- End decompress Trovato tlogs 
+
+Tue Dec 02 03:36:02 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 03:36:02 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 03:36:02 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 03:36:02 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 03:36:02 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 03:36:02 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 03:36:02 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 03:36:02 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 03:36:03 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 03:36:03 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 03:36:03 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 03:36:03 2014 -- Begin exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 03:36:03 2014 -- End exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 03:36:03 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 03:36:03 2014 -- End call TlogUpdater 
+
+Tue Dec 02 03:36:03 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 03:36:03 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 03:36:03 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 03:36:03 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 03:36:04 2014 -- Begin deleting ProcessTlogs.flg 
+
+Tue Dec 02 03:36:04 2014 -- End deleting ProcessTlogs.flg 
+
+Tue Dec 02 03:36:04 2014 -- End Program 
+ 
+
+Tue Dec 02 03:41:02 2014 -- Begin Program 
+
+Tue Dec 02 03:41:02 2014 -- Begin adding ProcessTlogs.flg 
+
+Tue Dec 02 03:41:02 2014 -- End adding ProcessTlogs.flg 
+
+Tue Dec 02 03:41:03 2014 -- Begin compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 03:41:03 2014 -- End compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 03:41:03 2014 -- Begin decompress Trovato tlogs 
+
+Tue Dec 02 03:41:03 2014 -- End decompress Trovato tlogs 
+
+Tue Dec 02 03:41:03 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 03:41:03 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 03:41:03 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 03:41:03 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 03:41:03 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 03:41:03 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 03:41:04 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 03:41:04 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 03:41:04 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 03:41:04 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 03:41:04 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 03:41:04 2014 -- Begin exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 03:41:04 2014 -- End exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 03:41:04 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 03:41:04 2014 -- End call TlogUpdater 
+
+Tue Dec 02 03:41:05 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 03:41:05 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 03:41:05 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 03:41:05 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 03:41:05 2014 -- Begin deleting ProcessTlogs.flg 
+
+Tue Dec 02 03:41:05 2014 -- End deleting ProcessTlogs.flg 
+
+Tue Dec 02 03:41:05 2014 -- End Program 
+ 
+
+Tue Dec 02 03:46:00 2014 -- Begin Program 
+
+Tue Dec 02 03:46:00 2014 -- Begin adding ProcessTlogs.flg 
+
+Tue Dec 02 03:46:00 2014 -- End adding ProcessTlogs.flg 
+
+Tue Dec 02 03:46:00 2014 -- Begin compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 03:46:01 2014 -- End compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 03:46:01 2014 -- Begin decompress Trovato tlogs 
+
+Tue Dec 02 03:46:01 2014 -- End decompress Trovato tlogs 
+
+Tue Dec 02 03:46:01 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 03:46:01 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 03:46:01 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 03:46:01 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 03:46:01 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 03:46:01 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 03:46:01 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 03:46:01 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 03:46:02 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 03:46:02 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 03:46:02 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 03:46:02 2014 -- Begin exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 03:46:02 2014 -- End exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 03:46:02 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 03:46:02 2014 -- End call TlogUpdater 
+
+Tue Dec 02 03:46:02 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 03:46:02 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 03:46:02 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 03:46:03 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 03:46:03 2014 -- Begin deleting ProcessTlogs.flg 
+
+Tue Dec 02 03:46:03 2014 -- End deleting ProcessTlogs.flg 
+
+Tue Dec 02 03:46:03 2014 -- End Program 
+ 
+
+Tue Dec 02 03:50:12 2014 -- Begin Program 
+
+Tue Dec 02 03:50:12 2014 -- Begin adding ProcessTlogs.flg 
+
+Tue Dec 02 03:50:12 2014 -- End adding ProcessTlogs.flg 
+
+Tue Dec 02 03:50:12 2014 -- Begin compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 03:50:13 2014 -- End compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 03:50:13 2014 -- Begin decompress Trovato tlogs 
+
+Tue Dec 02 03:50:14 2014 -- End decompress Trovato tlogs 
+
+Tue Dec 02 03:50:14 2014 -- Begin check Trovato tlogs 
+*** Good Tlog 'Tlog00168' (619)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00169' (681)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00175' (747)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+*** Good Tlog 'Tlog00372' (891)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\
+
+Tue Dec 02 03:50:14 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 03:50:15 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 03:50:15 2014 -- Error copying \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good\Tlog*.* to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\WizConvert\ToSMTP 
+
+Tue Dec 02 03:50:15 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 03:50:15 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 03:50:15 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 03:50:15 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 03:50:15 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 03:50:15 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 03:50:16 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 03:50:16 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 03:50:16 2014 -- Begin exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 03:50:16 2014 -- End exclude tlogs from all processing EXCEPT payroll processing 
+
+Tue Dec 02 03:50:16 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 03:50:22 2014 -- End call TlogUpdater 
+
+Tue Dec 02 03:50:22 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 03:50:22 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 03:50:22 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 03:50:22 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 03:50:22 2014 -- Begin deleting ProcessTlogs.flg 
+
+Tue Dec 02 03:50:22 2014 -- End deleting ProcessTlogs.flg 
+
+Tue Dec 02 03:50:22 2014 -- End Program 
+
+Tue Dec 02 03:50:22 2014 -- End delete flag file 
+
+Tue Dec 02 03:50:23 2014 -- End Program 

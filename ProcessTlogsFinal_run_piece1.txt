@@ -1,0 +1,11 @@
+:: ProcessTlogsFinal_run.cmd
+::
+:: Dynamically built and executed by ProcessTlogsFinal.cmd
+
+  :: Set variables.
+  @set ERROR_FLAG=FALSE
+  @set WARNING_FLAG=FALSE
+  @set PROG_FOLDER=%POLLING%\Poll\Bin
+  @set LOG_FILE=%PROG_FOLDER%\Logs\ProcessTlogsFinal.log
+  @set ERR_FILE=%PROG_FOLDER%\Logs\ProcessTlogsFinal.err
+

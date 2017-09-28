@@ -1,0 +1,1 @@
+blat %POLLING%\Poll\Bin\PostPollingAlert_RemoveSnapshotNotBegun.txt -subject "Post Polling Delayed (RemoveSnapshot not begun yet)" -to AppDevPOSPollingAlerts@spencergifts.com

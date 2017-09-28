@@ -1,0 +1,1 @@
+blat %POLLING%\Poll\Bin\PrePollingAlert.txt -subject "Pre Polling Not Complete" -to AppDevPOSPollingAlerts@spencergifts.com

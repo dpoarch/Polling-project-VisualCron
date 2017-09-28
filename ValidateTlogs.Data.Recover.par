@@ -1,0 +1,7 @@
+TLOGS = \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\Recover\Tlog*.*
+FORMAT = ARS
+MOVEGOOD = \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\Recover\Good
+MOVEBAD = \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\Recover\Bad
+FEEDBACK = 2
+LOG = \\sgicorp.spencergifts.com\spencergifts\POS\Polling\POll\Bin\Logs\ValidateTlogs.Data.Recover.log
+

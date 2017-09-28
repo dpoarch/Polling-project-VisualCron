@@ -1,0 +1,19 @@
+; This file is used to specify stores whose tlogs should be
+; excluded from some or all tlog processing.
+;
+; List stores to be excluded using the following format:
+;
+;   X NNNNN
+;
+;   X = Exclude type:
+;         A = exclude from all processing
+;         I = exclude from internal (local) processing
+;         U = exclude from upload to the mainframe
+;
+; NOTE: After modifying this file, you must run
+;       BuildTlogExcludeCommands.cmd
+;
+I 00000
+A 00999
+A 00997
+A 20997

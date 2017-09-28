@@ -1,0 +1,3638 @@
+:: CompressStoreMain_run.cmd
+::
+:: Dynamically built and by CompressStoreMail.cmd
+
+  :: Set variables.
+  @set ERROR_FLAG=FALSE
+  @set WARNING_FLAG=FALSE
+  @set PROG_FOLDER=%POLLING%\Poll\Bin
+  @set LOG_FILE=%PROG_FOLDER%\Logs\CompressStoreMail.log
+  @set ERR_FILE=%PROG_FOLDER%\Logs\CompressStoreMail.err
+
+@call :COMPRESS Mail00001 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00003 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00005 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00010 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00012 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00014 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00019 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00020 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00023 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00024 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00025 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00026 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00027 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00029 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00030 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00031 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00032 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00033 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00034 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00035 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00036 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00037 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00038 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00039 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00041 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00042 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00046 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00048 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00049 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00051 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00052 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00055 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00056 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00057 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00058 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00059 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00060 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00063 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00065 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00067 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00069 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00070 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00071 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00074 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00075 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00076 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00077 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00078 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00079 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00080 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00081 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00082 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00084 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00085 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00086 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00087 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00088 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00089 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00090 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00092 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00094 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00095 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00096 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00099 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00100 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00101 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00102 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00104 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00107 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00109 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00110 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00111 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00112 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00113 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00114 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00115 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00116 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00117 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00118 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00119 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00120 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00122 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00123 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00125 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00127 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00128 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00130 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00131 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00132 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00133 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00136 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00139 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00141 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00144 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00145 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00147 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00151 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00153 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00154 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00158 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00159 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00160 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00161 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00163 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00164 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00165 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00167 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00168 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00169 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00171 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00172 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00175 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00176 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00177 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00179 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00181 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00183 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00187 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00189 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00192 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00193 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00194 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00196 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00197 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00203 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00204 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00205 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00210 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00211 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00212 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00214 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00215 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00216 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00219 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00220 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00221 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00222 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00223 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00226 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00227 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00228 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00230 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00231 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00232 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00233 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00235 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00236 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00237 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00239 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00240 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00241 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00242 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00244 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00245 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00247 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00250 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00253 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00254 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00256 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00257 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00258 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00260 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00262 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00263 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00264 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00265 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00266 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00269 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00270 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00271 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00272 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00274 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00276 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00277 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00279 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00281 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00285 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00286 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00287 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00289 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00290 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00291 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00292 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00294 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00296 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00297 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00298 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00300 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00303 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00304 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00306 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00307 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00311 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00313 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00314 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00315 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00318 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00319 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00320 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00323 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00324 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00326 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00327 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00328 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00329 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00331 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00334 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00335 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00337 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00339 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00340 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00342 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00344 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00346 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00349 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00351 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00354 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00355 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00356 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00359 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00360 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00361 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00366 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00369 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00370 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00371 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00372 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00373 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00375 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00376 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00380 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00381 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00382 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00383 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00384 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00385 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00386 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00387 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00388 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00390 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00391 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00393 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00396 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00398 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00399 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00402 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00403 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00404 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00406 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00409 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00410 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00411 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00412 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00413 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00414 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00418 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00419 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00420 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00421 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00422 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00427 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00428 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00429 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00430 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00436 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00440 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00441 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00445 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00446 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00447 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00450 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00454 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00456 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00457 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00459 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00460 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00462 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00463 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00464 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00466 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00467 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00469 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00470 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00471 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00474 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00479 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00483 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00484 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00487 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00489 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00491 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00493 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00495 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00496 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00498 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00499 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00500 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00501 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00502 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00503 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00505 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00506 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00507 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00508 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00509 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00512 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00513 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00515 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00516 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00519 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00520 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00522 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00524 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00525 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00527 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00530 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00532 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00538 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00541 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00544 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00545 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00547 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00552 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00556 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00557 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00560 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00562 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00563 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00564 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00566 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00568 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00570 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00572 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00573 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00574 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00575 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00576 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00578 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00579 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00580 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00581 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00582 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00583 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00589 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00591 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00594 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00595 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00596 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00598 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00599 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00600 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00603 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00604 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00608 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00609 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00610 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00611 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00612 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00613 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00614 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00615 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00616 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00617 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00618 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00619 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00620 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00621 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00622 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00623 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00624 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00625 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00626 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00627 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00628 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00629 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00630 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00631 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00632 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00633 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00634 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00635 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00637 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00638 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00639 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00640 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00641 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00642 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00644 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00645 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00646 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00650 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00652 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00653 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00654 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00655 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00656 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00657 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00658 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00660 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00661 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00662 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00663 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00664 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00665 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00669 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00671 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00672 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00674 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00675 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00676 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00678 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00680 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00681 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00682 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00683 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00684 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00685 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00686 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00687 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00688 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00721 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00800 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00801 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00802 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00803 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00804 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00805 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00806 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00807 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00808 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00810 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00812 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00813 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00814 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00818 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00819 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00821 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00822 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00824 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00825 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00826 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00827 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00828 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00834 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00835 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00836 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00837 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00838 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00839 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00840 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00842 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00844 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00849 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00853 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00862 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00863 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00865 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00870 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00871 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00872 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00875 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00876 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00877 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00878 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00879 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00885 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00886 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00888 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00889 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00890 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00892 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00901 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00902 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00910 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00911 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00912 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00989 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00997 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00998 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail00999 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02005 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02007 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02010 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02011 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02012 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02013 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02016 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02018 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02019 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02020 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02021 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02022 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02024 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02026 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02027 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02029 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02030 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02032 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02034 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02035 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02036 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02037 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02038 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02039 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02040 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02041 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02042 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02046 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02047 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02048 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02050 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02052 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02053 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02054 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02056 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02057 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02058 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02061 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02062 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02063 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02065 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02067 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02068 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02072 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02076 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02077 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02078 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02080 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02081 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02082 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02083 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02084 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02085 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02087 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02088 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02089 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02090 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02091 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02092 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02093 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02094 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02095 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02096 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02097 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02098 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02099 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02100 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02101 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02102 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02105 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02106 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02107 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02108 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02109 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02110 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02111 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02112 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02113 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02114 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02115 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02116 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02117 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02118 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02119 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02120 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02121 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02122 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02123 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02124 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02125 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02126 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02127 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02128 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02129 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02130 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02131 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02132 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02133 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02135 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02136 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02137 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02138 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02139 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02140 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02141 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02142 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02143 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02144 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02146 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02147 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02148 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02149 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02150 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02151 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02152 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02154 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02156 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02157 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02158 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02159 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02160 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02161 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02163 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02164 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02165 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02166 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02167 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02168 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02169 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02170 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02171 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02172 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02173 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02174 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02175 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02176 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02177 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02178 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02179 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02180 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02181 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02182 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02183 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02184 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02186 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02187 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02188 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02189 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02190 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02191 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02193 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02194 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02195 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02196 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02197 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02304 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02305 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02306 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02913 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02928 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail02937 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail03004 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail03013 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail03021 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail03022 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail03023 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail03025 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail03026 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail03028 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail03031 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail03035 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail03038 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail03039 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail03041 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail03042 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail03043 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail03044 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail03045 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail03046 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail03047 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail03048 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail03049 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail03050 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail03051 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail03052 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail03053 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail03054 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail03055 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail03056 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail03057 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail03058 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail03059 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail03060 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail03061 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail03062 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail03063 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail03065 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail03066 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail03067 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail03068 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail03069 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail04103 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail04104 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail04105 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail06124 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail08990 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail08992 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail08993 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60010 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60024 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60040 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60041 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60042 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60044 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60045 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60046 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60047 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60048 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60049 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60051 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60052 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60053 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60054 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60055 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60056 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60057 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60058 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60059 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60060 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60061 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60062 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60064 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60065 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60066 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60068 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60069 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60070 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60071 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60072 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60073 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60074 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60075 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60076 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60077 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60078 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60080 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60081 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60082 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60083 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60084 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60085 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60087 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60088 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60089 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60090 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60091 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60092 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60093 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60094 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60095 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60096 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60097 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60098 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60099 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60101 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60102 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60103 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60104 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60105 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60106 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60107 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60108 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60109 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60110 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60111 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60114 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60115 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60116 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60117 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60118 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60119 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60120 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60121 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60122 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60123 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60124 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60125 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60126 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60127 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60128 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60129 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60130 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60131 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60134 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60135 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60136 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60137 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60138 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60139 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60140 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60141 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60142 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60143 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60144 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60145 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60146 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60147 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60148 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60149 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60150 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60151 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60152 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60153 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60154 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60155 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60156 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60157 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60158 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60159 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60160 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60161 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60162 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60163 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60164 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60165 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60166 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60167 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60168 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60170 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60171 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60172 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60173 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60174 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60175 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60176 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60178 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60179 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60180 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60181 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60182 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60183 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60184 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60186 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60187 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60188 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60189 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60190 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60191 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60193 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60194 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60195 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60196 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60197 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60198 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60199 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60200 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60201 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60202 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60203 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60204 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60205 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60206 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60207 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60208 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60209 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60211 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60212 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60214 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60215 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60216 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60217 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60218 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60219 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60220 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60221 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60222 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60224 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60225 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60226 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60227 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60228 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60229 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60230 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60231 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60232 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60233 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60234 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60235 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60236 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60237 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60238 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60240 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60241 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60242 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60243 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60244 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60245 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60246 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60247 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60248 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60249 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60250 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60251 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60252 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60253 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60254 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60255 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60256 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60257 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60258 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60259 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60260 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60261 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60262 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60263 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60264 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60265 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60266 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60267 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60268 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60269 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60270 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60271 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60272 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60273 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60274 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60275 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60276 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60277 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60278 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60279 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60280 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60281 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60282 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60283 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60284 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60285 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60286 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60287 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60288 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60289 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60290 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60291 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60292 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60293 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60294 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60295 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60296 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60297 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60298 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60299 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60300 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60301 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60303 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60304 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60305 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60306 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60307 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60308 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60309 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60310 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60311 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60314 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60315 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60316 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60317 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60319 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60320 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60321 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60322 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60325 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60326 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60327 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60328 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60329 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60331 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60332 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60333 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60334 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60335 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60336 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60337 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60338 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60339 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60340 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60341 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60342 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60343 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60344 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60345 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60346 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60347 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60348 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60350 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60351 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60352 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60353 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60354 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60355 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60356 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60357 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60358 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60359 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60360 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60362 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60363 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60364 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60365 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60366 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60368 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60369 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60370 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60371 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60372 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60373 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60374 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60375 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60376 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60377 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60378 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60380 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60381 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60382 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60383 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60384 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60385 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60386 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60387 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60388 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60389 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60390 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60391 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60393 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60394 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60395 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60396 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60397 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60398 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60399 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60401 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60402 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60403 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60404 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60405 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60406 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60407 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60408 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60410 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60411 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60412 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60413 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60414 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60415 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60416 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60417 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60418 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60419 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60420 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60421 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60422 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60424 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60425 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60426 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60427 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60428 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60429 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60430 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60431 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60432 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60433 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60434 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60435 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60436 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60437 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60438 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60439 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60441 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60443 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60444 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60445 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60446 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60447 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60448 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60450 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60451 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60452 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60453 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60454 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60455 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60456 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60457 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60458 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60459 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60460 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60461 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60462 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60463 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60464 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60465 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60466 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60467 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60468 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60469 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60470 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60471 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60473 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60474 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60475 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60477 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60478 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60479 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60480 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60481 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60483 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60484 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60485 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60486 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60487 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60488 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60489 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60490 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60491 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60492 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60494 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60495 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60496 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60497 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60498 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60499 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60500 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60501 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60502 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60503 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60504 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60506 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60507 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60508 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60509 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60510 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60512 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60513 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60514 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60515 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60516 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60517 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60518 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60519 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60520 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60521 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60522 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60523 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60524 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60525 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60526 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60527 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60528 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60529 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60530 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60531 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60533 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60534 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60535 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60536 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60539 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60541 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60542 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60543 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60544 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60545 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60546 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60548 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60549 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60550 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60551 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60552 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60553 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60555 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60556 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60557 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60558 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60559 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60560 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60561 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60562 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60563 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60564 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60565 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60566 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60567 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60568 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60569 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60571 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60572 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60573 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60574 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60575 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60576 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60577 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60578 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60579 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60581 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60583 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60585 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60586 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60587 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60588 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60589 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60590 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60591 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60592 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60593 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60594 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60595 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60596 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60597 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60598 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60599 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60600 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60601 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60603 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60604 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60605 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60606 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60607 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60608 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60609 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60610 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60611 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60612 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60613 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60614 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60615 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60616 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60617 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60618 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60619 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60620 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60621 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60622 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60623 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60624 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60625 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60626 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60628 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60629 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60630 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60631 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60632 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60633 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60634 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60635 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60636 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60637 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60638 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60639 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60640 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60641 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60642 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60643 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60644 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60645 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60646 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60647 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60648 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60649 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60650 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60651 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60652 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60653 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60654 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60655 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60656 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60657 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60658 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60659 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60661 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60662 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60663 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60664 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60666 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60667 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60669 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60670 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60671 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60672 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60673 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60674 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60675 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60677 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60679 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60680 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60681 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60682 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60684 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60685 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60686 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60687 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60688 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60689 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60690 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60691 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60692 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60693 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60694 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60695 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60696 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60697 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60698 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60699 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60700 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60701 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60702 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60703 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60704 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60705 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60706 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60707 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60708 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60709 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60710 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60711 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60712 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60713 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60714 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60715 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60716 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60717 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60718 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60719 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60720 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60721 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60722 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60724 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60725 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60726 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60727 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60728 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60729 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60730 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60731 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60732 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60733 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60734 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60735 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60736 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60737 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60738 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60739 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60740 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60741 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60742 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60743 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60744 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60745 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60746 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60747 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60748 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60750 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60752 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60753 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60754 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60756 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60757 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60758 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60759 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60760 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60761 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60762 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60764 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60765 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60767 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60768 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60769 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60770 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60772 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60773 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60775 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60776 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60778 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60779 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60780 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60782 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60783 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60784 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60785 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60786 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60787 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60788 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60789 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60790 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60791 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60792 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60793 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60794 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60795 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60796 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60797 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60798 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60799 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60800 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60801 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60802 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60804 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60805 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60808 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60810 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60812 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60813 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60814 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60815 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60816 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60817 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60818 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60819 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60820 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60823 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60824 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60826 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail60829 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail63950 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail63951 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail63952 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail63953 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail63954 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail63956 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail63957 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail63960 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail63962 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail63963 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail63964 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail63965 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail63966 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail63968 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail63969 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail63970 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail63972 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail63973 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail63976 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail63979 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail63980 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail63982 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail63983 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail64801 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65001 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65002 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65003 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65004 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65005 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65006 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65007 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65008 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65009 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65010 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65011 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65012 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65013 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65014 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65015 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65016 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65017 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65018 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65019 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65020 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65021 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65022 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65023 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65024 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65025 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65026 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65027 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65028 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65029 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65030 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65031 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65032 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65033 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65034 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65035 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65036 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65037 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65038 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65039 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65040 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65041 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65042 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65043 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65048 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65051 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65052 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65053 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65054 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65055 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65056 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65057 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65058 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65059 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65060 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65061 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65062 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65063 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65064 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65065 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65066 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65067 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65068 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65069 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65070 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65071 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65072 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65073 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65074 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65075 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65076 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65078 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65079 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65082 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65083 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65084 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65085 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65086 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65087 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65088 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65089 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65090 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65091 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65092 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65093 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65094 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65095 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65097 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65098 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65099 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65100 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65101 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65102 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65103 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65104 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65105 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65106 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65107 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65108 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65109 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65110 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65111 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65112 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65113 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65114 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65115 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65116 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65117 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65118 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65120 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65123 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65124 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65126 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65127 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65128 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65129 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65130 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65131 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65132 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65133 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65134 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65135 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65136 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65137 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65138 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65140 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65141 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65142 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65143 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65144 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65147 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65149 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65150 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65151 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65152 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65153 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65154 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65155 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65156 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65157 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65158 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65159 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65160 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65161 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65162 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65163 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65164 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65165 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65166 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65171 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65172 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65173 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65174 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65175 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65176 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65177 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65179 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65180 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65181 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65182 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65183 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65184 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65185 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65186 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65187 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65188 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65189 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65193 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65194 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65195 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65196 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65197 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65198 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65199 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65200 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65201 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65202 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65203 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65204 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65205 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65206 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65207 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65208 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65209 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65210 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65211 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65212 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65214 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65216 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65217 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65218 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65219 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65220 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65221 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65223 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65224 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65225 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65226 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65227 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65228 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65229 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65230 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65231 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65232 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65233 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65234 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65235 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65236 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65237 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65238 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65239 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65240 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65241 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65242 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65243 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65244 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65245 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65246 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65247 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65248 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65249 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65250 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65251 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65252 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65253 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65254 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65256 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65257 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65258 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65259 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65261 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65262 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65263 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65265 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65267 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65268 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65269 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65271 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65272 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65274 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65275 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65276 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65277 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65278 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65279 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65280 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65285 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65287 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65290 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65291 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65294 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65295 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail65296 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail68501 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail68502 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail68503 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail68504 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail68505 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail68506 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail68507 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail68508 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail68509 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail68510 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail68511 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail68512 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail68513 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail68514 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail68515 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail68516 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail68517 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail68518 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail68519 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail68520 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail68521 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail68522 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail68523 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail68524 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail68525 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail68526 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail68527 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail68528 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail68529 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail68530 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail68531 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail68532 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail68533 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail68534 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail68535 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail68536 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail68537 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail68538 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail68540 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail68541 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail68542 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail68543 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail68544 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail68545 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail68546 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail68547 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail68548 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail68549 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail68550 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail68551 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail68552 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail68553 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail68554 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail68555 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail68556 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail68559 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail68560 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail68561 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail68563 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail68564 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail69499 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail71001 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail71002 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail71003 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail71004 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail71005 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail71006 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail71007 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail71008 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail71009 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail71010 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail71015 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail71016 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail71017 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail71022 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail71023 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail71026 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail71031 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail71032 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail71034 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail71036 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail71037 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail71038 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail71041 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail71048 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail71050 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail71051 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail71052 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail71063 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail71065 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail71071 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail71076 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail71078 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail71079 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail71084 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail71093 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail71094 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail71095 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail71096 
+@if ERRORLEVEL 1 goto ERR 
+@call :COMPRESS Mail71099 
+@if ERRORLEVEL 1 goto ERR 
+
+@goto CHECKWARN
+
+:COMPRESS
+  :: Compress mail file.
+  @if ERROR_FLAG==TRUE goto :EOF
+  :: Set variables.
+  @set STORE_NUM=%1
+
+  :: Delete ARS mail for Trovato store.
+  :: if exist %POLLING%\Poll\StoreMail\%STORE_NUM% del %POLLING%\Poll\StoreMail\%STORE_NUM%
+  :: @if errorlevel 1 @call :MESS Error deleting %POLLING%\Poll\StoreMail\%STORE_NUM% & set WARNING_FLAG=TRUE
+
+  @if exist %POLLING%\Poll\StoreMailT\Temp\%STORE_NUM% goto CMPRS
+  @goto :EOF
+
+:DELARS
+  @if ERROR_FLAG==TRUE goto :EOF
+  :: Set variables.
+  @set STORE_NUM=%1
+
+  :: Delete ARS Mail for Installed Trovato Stores
+  if exist %POLLING%\Poll\StoreMail\%STORE_NUM% del %POLLING%\Poll\StoreMail\%STORE_NUM%
+  @if errorlevel 1 @call :MESS Error deleting %POLLING%\Poll\StoreMail\%STORE_NUM% & set WARNING_FLAG=TRUE
+  @goto :EOF
+
+:CMPRS
+  @call :MESS Begin compress store mail %STORE_NUM%
+
+  if exist %POLLING%\Poll\StoreMailT\Temp\Mail.dwn del %POLLING%\Poll\StoreMailT\Temp\Mail.dwn
+  @if errorlevel 1 @call :MESS Fatal error deleting %POLLING%\Poll\StoreMailT\Temp\Mail.dwn & goto CMPRSERR
+
+  if exist %POLLING%\Poll\StoreMailT\%STORE_NUM%.zip "C:\Program Files\7-zip\7z.exe" e %POLLING%\Poll\StoreMailT\%1.zip -o%POLLING%\Poll\StoreMailT\Temp Mail.dwn
+  @if errorlevel 1 @call :MESS Fatal error unzipping %POLLING%\Poll\StoreMailT\%STORE_NUM%.zip & goto CMPRSERR
+
+  if exist %POLLING%\Poll\StoreMailT\Temp\Mail.dwn copy %POLLING%\Poll\StoreMailT\Temp\Mail.dwn /A + %POLLING%\Poll\StoreMailT\Temp\%STORE_NUM% /A %POLLING%\Poll\StoreMailT\Temp\Mail.dwn /A
+  @if errorlevel 1 @call :MESS Fatal error copying %POLLING%\Poll\StoreMailT\Temp\Mail.dwn and %POLLING%\Poll\StoreMailT\Temp\%STORE_NUM% /A to %POLLING%\Poll\StoreMailT\Temp\Mail.dwn (%STORE_NUM%) & goto CMPRSERR
+
+  if not exist %POLLING%\Poll\StoreMailT\Temp\Mail.dwn copy %POLLING%\Poll\StoreMailT\Temp\%STORE_NUM% %POLLING%\Poll\StoreMailT\Temp\Mail.dwn
+  @if errorlevel 1 @call :MESS Fatal error copying %POLLING%\Poll\StoreMailT\%STORE_NUM% to %POLLING%\Poll\StoreMailT\Temp\Mail.dwn (%STORE_NUM%) & goto CMPRSERR
+
+  "C:\Program Files\7-zip\7z.exe" a %POLLING%\Poll\StoreMailT\%1.zip %POLLING%\Poll\StoreMailT\Temp\Mail.dwn
+  @if errorlevel 1 @call :MESS Fatal error zipping %POLLING%\Poll\StoreMailT\Temp\Mail.dwn (%STORE_NUM%) & goto CMPRSERR
+
+  del %POLLING%\Poll\StoreMailT\Temp\%STORE_NUM%
+  @if errorlevel 1 @call :MESS Fatal error deleting %POLLING%\Poll\StoreMailT\Temp\%STORE_NUM% & goto CMPRSERR
+  del %POLLING%\Poll\StoreMailT\Temp\Mail.dwn
+  @if errorlevel 1 @call :MESS Fatal error deleting %POLLING%\Poll\StoreMailT\Temp\Mail.dwn (%STORE_NUM%) & goto CMPRSERR
+
+  @call :MESS End compress store mail %STORE_NUM%
+  @goto :EOF
+
+:CMPRSERR
+  @set ERROR_FLAG=TRUE
+  @ren _
+  @goto :EOF
+
+:CHECKWARN
+  :: Check warning flag.
+  @if %WARNING_FLAG%==TRUE @echo Error(s) deleting ARS mail for Trovato stores >> %PROG_FOLDER%\CompressStoreMail.warn
+
+:END
+  @goto :EOF
+
+:MESS
+  :: Write message to log file and screen.
+  @now %1 %2 %3 %4 %5 %6 %7 %8 %9 >> %LOG_FILE%
+  @ver > nul
+  @echo.
+  @now %1 %2 %3 %4 %5 %6 %7 %8 %9
+  @ver > nul
+  @goto :EOF
+
+:ERR
+  :: Force an error code to be returned to the O/S.
+  @ren _
+

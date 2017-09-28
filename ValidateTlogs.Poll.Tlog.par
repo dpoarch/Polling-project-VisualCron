@@ -1,0 +1,7 @@
+TLOGS = \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Tlog\Polled\Tlog*.*
+FORMAT = ARS
+MOVEGOOD = \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Tlog\Good
+MOVEBAD = \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Tlog\Bad
+FEEDBACK = 2
+LOG = \sghpnas\pos\POll\Bin\Logs\ValidateTlogs.Poll.Tlog.log
+

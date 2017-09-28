@@ -1,0 +1,1 @@
+SGPOLL is down. Failover to SGPOLLBACK has begun.

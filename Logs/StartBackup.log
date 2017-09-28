@@ -1,0 +1,19 @@
+ 
+
+Tue Dec 02 04:12:48 2014 -- Begin Program 
+
+Tue Dec 02 04:12:48 2014 -- Begin determine day of week 
+
+Tue Dec 02 04:12:48 2014 -- Day of week is 2 
+
+Tue Dec 02 04:12:49 2014 -- Begin call for interim backup 
+User logged in successfully.
+<TMMsg_CreateTaskResp> 
+<jobIds val="507010" />
+<jobIds val="507011" />
+</TMMsg_CreateTaskResp> 
+User logged out successfully.
+
+Tue Dec 02 04:13:01 2014 -- End call for interim backup 
+
+Tue Dec 02 04:13:01 2014 -- End Program 

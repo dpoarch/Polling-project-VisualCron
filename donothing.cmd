@@ -1,0 +1,1 @@
+dir %POLLING%\poll\bin\donothing.cmd

@@ -1,0 +1,7 @@
+#Put notes here
+LOG_FILE=\\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.log
+ZIPLOG_FILE=\\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.ziplog
+ZIP_PATH=\\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+UNZIP_PATH=\\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+BACKUP_PATH=\\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup
+FORWARD_PATH=\\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT

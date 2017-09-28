@@ -1,0 +1,13 @@
+====================================================
+The POS Tlog Trigger File for: 
+                    Group:     SG*AA0 
+                    Job:       PRPOD19TRG
+                    OPAL:      CHKFILAM
+
+has been FTPed to:  Library:   SGPRODDATA 
+                    File:      PD19GOFILE.PD19GOFILE
+====================================================
+
+This is an automated message from the Polling Server.
+
+Please do not reply to this message. Send an email to Jeramie Shake with any questions.

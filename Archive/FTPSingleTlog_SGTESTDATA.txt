@@ -1,0 +1,7 @@
+open SIRIS-AS400.SGICORP.SPENCERGIFTS.COM
+user snobat snotbl
+binary
+CD SGTESTDATA
+PUT \\sghpnas\pos\Data\ClosingStoreTlogs\Fix\IpLogsT POG4601.POG4601 (REPLACE
+Close
+Quit

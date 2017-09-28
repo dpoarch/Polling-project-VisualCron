@@ -1,0 +1,7 @@
+open SIRIS-AS400.SGICORP.SPENCERGIFTS.COM
+user snobat snotbl
+binary
+CD SGDEVDATA
+PUT \\sghpnas\pos\Data\Redo\Upload\TlogAll10 TlogAll10.TlogAll10 (REPLACE
+Close
+Quit

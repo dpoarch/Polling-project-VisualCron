@@ -1,0 +1,1 @@
+Pre Polling has been completed successfully. You can now enable the Polling Sessions.

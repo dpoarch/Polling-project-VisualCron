@@ -1,0 +1,11 @@
+:: CompressPriceCheckFiles_Spirit_run.cmd
+::
+:: Dynamically built and by CompressPriceCheckFiles_Spirit.cmd
+
+  :: Set variables.
+  @set ERROR_FLAG=FALSE
+  @set WARNING_FLAG=FALSE
+  @set PROG_FOLDER=\\sghpnas\pos\Poll\Bin
+  @set LOG_FILE=%PROG_FOLDER%\Logs\CompressPriceCheckFiles_Spirit.log
+  @set ERR_FILE=%PROG_FOLDER%\Logs\CompressPriceCheckFiles_Spirit.err
+

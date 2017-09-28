@@ -1,0 +1,1 @@
+blat %POLLING%\Poll\Bin\PostPollingAlert_NotStarted.txt -subject "Post Polling Not Started" -to AppDevPOSPollingAlerts@spencergifts.com

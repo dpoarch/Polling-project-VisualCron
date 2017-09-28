@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="utf-8"?>
+<workObjects>
+    <swo name="3.8.2" unassign="True" locked="False" />
+    <swo name="3.8.5 from 3.8.2" unassign="True" locked="False" />
+    <swo name="3.8.8 from 3.8.5" unassign="True" locked="False" />
+    <swo name="3.8.8 Register" unassign="True" locked="False" />
+    <swo name="3.8.8 Register Debug" unassign="True" locked="False" />
+    <swo name="4.1.10n Package" unassign="True" locked="False" />
+    <swo name="4.1.10p Move Update" unassign="True" locked="False" />
+    <swo name="4.1.12 - Auth" unassign="True" locked="False" />
+    <swo name="4.1.12 Package" unassign="True" locked="False" />
+    <swo name="4.25.5 Update" unassign="True" locked="False" />
+    <swo name="4.25.5 Update - Reg 2" unassign="True" locked="False" />
+    <swo name="Activate GiftCards PaymenTech" unassign="True" locked="False" />
+    <swo name="Activate PaymenTech" unassign="True" locked="False" />
+    <swo name="Alt+F10 Menu Update" unassign="True" locked="False" />
+    <swo name="Authpoint.ini COM2" unassign="True" locked="False" />
+    <swo name="AutoSend Calendar.pdf" unassign="False" locked="False" />
+    <swo name="AutoSend Calendar.pdf - Force" unassign="True" locked="False" />
+    <swo name="AutoSend Calendar.pdf - Polling 1" unassign="True" locked="False" />
+    <swo name="AutoSend Calendar.pdf - Polling 2" unassign="True" locked="False" />
+    <swo name="AutoSend Supply.pdf" unassign="False" locked="False" />
+    <swo name="AutoSend Supply.pdf - Force" unassign="True" locked="False" />
+    <swo name="AutoSend Supply.pdf - Polling 1" unassign="True" locked="False" />
+    <swo name="AutoSend Supply.pdf - Polling 2" unassign="True" locked="False" />
+    <swo name="Backup" unassign="True" locked="False" />
+    <swo name="Backup Apdebug.log" unassign="False" locked="False" />
+    <swo name="Cart - Authpoint.ini" unassign="True" locked="False" />
+    <swo name="Cart - Fix Password Script" unassign="True" locked="False" />
+    <swo name="Cart - Fix RegNum" unassign="True" locked="False" />
+    <swo name="Cart - Fix Regnum Script" unassign="True" locked="False" />
+    <swo name="Cart - Get Cashiers" unassign="True" locked="False" />
+    <swo name="Cart - Send Cashiers" unassign="True" locked="False" />
+    <swo name="Cart Package" unassign="True" locked="False" />
+    <swo name="Cart Testpoll - Home Office" unassign="True" locked="False" />
+    <swo name="Cart Testpoll - Store" unassign="True" locked="False" />
+    <swo name="Cart USB Modem" unassign="True" locked="False" />
+    <swo name="ChangeTrans" unassign="True" locked="False" />
+    <swo name="CHECK CLIENT DISK" unassign="True" locked="False" />
+    <swo name="Check for Current Version" unassign="True" locked="False" />
+    <swo name="Check Waiting for Poll" unassign="False" locked="False" />
+    <swo name="Closing Store" unassign="True" locked="False" />
+    <swo name="Config - verUpgrade.flg" unassign="True" locked="False" />
+    <swo name="Convert to Holiday" unassign="True" locked="False" />
+    <swo name="Convert To TCP/IP Polling" unassign="True" locked="False" />
+    <swo name="Data Send Permanent Tasks" unassign="True" locked="False" />
+    <swo name="Delete LOB.txt" unassign="True" locked="False" />
+    <swo name="Delete LOB_Departments.txt" unassign="True" locked="False" />
+    <swo name="Delete LOB_POSManual.txt" unassign="True" locked="False" />
+    <swo name="Delete Update.zip" unassign="True" locked="False" />
+    <swo name="Delete Version.txt" unassign="True" locked="False" />
+    <swo name="Departments" unassign="False" locked="False" />
+    <swo name="Documents - Daily" unassign="True" locked="False" />
+    <swo name="Documents - Force" unassign="True" locked="False" />
+    <swo name="Documents - Interstore" unassign="True" locked="False" />
+    <swo name="Documents - Lab" unassign="False" locked="False" />
+    <swo name="Documents - Lab - Force" unassign="True" locked="False" />
+    <swo name="Documents - Lab - Force BU" unassign="True" locked="False" />
+    <swo name="Documents - Lab - Menu" unassign="True" locked="False" />
+    <swo name="Documents - Menu" unassign="True" locked="False" />
+    <swo name="Documents - Nightly" unassign="False" locked="False" />
+    <swo name="Documents - Nightly OLD" unassign="True" locked="False" />
+    <swo name="Documents - PNP Manual Update" unassign="True" locked="False" />
+    <swo name="Documents - POS Manual Chapters" unassign="True" locked="False" />
+    <swo name="Documents - POS Manual Update" unassign="True" locked="False" />
+    <swo name="Documents - Skubook - Send" unassign="True" locked="False" />
+    <swo name="Documents - Special" unassign="True" locked="False" />
+    <swo name="Documents - Special 2" unassign="True" locked="False" />
+    <swo name="Documents - Update" unassign="True" locked="False" />
+    <swo name="Epson Driver" unassign="True" locked="False" />
+    <swo name="EXECUTE Auth.sql" unassign="True" locked="False" />
+    <swo name="EXECUTE AuthSetStatus.sql" unassign="True" locked="False" />
+    <swo name="EXECUTE delete StoreList.sql" unassign="True" locked="False" />
+    <swo name="EXECUTE delete_PLU.sql" unassign="True" locked="False" />
+    <swo name="EXECUTE delete_PO.sql" unassign="True" locked="False" />
+    <swo name="EXECUTE delete_whs_ack.sql" unassign="True" locked="False" />
+    <swo name="EXECUTE DeleteFromPOSReportingTable" unassign="True" locked="False" />
+    <swo name="EXECUTE DropTable_POSReporting" unassign="True" locked="False" />
+    <swo name="EXECUTE Fixdept.sql" unassign="True" locked="False" />
+    <swo name="EXECUTE Fixdept.sql - OLD" unassign="True" locked="False" />
+    <swo name="EXECUTE FixUpdate.sql" unassign="True" locked="False" />
+    <swo name="EXECUTE FixUpdateErrors.sql" unassign="True" locked="False" />
+    <swo name="EXECUTE FixVersion.sql" unassign="True" locked="False" />
+    <swo name="EXECUTE GetTran.sql" unassign="False" locked="False" />
+    <swo name="EXECUTE Menu.sql" unassign="True" locked="False" />
+    <swo name="EXECUTE Misc_Options.sql" unassign="True" locked="False" />
+    <swo name="EXECUTE OWA Enable" unassign="True" locked="False" />
+    <swo name="EXECUTE Pers.sql" unassign="True" locked="False" />
+    <swo name="EXECUTE Priceoverride.sql" unassign="True" locked="False" />
+    <swo name="EXECUTE Reasons.sql" unassign="True" locked="False" />
+    <swo name="EXECUTE SysRemoteUser.sql" unassign="True" locked="False" />
+    <swo name="Failed Poll Recovery" unassign="False" locked="False" />
+    <swo name="Failed Poll Recovery - No Recycle" unassign="False" locked="False" />
+    <swo name="Force CD Update - 4257p" unassign="True" locked="False" />
+    <swo name="Full PLU" unassign="True" locked="False" />
+    <swo name="Full PLU New Store HO Testpoll" unassign="True" locked="False" />
+    <swo name="Get Asset Tag" unassign="True" locked="False" />
+    <swo name="Get Auth Except Table" unassign="True" locked="False" />
+    <swo name="Get AuthExcept_Pending" unassign="False" locked="False" />
+    <swo name="Get AuthExcept_Transmit" unassign="False" locked="False" />
+    <swo name="Get Backed Up Tlogs" unassign="True" locked="False" />
+    <swo name="Get CurrentAuth" unassign="False" locked="False" />
+    <swo name="Get CurrentVersions" unassign="True" locked="False" />
+    <swo name="Get DataSend" unassign="True" locked="False" />
+    <swo name="Get DBRemt.log" unassign="True" locked="False" />
+    <swo name="Get dhcpStatus" unassign="False" locked="False" />
+    <swo name="Get EJ" unassign="False" locked="False" />
+    <swo name="Get FixComPort Log" unassign="True" locked="False" />
+    <swo name="Get Logs" unassign="True" locked="False" />
+    <swo name="Get Logs 1-3" unassign="True" locked="False" />
+    <swo name="Get Logs All APDebugLogs" unassign="True" locked="False" />
+    <swo name="Get Logs Apdebug.log" unassign="True" locked="False" />
+    <swo name="Get Logs NoRecycle" unassign="True" locked="False" />
+    <swo name="Get Logs Reg1" unassign="True" locked="False" />
+    <swo name="Get Logs Reg2" unassign="True" locked="False" />
+    <swo name="Get Logs Reg3" unassign="True" locked="False" />
+    <swo name="Get Mac Address.txt" unassign="True" locked="False" />
+    <swo name="Get MacAndIpAddress.txt" unassign="True" locked="False" />
+    <swo name="Get posbackup.zip" unassign="True" locked="False" />
+    <swo name="Get RegisterUpdates" unassign="True" locked="False" />
+    <swo name="Get Scanner.Done" unassign="True" locked="False" />
+    <swo name="Get SigCapture" unassign="False" locked="False" />
+    <swo name="Get SpiritCartonScanning" unassign="False" locked="False" />
+    <swo name="Get Thermal.Done" unassign="True" locked="False" />
+    <swo name="Get TimeCard Files - All" unassign="True" locked="False" />
+    <swo name="Get TimeCard Files - Current" unassign="False" locked="False" />
+    <swo name="Get TimecardHours" unassign="True" locked="False" />
+    <swo name="Get TLOG Backup" unassign="True" locked="False" />
+    <swo name="Get Updates.txt" unassign="True" locked="False" />
+    <swo name="Get Ustartup.ini" unassign="True" locked="False" />
+    <swo name="Get Uxtheme.dll" unassign="True" locked="False" />
+    <swo name="Get WebMail.Done" unassign="False" locked="False" />
+    <swo name="Get WSH Version" unassign="True" locked="False" />
+    <swo name="IA - HR_ChangeSocial - Retrieve" unassign="False" locked="False" />
+    <swo name="IA - HR_ChangeSocial - Send" unassign="False" locked="False" />
+    <swo name="IA - HR_EmpAcc - Retrieve" unassign="False" locked="False" />
+    <swo name="IA - HR_EmpAcc - Send" unassign="False" locked="False" />
+    <swo name="IA - HR_EmpMaint - Retrieve" unassign="False" locked="False" />
+    <swo name="IA - HR_EmpMaint - Send" unassign="False" locked="False" />
+    <swo name="IA - LP_BackCheck - Retrieve" unassign="False" locked="False" />
+    <swo name="IA - LP_BackCheck - Send" unassign="False" locked="False" />
+    <swo name="IA - LP_BackCheck-New - Send" unassign="False" locked="False" />
+    <swo name="IA - LP_CustAcc - Retrieve" unassign="False" locked="False" />
+    <swo name="IA - LP_CustAcc - Send" unassign="False" locked="False" />
+    <swo name="IA - LP_Damage - Retrieve" unassign="False" locked="False" />
+    <swo name="IA - LP_Damage - Send" unassign="False" locked="False" />
+    <swo name="IA - LP_RegBankVerify - Retrieve" unassign="True" locked="False" />
+    <swo name="IA - LP_RegBankVerify - Send" unassign="True" locked="False" />
+    <swo name="IA - LP_ShopLift - Retrieve" unassign="False" locked="False" />
+    <swo name="IA - LP_ShopLift - Send" unassign="False" locked="False" />
+    <swo name="IA - Ops_Count - Retrieve" unassign="True" locked="False" />
+    <swo name="IA - Ops_Count - Send" unassign="True" locked="False" />
+    <swo name="IA - Party Planner - Send" unassign="True" locked="False" />
+    <swo name="IA - Spirit_MailList - Retrieve" unassign="False" locked="False" />
+    <swo name="IA - Spirit_MailList - Send" unassign="False" locked="False" />
+    <swo name="IA - StoreWan - Retrieve" unassign="False" locked="False" />
+    <swo name="IA - StoreWan - Send" unassign="True" locked="False" />
+    <swo name="Interactive Forms" unassign="True" locked="False" />
+    <swo name="Journals" unassign="True" locked="False" />
+    <swo name="Journals Reg1" unassign="True" locked="False" />
+    <swo name="Journals Reg1 Day" unassign="True" locked="False" />
+    <swo name="Journals Reg2" unassign="True" locked="False" />
+    <swo name="Journals Reg2 Day" unassign="True" locked="False" />
+    <swo name="Journals Reg3" unassign="True" locked="False" />
+    <swo name="Journals Reg4" unassign="True" locked="False" />
+    <swo name="Journals Reg5" unassign="True" locked="False" />
+    <swo name="Keyboard" unassign="True" locked="False" />
+    <swo name="List Auth Except Table" unassign="True" locked="False" />
+    <swo name="List Cashier Table" unassign="True" locked="False" />
+    <swo name="List InterStore Transfer Table" unassign="True" locked="False" />
+    <swo name="List Paymentech Auth" unassign="True" locked="False" />
+    <swo name="List Sysoptions Table" unassign="True" locked="False" />
+    <swo name="List Timecard Tables" unassign="True" locked="False" />
+    <swo name="List Updates" unassign="True" locked="False" />
+    <swo name="Login Settings" unassign="True" locked="False" />
+    <swo name="Logs Old" unassign="True" locked="False" />
+    <swo name="Logs Reg1 OLD" unassign="True" locked="False" />
+    <swo name="Logs Reg2 OLD" unassign="True" locked="False" />
+    <swo name="Logs Reg3 OLD" unassign="True" locked="False" />
+    <swo name="Mail File" unassign="True" locked="False" />
+    <swo name="Make-up Rollout Package" unassign="True" locked="False" />
+    <swo name="Make-up Store Testpoll - Store" unassign="True" locked="False" />
+    <swo name="New Master Update" unassign="True" locked="False" />
+    <swo name="New Store Buildpoll" unassign="True" locked="False" />
+    <swo name="New Store Buildpoll - Set Flag" unassign="True" locked="False" />
+    <swo name="New Store Testpoll - Home Office" unassign="True" locked="False" />
+    <swo name="New Store Testpoll - Set Flag" unassign="True" locked="False" />
+    <swo name="New Store Testpoll - Store" unassign="True" locked="False" />
+    <swo name="Nitelogs For LP" unassign="False" locked="False" />
+    <swo name="No Layaway Sale" unassign="True" locked="False" />
+    <swo name="Office Menu" unassign="True" locked="False" />
+    <swo name="Parallel Drivers" unassign="True" locked="False" />
+    <swo name="Parm Change - Carriers FedEx" unassign="True" locked="False" />
+    <swo name="Parm Change - Clean Receipt Off" unassign="True" locked="False" />
+    <swo name="Parm Change - Closing Reports" unassign="True" locked="False" />
+    <swo name="Parm Change - Delete Reversals" unassign="True" locked="False" />
+    <swo name="Parm Change - DelJobCode" unassign="True" locked="False" />
+    <swo name="Parm Change - Demographics_Off" unassign="True" locked="False" />
+    <swo name="Parm Change - Demographics_On" unassign="True" locked="False" />
+    <swo name="Parm Change - DisableReconAutoSkip" unassign="True" locked="False" />
+    <swo name="Parm Change - Disclaimer" unassign="True" locked="False" />
+    <swo name="Parm Change - Discounting" unassign="True" locked="False" />
+    <swo name="Parm Change - Email Capture" unassign="True" locked="False" />
+    <swo name="Parm Change - Email Config" unassign="True" locked="False" />
+    <swo name="Parm Change - Email Config CC" unassign="True" locked="False" />
+    <swo name="Parm Change - Emp Disc" unassign="True" locked="False" />
+    <swo name="Parm Change - EmpTrans - OFF" unassign="True" locked="False" />
+    <swo name="Parm Change - EmpTrans - ON" unassign="True" locked="False" />
+    <swo name="Parm Change - Fix SSN" unassign="True" locked="False" />
+    <swo name="Parm Change - FORCE Email Capture" unassign="True" locked="False" />
+    <swo name="Parm Change - FORCE PayrollChecks" unassign="True" locked="False" />
+    <swo name="Parm Change - GiftCard_ItemCorrect" unassign="True" locked="False" />
+    <swo name="Parm Change - GiftCard_RefundOff" unassign="True" locked="False" />
+    <swo name="Parm Change - GiftReceipts" unassign="True" locked="False" />
+    <swo name="Parm Change - GiftReceipts Off" unassign="True" locked="False" />
+    <swo name="Parm Change - Holiday Spirit" unassign="True" locked="False" />
+    <swo name="Parm Change - HolidayEmpDiscOff" unassign="True" locked="False" />
+    <swo name="Parm Change - HolidayEmpDiscOn" unassign="True" locked="False" />
+    <swo name="Parm Change - InterStore - On" unassign="True" locked="False" />
+    <swo name="Parm Change - Item HS" unassign="True" locked="False" />
+    <swo name="Parm Change - ItemCorrectReceipt" unassign="True" locked="False" />
+    <swo name="Parm Change - JobCode Spirit" unassign="True" locked="False" />
+    <swo name="Parm Change - JobCodes" unassign="True" locked="False" />
+    <swo name="Parm Change - Literals" unassign="True" locked="False" />
+    <swo name="Parm Change - LP Changes" unassign="True" locked="False" />
+    <swo name="Parm Change - Misc Options" unassign="True" locked="False" />
+    <swo name="Parm Change - MiscOptns - Purging" unassign="True" locked="False" />
+    <swo name="Parm Change - Mrk_CardNonDistrib - Off" unassign="True" locked="False" />
+    <swo name="Parm Change - Mrk_CardNonDistrib - On" unassign="True" locked="False" />
+    <swo name="Parm Change - Mrk_CardRedeem - Off" unassign="True" locked="False" />
+    <swo name="Parm Change - Mrk_CardRedeem - On" unassign="True" locked="False" />
+    <swo name="Parm Change - No Cash Refund" unassign="True" locked="False" />
+    <swo name="Parm Change - NonMerch" unassign="True" locked="False" />
+    <swo name="Parm Change - NoValueLink" unassign="True" locked="False" />
+    <swo name="Parm Change - Ops_Award - Off" unassign="True" locked="False" />
+    <swo name="Parm Change - Ops_Award - On" unassign="True" locked="False" />
+    <swo name="Parm Change - Ops_Fixtures - Off" unassign="True" locked="False" />
+    <swo name="Parm Change - Ops_Fixtures - On" unassign="True" locked="False" />
+    <swo name="Parm Change - Ops_Fridge - Off" unassign="True" locked="False" />
+    <swo name="Parm Change - Ops_NewYears - Off" unassign="True" locked="False" />
+    <swo name="Parm Change - Ops_NewYears - On" unassign="True" locked="False" />
+    <swo name="Parm Change - Ops_Proto2006 - Off" unassign="True" locked="False" />
+    <swo name="Parm Change - Ops_Proto2006 - On" unassign="True" locked="False" />
+    <swo name="Parm Change - Ops_Spinner - Off" unassign="True" locked="False" />
+    <swo name="Parm Change - Ops_Spinner - On" unassign="True" locked="False" />
+    <swo name="Parm Change - Ops_TV - Off" unassign="True" locked="False" />
+    <swo name="Parm Change - ParkVoucher" unassign="True" locked="False" />
+    <swo name="Parm Change - ParkVoucher06" unassign="True" locked="False" />
+    <swo name="Parm Change - Payroll Checks Fri" unassign="True" locked="False" />
+    <swo name="Parm Change - Payroll Checks Sat" unassign="True" locked="False" />
+    <swo name="Parm Change - Payroll MgrHR Off" unassign="True" locked="False" />
+    <swo name="Parm Change - Payroll Sat" unassign="True" locked="False" />
+    <swo name="Parm Change - Price Override" unassign="True" locked="False" />
+    <swo name="Parm Change - Purging" unassign="True" locked="False" />
+    <swo name="Parm Change - PV On Spirit" unassign="True" locked="False" />
+    <swo name="Parm Change - Ranges_MailCheck" unassign="True" locked="False" />
+    <swo name="Parm Change - Receipts" unassign="True" locked="False" />
+    <swo name="Parm Change - SKU Fix" unassign="True" locked="False" />
+    <swo name="Parm Change - StoreTransfer" unassign="True" locked="False" />
+    <swo name="Parm Change - SupplyItem Menu" unassign="True" locked="False" />
+    <swo name="Parm Change - TelxonTransfer_On" unassign="True" locked="False" />
+    <swo name="Parm Change - Training Off" unassign="True" locked="False" />
+    <swo name="Parm Change - TravelersCheckAuthOff" unassign="True" locked="False" />
+    <swo name="Parm Change Package" unassign="False" locked="False" />
+    <swo name="Pilot Copy CD" unassign="True" locked="False" />
+    <swo name="Pilot Update I" unassign="True" locked="False" />
+    <swo name="Poll Tlog to ClosingStoreTLogs" unassign="True" locked="False" />
+    <swo name="Poll Tlog to NewStoreTlogs" unassign="True" locked="False" />
+    <swo name="Poll Tlog to NewStoreTlogs OLD" unassign="True" locked="False" />
+    <swo name="Poll Tlog to RecoverT" unassign="True" locked="False" />
+    <swo name="Poll.ok" unassign="True" locked="False" />
+    <swo name="Prepare Store - 00201" unassign="True" locked="False" />
+    <swo name="REBOOT" unassign="True" locked="False" />
+    <swo name="Regular Polling" unassign="False" locked="False" />
+    <swo name="RemoveFromSession" unassign="True" locked="False" />
+    <swo name="Repay Form" unassign="True" locked="False" />
+    <swo name="Reports Execution" unassign="True" locked="False" />
+    <swo name="Rollout Package: Store - Spencers" unassign="True" locked="False" />
+    <swo name="RWS pcAnywhere Client Delivery - Full" unassign="True" locked="False" />
+    <swo name="RWS pcAnywhere Client Update" unassign="True" locked="False" />
+    <swo name="RWS pcAnywhere Client Update 2" unassign="True" locked="False" />
+    <swo name="RWS Software Manager 95Client ESD" unassign="True" locked="False" />
+    <swo name="RWS Software Manager Client ESD" unassign="True" locked="False" />
+    <swo name="RWS Software Manager Listing Worklist" unassign="True" locked="False" />
+    <swo name="RWS Software Manager NTClient ESD" unassign="True" locked="False" />
+    <swo name="RWS Software Manager Win32 Client ESD" unassign="True" locked="False" />
+    <swo name="SalePoint" unassign="True" locked="False" />
+    <swo name="Scandisk" unassign="True" locked="False" />
+    <swo name="Send ChangeCashier.vbs" unassign="True" locked="False" />
+    <swo name="Send DeleteCashier.vbs" unassign="False" locked="False" />
+    <swo name="Send ListAuthExcept" unassign="True" locked="False" />
+    <swo name="Send menulist.xml Spirit" unassign="True" locked="False" />
+    <swo name="Send Nodeinit Files" unassign="False" locked="False" />
+    <swo name="Send possku.dwn" unassign="True" locked="False" />
+    <swo name="Send Price Check - 1" unassign="False" locked="False" />
+    <swo name="Send Price Check - 10" unassign="False" locked="False" />
+    <swo name="Send Price Check - 11" unassign="False" locked="False" />
+    <swo name="Send Price Check - 12" unassign="False" locked="False" />
+    <swo name="Send Price Check - 13" unassign="False" locked="False" />
+    <swo name="Send Price Check - 14" unassign="False" locked="False" />
+    <swo name="Send Price Check - 15" unassign="False" locked="False" />
+    <swo name="Send Price Check - 2" unassign="False" locked="False" />
+    <swo name="Send Price Check - 3" unassign="False" locked="False" />
+    <swo name="Send Price Check - 4" unassign="False" locked="False" />
+    <swo name="Send Price Check - 5" unassign="False" locked="False" />
+    <swo name="Send Price Check - 6" unassign="False" locked="False" />
+    <swo name="Send Price Check - 7" unassign="False" locked="False" />
+    <swo name="Send Price Check - 8" unassign="False" locked="False" />
+    <swo name="Send Price Check - 9" unassign="False" locked="False" />
+    <swo name="Send reloadRW.bat" unassign="True" locked="False" />
+    <swo name="Send SetPVSkus.vbs" unassign="True" locked="False" />
+    <swo name="Send SwitchRemoteWare.vbs" unassign="True" locked="False" />
+    <swo name="Serial Poll Display Update" unassign="True" locked="False" />
+    <swo name="ServiceSleuth - Delete Old Files" unassign="False" locked="False" />
+    <swo name="ServiceSleuth - Send All" unassign="True" locked="False" />
+    <swo name="ServiceSleuth - Send New" unassign="False" locked="False" />
+    <swo name="Set Client Time" unassign="True" locked="False" />
+    <swo name="Set Flag - Polling 1" unassign="True" locked="False" />
+    <swo name="Set Flag - Polling 2" unassign="True" locked="False" />
+    <swo name="Set Flag - Polling 3" unassign="True" locked="False" />
+    <swo name="Set Flag - Polling 4" unassign="True" locked="False" />
+    <swo name="Set Flag - Polling 5" unassign="True" locked="False" />
+    <swo name="Set Flag - Post Polling" unassign="True" locked="False" />
+    <swo name="Set To No Cash Refund" unassign="True" locked="False" />
+    <swo name="SET VARIABLE - LOB" unassign="False" locked="False" />
+    <swo name="SET VARIABLE - LOB_Departments" unassign="False" locked="False" />
+    <swo name="SET VARIABLE - LOB_EmpMaint" unassign="False" locked="False" />
+    <swo name="SET VARIABLE - LOB_POSManual" unassign="False" locked="False" />
+    <swo name="SET VARIABLE - LOB_Reasons" unassign="False" locked="False" />
+    <swo name="SET VARIABLE - RegNum" unassign="False" locked="False" />
+    <swo name="SET VARIABLE - Version" unassign="False" locked="False" />
+    <swo name="Spirit Menulist.xml" unassign="True" locked="False" />
+    <swo name="SQL - Auth" unassign="True" locked="False" />
+    <swo name="SQL - Bank Deposit RMU" unassign="True" locked="False" />
+    <swo name="SQL - Delete Cashier 123" unassign="True" locked="False" />
+    <swo name="SQL - ECA Status" unassign="True" locked="False" />
+    <swo name="SQL - Email" unassign="True" locked="False" />
+    <swo name="SQL - EmplID" unassign="False" locked="False" />
+    <swo name="SQL - Final Package" unassign="False" locked="False" />
+    <swo name="SQL - Final Package - Set Flag" unassign="True" locked="False" />
+    <swo name="SQL - Menu" unassign="False" locked="False" />
+    <swo name="SQL - Parameters" unassign="True" locked="False" />
+    <swo name="SQL - Pers" unassign="True" locked="False" />
+    <swo name="SQL - Pers MA NoTax" unassign="True" locked="False" />
+    <swo name="SQL - Reasons" unassign="False" locked="False" />
+    <swo name="SQL - Reasons - Old" unassign="True" locked="False" />
+    <swo name="SQL - Receipts" unassign="True" locked="False" />
+    <swo name="SQL - Serial" unassign="True" locked="False" />
+    <swo name="SQL - Serial - Force" unassign="True" locked="False" />
+    <swo name="SQL - Serial Test" unassign="True" locked="False" />
+    <swo name="SQL - Set ISQLQuote" unassign="True" locked="False" />
+    <swo name="SQL - Update Prep" unassign="True" locked="False" />
+    <swo name="SQL Package" unassign="True" locked="False" />
+    <swo name="Status Monitor" unassign="True" locked="False" />
+    <swo name="Survey - HR Eval - Delete Results" unassign="True" locked="False" />
+    <swo name="Survey - HR Eval - Delete Survey" unassign="True" locked="False" />
+    <swo name="Survey - HR Eval - Retrieve" unassign="True" locked="False" />
+    <swo name="Survey - HR Eval - Safe Retrieve" unassign="True" locked="False" />
+    <swo name="Survey - HR Eval - Send" unassign="False" locked="False" />
+    <swo name="Survey - HR Feedback - Retrieve" unassign="True" locked="False" />
+    <swo name="Survey - HR Feedback - Send" unassign="True" locked="False" />
+    <swo name="Survey - Mrk_Weekly - Replace" unassign="True" locked="False" />
+    <swo name="Survey - Mrk_Weekly - Retrieve" unassign="True" locked="False" />
+    <swo name="Survey - Mrk_Weekly - Send" unassign="True" locked="False" />
+    <swo name="Survey - Retrieve" unassign="True" locked="False" />
+    <swo name="Survey - Send" unassign="True" locked="False" />
+    <swo name="Survey - TruSonic - Retrieve" unassign="True" locked="False" />
+    <swo name="Survey - TruSonic - Send" unassign="True" locked="False" />
+    <swo name="Survey - TruSonic - Turn On" unassign="True" locked="False" />
+    <swo name="Switch DataSend" unassign="True" locked="False" />
+    <swo name="Test" unassign="True" locked="False" />
+    <swo name="TestPoll Lab PC - 1" unassign="True" locked="False" />
+    <swo name="TestPoll Lab PC - 2" unassign="True" locked="False" />
+    <swo name="TestPoll Remodel" unassign="True" locked="False" />
+    <swo name="Underground Icon" unassign="True" locked="False" />
+    <swo name="Update - Add Logos" unassign="True" locked="False" />
+    <swo name="Update - BackupLogs" unassign="True" locked="False" />
+    <swo name="Update - Check Uxtheme.dll" unassign="True" locked="False" />
+    <swo name="Update - DataSend" unassign="True" locked="False" />
+    <swo name="Update - DDS" unassign="True" locked="False" />
+    <swo name="Update - DebitBinRanges" unassign="False" locked="False" />
+    <swo name="Update - DelEngineLog" unassign="True" locked="False" />
+    <swo name="Update - DST" unassign="True" locked="False" />
+    <swo name="Update - EnableCashDrawer" unassign="True" locked="False" />
+    <swo name="Update - EnableHyperTrace" unassign="True" locked="False" />
+    <swo name="Update - EnableOPOS" unassign="True" locked="False" />
+    <swo name="Update - Fix Uxtheme.dll" unassign="True" locked="False" />
+    <swo name="Update - FixComPort" unassign="True" locked="False" />
+    <swo name="Update - FixReplication" unassign="True" locked="False" />
+    <swo name="Update - GroupPolicy" unassign="True" locked="False" />
+    <swo name="Update - HPPrinter" unassign="True" locked="False" />
+    <swo name="Update - HyperEventLogOn" unassign="True" locked="False" />
+    <swo name="Update - Intranet" unassign="True" locked="False" />
+    <swo name="Update - LaunchPortal" unassign="True" locked="False" />
+    <swo name="Update - LexmarkUninstall" unassign="True" locked="False" />
+    <swo name="Update - MarkDownPrg" unassign="True" locked="False" />
+    <swo name="Update - OPOSScanner" unassign="True" locked="False" />
+    <swo name="Update - PayTermDebug" unassign="True" locked="False" />
+    <swo name="Update - PayTermLogBck" unassign="True" locked="False" />
+    <swo name="Update - PayTermRollout" unassign="True" locked="False" />
+    <swo name="Update - Portal" unassign="True" locked="False" />
+    <swo name="Update - Remove Multimedia" unassign="True" locked="False" />
+    <swo name="Update - RWPolling" unassign="True" locked="False" />
+    <swo name="Update - SexHarrasmentSite" unassign="True" locked="False" />
+    <swo name="Update - SP2" unassign="True" locked="False" />
+    <swo name="Update - Spirit Fix" unassign="True" locked="False" />
+    <swo name="Update - Spirit WAN" unassign="True" locked="False" />
+    <swo name="Update - Spirit WAN Force" unassign="True" locked="False" />
+    <swo name="Update - Stampede Off" unassign="True" locked="False" />
+    <swo name="Update - Stampede Pilot" unassign="True" locked="False" />
+    <swo name="Update - StopRebootPingMDM" unassign="True" locked="False" />
+    <swo name="Update - Telxon" unassign="True" locked="False" />
+    <swo name="Update - ToggleAuth" unassign="True" locked="False" />
+    <swo name="Update - ToggleEmail" unassign="True" locked="False" />
+    <swo name="Update - Trovato440200" unassign="True" locked="False" />
+    <swo name="Update - TZ AtlanticStandard" unassign="True" locked="False" />
+    <swo name="Update - TZ CentralDaylight" unassign="True" locked="False" />
+    <swo name="Update - TZ EasternDaylight" unassign="True" locked="False" />
+    <swo name="Update - TZ HawaiianStandard" unassign="True" locked="False" />
+    <swo name="Update - TZ MountainDaylight" unassign="True" locked="False" />
+    <swo name="Update - TZ MountainStandard" unassign="True" locked="False" />
+    <swo name="Update - TZ PacificDaylight" unassign="True" locked="False" />
+    <swo name="Update - Waiting for Poll" unassign="True" locked="False" />
+    <swo name="Update - WebMail" unassign="True" locked="False" />
+    <swo name="Update - WebMailVideoFix" unassign="True" locked="False" />
+    <swo name="Update Package" unassign="False" locked="False" />
+    <swo name="Update: Activate MMF CD" unassign="True" locked="False" />
+    <swo name="Update: Arsopos.dll" unassign="True" locked="False" />
+    <swo name="Update: Authpoint SequenceNum" unassign="True" locked="False" />
+    <swo name="Update: Beta UPT" unassign="True" locked="False" />
+    <swo name="Update: CD Copy Script OLD" unassign="True" locked="False" />
+    <swo name="Update: CopyCDScript" unassign="True" locked="False" />
+    <swo name="Update: CopyCDScript V1.8" unassign="True" locked="False" />
+    <swo name="Update: CopyCDScript V1.9" unassign="True" locked="False" />
+    <swo name="Update: DDS Force" unassign="True" locked="False" />
+    <swo name="Update: DebitBinRange" unassign="False" locked="False" />
+    <swo name="Update: DeleteDB" unassign="True" locked="False" />
+    <swo name="Update: FixReplication (Force)" unassign="True" locked="False" />
+    <swo name="Update: GC_Lookup" unassign="True" locked="False" />
+    <swo name="Update: GCBugFix4255" unassign="True" locked="False" />
+    <swo name="Update: Holiday Pics" unassign="True" locked="False" />
+    <swo name="Update: HP Spirit" unassign="True" locked="False" />
+    <swo name="Update: HypercomOPOSDrivers1_7_16" unassign="True" locked="False" />
+    <swo name="Update: HypercomOPOSDrivers1_7_17RC2" unassign="True" locked="False" />
+    <swo name="Update: Intranet (Force)" unassign="True" locked="False" />
+    <swo name="Update: Menulist.xml Spirit" unassign="True" locked="False" />
+    <swo name="Update: Missing 416 Files" unassign="True" locked="False" />
+    <swo name="Update: Missing 425 str6677" unassign="True" locked="False" />
+    <swo name="Update: PayTerm Pilot" unassign="True" locked="False" />
+    <swo name="Update: PilotUpdateI.zip" unassign="True" locked="False" />
+    <swo name="Update: Polling Fix" unassign="True" locked="False" />
+    <swo name="Update: Portal (Force)" unassign="True" locked="False" />
+    <swo name="Update: RegIEPolicy" unassign="True" locked="False" />
+    <swo name="Update: Register Fix" unassign="True" locked="False" />
+    <swo name="Update: Replace Docs_General" unassign="False" locked="False" />
+    <swo name="Update: Salesperson" unassign="True" locked="False" />
+    <swo name="Update: Samsung Script" unassign="True" locked="False" />
+    <swo name="Update: ScannerConversion" unassign="True" locked="False" />
+    <swo name="Update: ScannerOPOSUninstall.zip" unassign="True" locked="False" />
+    <swo name="Update: Serial Pole Display" unassign="True" locked="False" />
+    <swo name="Update: Spirit PriceCHK Skus" unassign="True" locked="False" />
+    <swo name="Update: Store Wan Scripts" unassign="True" locked="False" />
+    <swo name="Update: Str00060-Reg2" unassign="True" locked="False" />
+    <swo name="Update: Str888Fix" unassign="True" locked="False" />
+    <swo name="Update: Support Menu" unassign="True" locked="False" />
+    <swo name="Update: TestOPOSINI" unassign="True" locked="False" />
+    <swo name="Update: Thermal Script" unassign="True" locked="False" />
+    <swo name="Update: Trovato 4.19.4" unassign="True" locked="False" />
+    <swo name="Update: Trovato 4.25.5" unassign="True" locked="False" />
+    <swo name="Update: Trovato 4.25.5 - 00809" unassign="True" locked="False" />
+    <swo name="Update: Trovato Reg2 4.25.5" unassign="True" locked="False" />
+    <swo name="Update: Umenu.ini" unassign="True" locked="False" />
+    <swo name="Update: Umenu_ini_Spirit" unassign="True" locked="False" />
+    <swo name="Version - Force - 4255cash" unassign="True" locked="False" />
+    <swo name="Videos - ScheduleWriter" unassign="True" locked="False" />
+    <swo name="Virus Definitions" unassign="True" locked="False" />
+</workObjects>

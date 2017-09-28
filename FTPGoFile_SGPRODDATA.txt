@@ -1,0 +1,7 @@
+open SIRIS-AS400.SGICORP.SPENCERGIFTS.COM
+user snobat snotbl
+binary
+CD SGPRODDATA
+PUT \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Go.txt PD19GOFILE.PD19GOFILE (REPLACE
+Close
+Quit

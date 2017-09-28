@@ -1,0 +1,71 @@
+ 
+
+Tue Dec 02 03:54:58 2014 -- Begin Program 
+
+Tue Dec 02 03:54:58 2014 -- Begin writing ProcessRecoveredTlogsFinal.flg 
+
+Tue Dec 02 03:54:58 2014 -- End writing ProcessRecoveredTlogsFinal.flg 
+
+Tue Dec 02 03:54:58 2014 -- Begin compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 03:54:59 2014 -- End compose subprogram to decompress Trovato tlogs 
+
+Tue Dec 02 03:54:59 2014 -- Begin decompress Trovato tlogs 
+
+Tue Dec 02 03:54:59 2014 -- End decompress Trovato tlogs 
+
+Tue Dec 02 03:54:59 2014 -- Begin move Internet sales to Recover folder 
+
+Tue Dec 02 03:54:59 2014 -- End move Internet sales to Recover folder 
+
+Tue Dec 02 03:54:59 2014 -- Begin check Trovato tlogs 
+*** Good Tlog 'TLog04103' (2983)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Good\
+*** Good Tlog 'TLog04104' (29564)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Good\
+
+Tue Dec 02 03:55:00 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 03:55:00 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 03:55:00 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 03:55:01 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 03:55:01 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 03:55:02 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 03:55:02 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 03:55:02 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 03:55:02 2014 -- Begin exclude tlogs from all processing except payroll processing 
+
+Tue Dec 02 03:55:02 2014 -- End exclude tlogs from all processing except payroll processing 
+
+Tue Dec 02 03:55:02 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 03:55:50 2014 -- End call TlogUpdater 
+
+Tue Dec 02 03:55:50 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 03:56:20 2014 -- Wait 120 seconds for the translate to complete... 
+
+Tue Dec 02 03:58:21 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 03:58:21 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 03:58:34 2014 -- Wait 120 seconds for the translate to complete... 
+
+Tue Dec 02 04:00:36 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 04:00:36 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 04:00:36 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 04:00:36 2014 -- Begin deleting ProcessRecoveredTlogsFinal.flg 
+
+Tue Dec 02 04:00:36 2014 -- End deleting ProcessRecoveredTlogsFinal.flg 
+
+Tue Dec 02 04:00:36 2014 -- End Program 

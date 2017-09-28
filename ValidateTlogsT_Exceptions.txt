@@ -1,0 +1,16 @@
+; This file is used to specify stores whose tlogs should be
+; excluded from certain tlog validation.
+;
+; List stores to be excluded using the following format:
+;
+;   NNNNN
+;
+00000
+00005
+03000
+03200
+06499
+06500
+06800
+06999
+07000

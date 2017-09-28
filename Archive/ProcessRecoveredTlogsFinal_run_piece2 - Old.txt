@@ -1,0 +1,61 @@
+
+@goto END
+
+:DECOMPRESS
+  :: Decompress tlog.
+  @if ERROR_FLAG==TRUE goto :EOF
+  :: Set variables.
+  @set TLOG_STORE=%1
+  @if exist \\sghpnas\pos\Data\RecoverT\Zip\%TLOG_STORE%.zip goto DCMPRS
+  @goto :EOF
+
+
+:DCMPRS
+  ::@call :MESS Begin decompress %TLOG_STORE%.zip
+
+  :: Clean up before decompress.
+  if exist \\sghpnas\pos\Data\RecoverT\Zip\%TLOG_STORE% del \\sghpnas\pos\Data\RecoverT\Zip\%TLOG_STORE%
+  @if errorlevel 1 @call :MESS Fatal error deleting \\sghpnas\pos\Data\RecoverT\Zip\%TLOG_STORE% & goto DCMPRSERR
+  if exist \\sghpnas\pos\Data\RecoverT\Zip\%TLOG_STORE%.up del \\sghpnas\pos\Data\RecoverT\Zip\%TLOG_STORE%.up
+  @if errorlevel 1 @call :MESS Fatal error deleting \\sghpnas\pos\Data\RecoverT\Zip\%TLOG_STORE%.up & goto DCMPRSERR
+
+  :: Unzip tlog into the Zip folder.
+  "C:\Program Files\Winzip\wzunzip.exe" \\sghpnas\pos\Data\RecoverT\Zip\%TLOG_STORE%.zip \\sghpnas\pos\Data\RecoverT\Zip %TLOG_STORE%.up
+  @if errorlevel 1 @call :MESS Fatal error unzipping \\sghpnas\pos\Data\RecoverT\Zip\%TLOG_STORE%.zip & goto DCMPRSERR
+
+  :: Rename TlogXXXXX.up to TlogXXXXX
+  ren \\sghpnas\pos\Data\RecoverT\Zip\%TLOG_STORE%.up %TLOG_STORE%
+
+  :: Move the tlog to the Polled folder for further processing.
+  \\sghpnas\pos\Poll\Bin\MoveFile.exe \\sghpnas\pos\Data\RecoverT\Zip\%TLOG_STORE% \\sghpnas\pos\Data\RecoverT
+  @if errorlevel 1 @call :MESS Fatal error moving \\sghpnas\pos\Data\RecoverT\Zip\%TLOG_STORE% to \\sghpnas\pos\Data\RecoverT & goto DCMPRSERR
+
+  :: Move the zip file to the Backup folder.
+  \\sghpnas\pos\Poll\Bin\MoveFile.exe \\sghpnas\pos\Data\RecoverT\Zip\%TLOG_STORE%.zip \\sghpnas\pos\Data\RecoverT\Zip\Backup
+  @if errorlevel 1 @call :MESS Fatal error moving \\sghpnas\pos\Data\RecoverT\Zip\%TLOG_STORE%.zip to \\sghpnas\pos\Data\RecoverT\Zip\Backup & goto DCMPRSERR
+
+  ::@call :MESS End decompress %TLOG_STORE%.zip
+  @goto :EOF
+
+:DCMPRSERR
+  \\sghpnas\pos\Poll\Bin\Movefile.exe \\sghpnas\pos\Data\RecoverT\Zip\%TLOG_STORE%.zip \\sghpnas\pos\Data\RecoverT\Bad\Zip
+
+  @set ERROR_FLAG=TRUE
+  @ren _
+  @goto :EOF
+
+:END
+  @goto :EOF
+
+:MESS
+  :: Write message to log file and screen.
+  @now %1 %2 %3 %4 %5 %6 %7 %8 %9 >> %LOG_FILE%
+  @ver > nul
+  @echo.
+  @now %1 %2 %3 %4 %5 %6 %7 %8 %9
+  @ver > nul
+  @goto :EOF
+
+:ERR
+  :: Force an error code to be returned to the O/S.
+  @ren _

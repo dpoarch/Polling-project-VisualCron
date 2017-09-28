@@ -1,0 +1,1 @@
+blat %POLLING%\Poll\Bin\PostPollingAlert.txt -subject "Post Polling Not Complete" -to AppDevPOSPollingAlerts@spencergifts.com

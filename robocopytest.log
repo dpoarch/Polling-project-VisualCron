@@ -1,0 +1,19 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Thu Jan 23 04:35:32 2014
+
+   Source : P:\pollz\bin\
+     Dest : c:\temp\robocopytest\
+
+    Files : *.*
+	    
+  Options : *.* /S /E /COPY:DAT /MT:8 /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+2014/01/23 04:35:32 ERROR 3 (0x00000003) Accessing Source Directory P:\pollz\bin\
+The system cannot find the path specified.
+ 4:35:32.04 

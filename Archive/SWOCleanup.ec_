@@ -1,0 +1,1598 @@
+TYPE                    = WORK_OBJECT
+
+OBJECTS                 = 3.8.2
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = 3.8.5 from 3.8.2
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = 3.8.8 from 3.8.5
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = 3.8.8 Register
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = 3.8.8 Register Debug
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = 4.1.10n Package
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = 4.1.10p Move Update
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = 4.1.12 - Auth
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = 4.1.12 Package
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = 4.25.5 Update
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = 4.25.5 Update - Reg 2
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Activate GiftCards PaymenTech
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Activate PaymenTech
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Alt+F10 Menu Update
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Authpoint.ini COM2
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = AutoSend Calendar.pdf - Force
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = AutoSend Calendar.pdf - Polling 1
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = AutoSend Calendar.pdf - Polling 2
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = AutoSend Supply.pdf - Force
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = AutoSend Supply.pdf - Polling 1
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = AutoSend Supply.pdf - Polling 2
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Backup
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Cart - Authpoint.ini
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Cart - Fix Password Script
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Cart - Fix RegNum
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Cart - Fix Regnum Script
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Cart - Get Cashiers
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Cart - Send Cashiers
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Cart Package
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Cart Testpoll - Home Office
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Cart Testpoll - Store
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Cart USB Modem
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = ChangeTrans
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = CHECK CLIENT DISK
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Check for Current Version
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Closing Store
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Config - verUpgrade.flg
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Convert to Holiday
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Convert To TCP/IP Polling
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Data Send Permanent Tasks
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Delete LOB.txt
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Delete LOB_Departments.txt
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Delete LOB_POSManual.txt
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Delete Update.zip
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Delete Version.txt
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Documents - Daily
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Documents - Force
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Documents - Interstore
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Documents - Lab - Force
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Documents - Lab - Force BU
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Documents - Lab - Menu
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Documents - Menu
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Documents - Nightly OLD
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Documents - PNP Manual Update
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Documents - POS Manual Chapters
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Documents - POS Manual Update
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Documents - Skubook - Send
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Documents - Special
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Documents - Special 2
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Documents - Update
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Epson Driver
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = EXECUTE Auth.sql
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = EXECUTE AuthSetStatus.sql
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = EXECUTE delete StoreList.sql
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = EXECUTE delete_PLU.sql
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = EXECUTE delete_PO.sql
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = EXECUTE delete_whs_ack.sql
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = EXECUTE DeleteFromPOSReportingTable
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = EXECUTE DropTable_POSReporting
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = EXECUTE Fixdept.sql
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = EXECUTE Fixdept.sql - OLD
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = EXECUTE FixUpdate.sql
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = EXECUTE FixUpdateErrors.sql
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = EXECUTE FixVersion.sql
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = EXECUTE Menu.sql
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = EXECUTE Misc_Options.sql
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = EXECUTE OWA Enable
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = EXECUTE Pers.sql
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = EXECUTE Priceoverride.sql
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = EXECUTE Reasons.sql
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = EXECUTE SysRemoteUser.sql
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Force CD Update - 4257p
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Full PLU
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Full PLU New Store HO Testpoll
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Get Asset Tag
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Get Auth Except Table
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Get Backed Up Tlogs
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Get CurrentVersions
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Get DataSend
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Get DBRemt.log
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Get FixComPort Log
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Get Logs
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Get Logs 1-3
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Get Logs All APDebugLogs
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Get Logs Apdebug.log
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Get Logs NoRecycle
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Get Logs Reg1
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Get Logs Reg2
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Get Logs Reg3
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Get Mac Address.txt
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Get MacAndIpAddress.txt
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Get posbackup.zip
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Get RegisterUpdates
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Get Scanner.Done
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Get Thermal.Done
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Get TimeCard Files - All
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Get TimecardHours
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Get TLOG Backup
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Get Updates.txt
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Get Ustartup.ini
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Get Uxtheme.dll
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Get WSH Version
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = IA - LP_RegBankVerify - Retrieve
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = IA - LP_RegBankVerify - Send
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = IA - Ops_Count - Retrieve
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = IA - Ops_Count - Send
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = IA - Party Planner - Send
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = IA - StoreWan - Send
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Interactive Forms
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Journals
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Journals Reg1
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Journals Reg1 Day
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Journals Reg2
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Journals Reg2 Day
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Journals Reg3
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Journals Reg4
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Journals Reg5
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Keyboard
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = List Auth Except Table
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = List Cashier Table
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = List InterStore Transfer Table
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = List Paymentech Auth
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = List Sysoptions Table
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = List Timecard Tables
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = List Updates
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Login Settings
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Logs Old
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Logs Reg1 OLD
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Logs Reg2 OLD
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Logs Reg3 OLD
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Mail File
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Make-up Rollout Package
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Make-up Store Testpoll - Store
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = New Master Update
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = New Store Buildpoll
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = New Store Buildpoll - Set Flag
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = New Store Testpoll - Home Office
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = New Store Testpoll - Set Flag
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = New Store Testpoll - Store
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = No Layaway Sale
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Office Menu
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Parallel Drivers
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Parm Change - Carriers FedEx
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Parm Change - Clean Receipt Off
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Parm Change - Closing Reports
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Parm Change - Delete Reversals
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Parm Change - DelJobCode
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Parm Change - Demographics_Off
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Parm Change - Demographics_On
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Parm Change - DisableReconAutoSkip
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Parm Change - Disclaimer
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Parm Change - Discounting
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Parm Change - Email Capture
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Parm Change - Email Config
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Parm Change - Email Config CC
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Parm Change - Emp Disc
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Parm Change - EmpTrans - OFF
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Parm Change - EmpTrans - ON
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Parm Change - Fix SSN
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Parm Change - FORCE Email Capture
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Parm Change - FORCE PayrollChecks
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Parm Change - GiftCard_ItemCorrect
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Parm Change - GiftCard_RefundOff
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Parm Change - GiftReceipts
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Parm Change - GiftReceipts Off
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Parm Change - Holiday Spirit
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Parm Change - HolidayEmpDiscOff
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Parm Change - HolidayEmpDiscOn
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Parm Change - InterStore - On
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Parm Change - Item HS
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Parm Change - ItemCorrectReceipt
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Parm Change - JobCode Spirit
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Parm Change - JobCodes
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Parm Change - Literals
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Parm Change - LP Changes
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Parm Change - Misc Options
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Parm Change - MiscOptns - Purging
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Parm Change - Mrk_CardNonDistrib - Off
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Parm Change - Mrk_CardNonDistrib - On
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Parm Change - Mrk_CardRedeem - Off
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Parm Change - Mrk_CardRedeem - On
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Parm Change - No Cash Refund
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Parm Change - NonMerch
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Parm Change - NoValueLink
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Parm Change - Ops_Award - Off
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Parm Change - Ops_Award - On
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Parm Change - Ops_Fixtures - Off
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Parm Change - Ops_Fixtures - On
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Parm Change - Ops_Fridge - Off
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Parm Change - Ops_NewYears - Off
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Parm Change - Ops_NewYears - On
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Parm Change - Ops_Proto2006 - Off
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Parm Change - Ops_Proto2006 - On
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Parm Change - Ops_Spinner - Off
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Parm Change - Ops_Spinner - On
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Parm Change - Ops_TV - Off
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Parm Change - ParkVoucher
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Parm Change - ParkVoucher06
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Parm Change - Payroll Checks Fri
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Parm Change - Payroll Checks Sat
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Parm Change - Payroll MgrHR Off
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Parm Change - Payroll Sat
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Parm Change - Price Override
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Parm Change - Purging
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Parm Change - PV On Spirit
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Parm Change - Ranges_MailCheck
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Parm Change - Receipts
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Parm Change - SKU Fix
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Parm Change - StoreTransfer
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Parm Change - SupplyItem Menu
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Parm Change - TelxonTransfer_On
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Parm Change - Training Off
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Parm Change - TravelersCheckAuthOff
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Pilot Copy CD
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Pilot Update I
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Poll Tlog to ClosingStoreTLogs
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Poll Tlog to NewStoreTlogs
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Poll Tlog to NewStoreTlogs OLD
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Poll Tlog to RecoverT
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Poll.ok
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Prepare Store - 00201
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = REBOOT
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = RemoveFromSession
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Repay Form
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Reports Execution
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Rollout Package: Store - Spencers
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = RWS pcAnywhere Client Delivery - Full
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = RWS pcAnywhere Client Update
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = RWS pcAnywhere Client Update 2
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = RWS Software Manager 95Client ESD
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = RWS Software Manager Client ESD
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = RWS Software Manager Listing Worklist
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = RWS Software Manager NTClient ESD
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = RWS Software Manager Win32 Client ESD
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = SalePoint
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Scandisk
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Send ChangeCashier.vbs
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Send ListAuthExcept
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Send menulist.xml Spirit
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Send possku.dwn
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Send reloadRW.bat
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Send SetPVSkus.vbs
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Send SwitchRemoteWare.vbs
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Serial Poll Display Update
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = ServiceSleuth - Send All
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Set Client Time
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Set Flag - Polling 1
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Set Flag - Polling 2
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Set Flag - Polling 3
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Set Flag - Polling 4
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Set Flag - Polling 5
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Set Flag - Post Polling
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Set To No Cash Refund
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Spirit Menulist.xml
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = SQL - Auth
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = SQL - Bank Deposit RMU
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = SQL - Delete Cashier 123
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = SQL - ECA Status
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = SQL - Email
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = SQL - Final Package - Set Flag
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = SQL - Parameters
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = SQL - Pers
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = SQL - Pers MA NoTax
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = SQL - Reasons - Old
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = SQL - Receipts
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = SQL - Serial
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = SQL - Serial - Force
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = SQL - Serial Test
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = SQL - Set ISQLQuote
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = SQL - Update Prep
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = SQL Package
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Status Monitor
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Survey - HR Eval - Delete Results
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Survey - HR Eval - Delete Survey
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Survey - HR Eval - Retrieve
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Survey - HR Eval - Safe Retrieve
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Survey - HR Feedback - Retrieve
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Survey - HR Feedback - Send
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Survey - Mrk_Weekly - Replace
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Survey - Mrk_Weekly - Retrieve
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Survey - Mrk_Weekly - Send
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Survey - Retrieve
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Survey - Send
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Survey - TruSonic - Retrieve
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Survey - TruSonic - Send
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Survey - TruSonic - Turn On
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Switch DataSend
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Test
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = TestPoll Lab PC - 1
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = TestPoll Lab PC - 2
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = TestPoll Remodel
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Underground Icon
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update - Add Logos
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update - BackupLogs
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update - Check Uxtheme.dll
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update - DataSend
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update - DDS
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update - DelEngineLog
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update - DST
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update - EnableCashDrawer
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update - EnableHyperTrace
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update - EnableOPOS
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update - Fix Uxtheme.dll
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update - FixComPort
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update - FixReplication
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update - GroupPolicy
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update - HPPrinter
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update - HyperEventLogOn
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update - Intranet
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update - LaunchPortal
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update - LexmarkUninstall
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update - MarkDownPrg
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update - OPOSScanner
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update - PayTermDebug
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update - PayTermLogBck
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update - PayTermRollout
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update - Portal
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update - Remove Multimedia
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update - RWPolling
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update - SexHarrasmentSite
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update - SP2
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update - Spirit Fix
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update - Spirit WAN
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update - Spirit WAN Force
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update - Stampede Off
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update - Stampede Pilot
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update - StopRebootPingMDM
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update - Telxon
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update - ToggleAuth
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update - ToggleEmail
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update - Trovato440200
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update - TZ AtlanticStandard
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update - TZ CentralDaylight
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update - TZ EasternDaylight
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update - TZ HawaiianStandard
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update - TZ MountainDaylight
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update - TZ MountainStandard
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update - TZ PacificDaylight
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update - Waiting for Poll
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update - WebMail
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update - WebMailVideoFix
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update: Activate MMF CD
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update: Arsopos.dll
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update: Authpoint SequenceNum
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update: Beta UPT
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update: CD Copy Script OLD
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update: CopyCDScript
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update: CopyCDScript V1.8
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update: CopyCDScript V1.9
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update: DDS Force
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update: DeleteDB
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update: FixReplication (Force)
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update: GC_Lookup
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update: GCBugFix4255
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update: Holiday Pics
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update: HP Spirit
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update: HypercomOPOSDrivers1_7_16
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update: HypercomOPOSDrivers1_7_17RC2
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update: Intranet (Force)
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update: Menulist.xml Spirit
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update: Missing 416 Files
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update: Missing 425 str6677
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update: PayTerm Pilot
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update: PilotUpdateI.zip
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update: Polling Fix
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update: Portal (Force)
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update: RegIEPolicy
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update: Register Fix
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update: Salesperson
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update: Samsung Script
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update: ScannerConversion
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update: ScannerOPOSUninstall.zip
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update: Serial Pole Display
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update: Spirit PriceCHK Skus
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update: Store Wan Scripts
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update: Str00060-Reg2
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update: Str888Fix
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update: Support Menu
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update: TestOPOSINI
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update: Thermal Script
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update: Trovato 4.19.4
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update: Trovato 4.25.5
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update: Trovato 4.25.5 - 00809
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update: Trovato Reg2 4.25.5
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update: Umenu.ini
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Update: Umenu_ini_Spirit
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Version - Force - 4255cash
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Videos - ScheduleWriter
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+
+OBJECTS                 = Virus Definitions
+ACTION                  = UPDATE
+UNASSIGN_CLIENTS        = ALL
+

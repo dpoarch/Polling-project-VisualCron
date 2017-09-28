@@ -1,0 +1,1 @@
+ipconfig >> %POLLING%\Poll\Bin\ipconfig.txt

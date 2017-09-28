@@ -1,0 +1,5 @@
+open SIRIS-AS400.SGICORP.SPENCERGIFTS.COM
+user snobat snotbl
+binary
+CD SGPRODDATA
+Quit

@@ -1,0 +1,6 @@
+open SIRIS-AS400.SGICORP.SPENCERGIFTS.COM
+user snobat snotbl                                                      
+CD sgproddata
+get pd1542a01  \\sghpnas\pos\poll\outboundt\mail.txt (replace
+close
+quit

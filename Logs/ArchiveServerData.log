@@ -1,0 +1,25 @@
+ 
+
+Mon Dec 01 21:15:08 2014 -- Begin Program 
+
+Mon Dec 01 21:15:08 2014 -- Begin setting archive folder name 
+
+Mon Dec 01 21:15:08 2014 -- End setting archive folder name 
+
+Mon Dec 01 21:15:08 2014 -- Begin archive \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Interface\HR\*.* 
+
+Mon Dec 01 21:15:09 2014 -- End archive \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Interface\HR\*.* 
+
+Mon Dec 01 21:15:09 2014 -- Begin archive \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\NoRecycleT\Zip\*.* 
+
+Mon Dec 01 21:15:09 2014 -- End archive \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\NoRecycleT\Zip\*.* 
+
+Mon Dec 01 21:15:09 2014 -- Begin generate RemoteWare configuration data 
+
+Mon Dec 01 21:15:10 2014 -- End generate RemoteWare configuration data 
+
+Mon Dec 01 21:15:10 2014 -- Begin set flag to show that Pre-Polling Step 1 
+
+Mon Dec 01 21:15:10 2014 -- End set flag to show that Pre-Polling Step 1 
+
+Mon Dec 01 21:15:11 2014 -- End Program 

@@ -1,0 +1,11 @@
+:: CompressStoreMain_Live_run.cmd
+::
+:: Dynamically built and by CompressStoreMail_Live.cmd
+
+  :: Set variables.
+  @set ERROR_FLAG=FALSE
+  @set WARNING_FLAG=FALSE
+  @set PROG_FOLDER=%POLLING%\Poll\Bin
+  @set LOG_FILE=%PROG_FOLDER%\Logs\CompressStoreMail_Live.log
+  @set ERR_FILE=%PROG_FOLDER%\Logs\CompressStoreMail_Live.err
+

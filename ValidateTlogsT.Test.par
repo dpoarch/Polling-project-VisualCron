@@ -1,0 +1,6 @@
+TLOGS = \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Test\ValidateTlogsT\Tlogs\
+MOVEGOOD = \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Test\ValidateTlogsT\Good\
+MOVEBAD = \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Test\ValidateTlogsT\Bad\
+EXCEPTIONS = \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\ValidateTlogsT_Exceptions.txt
+EXCLUDEFILE = \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Auditworks\Translate\exclude.dat
+MOVEGOODEXCLUDE = \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Test\ValidateTlogsT\Good\

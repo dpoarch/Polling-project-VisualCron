@@ -1,0 +1,7 @@
+TLOGS = \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Polled\Tlog*.*
+FORMAT = TROVATO
+MOVEGOOD = \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Good
+MOVEBAD = \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\Bad
+FEEDBACK = 2
+LOG = \sghpnas\pos\POll\Bin\Logs\ValidateTlogs.Poll.TlogT.log
+

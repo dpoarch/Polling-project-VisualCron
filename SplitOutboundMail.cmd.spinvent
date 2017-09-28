@@ -1,0 +1,34 @@
+@ECHO Split outbound mail and include Home Office Special Count test data.
+@ECHO.
+@PAUSE
+
+REM Backup SITELIST.txt
+E:
+CD \Poll\StoreMail
+COPY SITELIST.txt SITELIST.bak
+DEL SITELIST.txt
+
+REM Split Outbound Mail
+CALL E:\Poll\Bin\SplitMail.exe INFILE=E:\Poll\Outbound\Mail1a OUTPATH=E:\Poll\StoreMail SITELIST=TRUE ADDFILE=E:\Data\StoreMail\Spinvent\hocount.chg
+CALL E:\Poll\Bin\SplitMail.exe INFILE=E:\Poll\Outbound\Mail1b OUTPATH=E:\Poll\StoreMail SITELIST=TRUE ADDFILE=E:\Data\StoreMail\Spinvent\hocount.chg
+CALL E:\Poll\Bin\SplitMail.exe INFILE=E:\Poll\Outbound\Mail1c OUTPATH=E:\Poll\StoreMail SITELIST=TRUE ADDFILE=E:\Data\StoreMail\Spinvent\hocount.chg
+CALL E:\Poll\Bin\SplitMail.exe INFILE=E:\Poll\Outbound\Mail1d OUTPATH=E:\Poll\StoreMail SITELIST=TRUE ADDFILE=E:\Data\StoreMail\Spinvent\hocount.chg
+CALL E:\Poll\Bin\SplitMail.exe INFILE=E:\Poll\Outbound\Mail1e OUTPATH=E:\Poll\StoreMail SITELIST=TRUE ADDFILE=E:\Data\StoreMail\Spinvent\hocount.chg
+CALL E:\Poll\Bin\SplitMail.exe INFILE=E:\Poll\Outbound\Mail2a OUTPATH=E:\Poll\StoreMail SITELIST=TRUE ADDFILE=E:\Data\StoreMail\Spinvent\hocount.chg
+CALL E:\Poll\Bin\SplitMail.exe INFILE=E:\Poll\Outbound\Mail2b OUTPATH=E:\Poll\StoreMail SITELIST=TRUE ADDFILE=E:\Data\StoreMail\Spinvent\hocount.chg
+CALL E:\Poll\Bin\SplitMail.exe INFILE=E:\Poll\Outbound\Mail2c OUTPATH=E:\Poll\StoreMail SITELIST=TRUE ADDFILE=E:\Data\StoreMail\Spinvent\hocount.chg
+CALL E:\Poll\Bin\SplitMail.exe INFILE=E:\Poll\Outbound\Mail2d OUTPATH=E:\Poll\StoreMail SITELIST=TRUE ADDFILE=E:\Data\StoreMail\Spinvent\hocount.chg
+CALL E:\Poll\Bin\SplitMail.exe INFILE=E:\Poll\Outbound\Mail2e OUTPATH=E:\Poll\StoreMail SITELIST=TRUE ADDFILE=E:\Data\StoreMail\Spinvent\hocount.chg
+
+REM Copy #538's mail to #999
+COPY E:\Poll\StoreMail\Mail00538 E:\Poll\StoreMail\Mail00999
+
+REM Copy SiteList to AuditWorks server
+COPY E:\Poll\StoreMail\SiteList.txt \\SGINTAW\Sybwork\Spencer\Data
+
+@ECHO.
+@ECHO Program Complete!
+@ECHO.
+@PAUSE
+
+:END

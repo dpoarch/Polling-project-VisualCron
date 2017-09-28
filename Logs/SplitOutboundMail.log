@@ -1,0 +1,81 @@
+ 
+
+Mon Dec 01 22:20:02 2014 -- Begin Program 
+
+Mon Dec 01 22:20:02 2014 -- Begin backup site list 
+
+Mon Dec 01 22:20:02 2014 -- End backup site list 
+
+Mon Dec 01 22:20:02 2014 -- Begin retrive store address file 
+
+Mon Dec 01 22:20:07 2014 -- End retrive store address file 
+
+Mon Dec 01 22:20:08 2014 -- Begin retrive interstore transfers file 
+
+Mon Dec 01 22:20:08 2014 -- End retrive interstore transfers file 
+
+Mon Dec 01 22:20:08 2014 -- Begin retrieve smtpmail file 
+
+Mon Dec 01 22:20:16 2014 -- End retrieve smtpmail file 
+
+Mon Dec 01 22:20:16 2014 -- Begin copy smtpmail.txt to programming 
+
+Mon Dec 01 22:20:21 2014 -- End copy smtpmail.txt to programming 
+
+Mon Dec 01 22:20:21 2014 -- Begin unzip mail.zip file 
+
+Mon Dec 01 22:20:21 2014 -- End unzip mail.zip file 
+
+Mon Dec 01 22:20:21 2014 -- begin Restore original mail file 
+
+Mon Dec 01 22:20:21 2014 -- end restore original mail file 
+
+Mon Dec 01 22:20:22 2014 -- Begin appending StoreTransfer.txt 
+
+Mon Dec 01 22:20:22 2014 -- End appending StoreTransfer.txt 
+
+Mon Dec 01 22:20:22 2014 -- Begin appending ShipSend.txt 
+
+Mon Dec 01 22:20:22 2014 -- End appending ShipSend.txt 
+
+Mon Dec 01 22:20:22 2014 -- Begin appending SonicWall.txt 
+
+Mon Dec 01 22:20:22 2014 -- End appending SonicWall.txt 
+
+Mon Dec 01 22:20:22 2014 -- Begin appending StoreStatus.txt 
+
+Mon Dec 01 22:20:22 2014 -- End appending StoreStatus.txt 
+
+Mon Dec 01 22:20:22 2014 -- Begin appending update.txt 
+
+Mon Dec 01 22:20:29 2014 -- End appending update.txt 
+
+Mon Dec 01 22:20:29 2014 -- Begin copying mail.txt to WizConvert 
+
+Mon Dec 01 22:20:29 2014 -- End copying mail.txt to WizConvert 
+
+Mon Dec 01 22:20:29 2014 -- Begin appending SmtpMail.txt 
+
+Mon Dec 01 22:20:42 2014 -- End appending SmtpMail.txt 
+
+Mon Dec 01 22:20:42 2014 -- Begin split mail 
+
+Mon Dec 01 22:22:13 2014 -- End split mail 
+
+Mon Dec 01 22:22:14 2014 -- Begin copy mail from #538 to Lab PCs 
+
+Mon Dec 01 22:22:19 2014 -- End copy mail from #538 to Lab PCs 
+
+Mon Dec 01 22:22:19 2014 -- Begin Duplication of Mail Files 
+
+Mon Dec 01 22:22:19 2014 -- End Duplication of Mail Files 
+
+Mon Dec 01 22:22:19 2014 -- Begin copy site list to AuditWorks server 
+
+Mon Dec 01 22:22:19 2014 -- End copy site list to AuditWorks server 
+
+Mon Dec 01 22:22:19 2014 -- Begin get Translate Exclude file 
+
+Mon Dec 01 22:22:19 2014 -- End get Translate Exclude file 
+
+Mon Dec 01 22:22:20 2014 -- End Program 

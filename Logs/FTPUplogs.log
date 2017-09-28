@@ -1,0 +1,26 @@
+ 
+
+Tue Dec 02 04:01:29 2014 -- Begin Program 
+
+Tue Dec 02 04:01:29 2014 -- FTP the UplogsTMask File to SGPRODDATA 
+ftp> ftp> open SIRIS-AS400.SGICORP.SPENCERGIFTS.COM
+ftp> user snobat snotbl
+ftp> CD SGPRODDATA
+ftp> PUT \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Upload\UplogsTMask TROVATOTLG.TROVATOTLG (REPLACE
+ftp> Close
+Quit
+
+Tue Dec 02 04:01:38 2014 -- Wait 60 seconds for the file to arrive... 
+
+Tue Dec 02 04:02:39 2014 -- FTP the Go File to SGPRODDATA 
+ftp> ftp> open SIRIS-AS400.SGICORP.SPENCERGIFTS.COM
+ftp> user snobat snotbl
+ftp> binary
+ftp> CD SGPRODDATA
+ftp> PUT \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Go.txt PD19GOFILE.PD19GOFILE (REPLACE
+ftp> Close
+Quit
+
+Tue Dec 02 04:02:39 2014 -- Send Go-File notification email 
+
+Tue Dec 02 04:02:40 2014 -- End Program 

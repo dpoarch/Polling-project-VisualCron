@@ -1,0 +1,1 @@
+Post Polling failed to begin to Remove the Snapshot by the specified time.

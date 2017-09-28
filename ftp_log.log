@@ -1,0 +1,5 @@
+ftp> ftp> open SIRIS-AS400.SGICORP.SPENCERGIFTS.COM
+ftp> user snobat snotbl
+ftp> binary
+ftp> CD SGPRODDATA
+Quit

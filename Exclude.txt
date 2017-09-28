@@ -1,0 +1,32 @@
+; This file is used to specify stores whose tlogs should be
+; excluded from some or all tlog processing.
+;
+; List stores to be excluded using the following format:
+;
+;   X NNNNN
+;
+;   X = Exclude type:
+;         A = exclude from all processing
+;         P = (DEFUNCT) exclude from all processing EXCEPT payroll processing
+;         I = exclude from internal (from AUDITWORKS)
+;         U = exclude from upload (from SIRIS)
+;         
+;
+; NOTE: After modifying this file, you must run
+;       BuildTlogExcludeCommands.cmd
+;
+I 00000
+A 00900
+A 00901
+A 00905
+A 00910
+A 00911
+A 00912
+A 00997
+A 00998
+A 00999
+A 20997
+A 08990
+A 08991
+A 08992
+A 08993

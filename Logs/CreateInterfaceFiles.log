@@ -1,0 +1,25 @@
+ 
+
+Tue Dec 02 04:02:40 2014 -- Begin Program 
+
+Tue Dec 02 04:02:40 2014 -- Begin generate Payroll and Employee interface files 
+
+Tue Dec 02 04:02:40 2014 -- End generate Payroll and Employee interface files 
+
+Tue Dec 02 04:02:40 2014 -- Begin generate Ends interface file 
+
+Tue Dec 02 04:02:41 2014 -- Ends generate Ends interface file 
+
+Tue Dec 02 04:02:41 2014 -- Begin generate polling reports 
+
+Tue Dec 02 04:02:41 2014 -- End generate polling reports 
+
+Tue Dec 02 04:02:41 2014 -- Begin copy IpLogs to NaviStor server 
+
+Tue Dec 02 04:02:45 2014 -- End copy IpLogs to NaviStor server 
+
+Tue Dec 02 04:02:45 2014 -- Begin extract Underground Data 
+
+Tue Dec 02 04:02:57 2014 -- End extract Underground Data 
+
+Tue Dec 02 04:02:57 2014 -- End Program 

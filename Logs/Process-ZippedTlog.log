@@ -1,0 +1,1335 @@
+
+                     *******************
+2014-12-02T04:30:06  Params loaded - Program will start
+                     *******************
+
+2014-12-02T04:30:07  Params:
+2014-12-02T04:30:07     ZIPLOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.ziplog
+2014-12-02T04:30:07     LOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.log
+2014-12-02T04:30:07     UNZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T04:30:07     FORWARD_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT
+2014-12-02T04:30:07     ZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T04:30:07     BACKUP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup
+2014-12-02T04:30:07  Begin Process-ZippedTlogs
+2014-12-02T04:30:07  Begin Get-ZippedTlog
+2014-12-02T04:30:07  Found 0 tlogs
+2014-12-02T04:30:07  End Get-ZippedTlog
+2014-12-02T04:30:07  End Process-ZippedTlogs
+
+                     *******************
+2014-12-02T04:40:03  Params loaded - Program will start
+                     *******************
+
+2014-12-02T04:40:03  Params:
+2014-12-02T04:40:03     ZIPLOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.ziplog
+2014-12-02T04:40:03     LOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.log
+2014-12-02T04:40:03     UNZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T04:40:03     FORWARD_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT
+2014-12-02T04:40:03     ZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T04:40:03     BACKUP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup
+2014-12-02T04:40:03  Begin Process-ZippedTlogs
+2014-12-02T04:40:03  Begin Get-ZippedTlog
+2014-12-02T04:40:03  Found 0 tlogs
+2014-12-02T04:40:03  End Get-ZippedTlog
+2014-12-02T04:40:03  End Process-ZippedTlogs
+
+                     *******************
+2014-12-02T04:50:03  Params loaded - Program will start
+                     *******************
+
+2014-12-02T04:50:03  Params:
+2014-12-02T04:50:03     ZIPLOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.ziplog
+2014-12-02T04:50:03     LOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.log
+2014-12-02T04:50:03     UNZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T04:50:03     FORWARD_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT
+2014-12-02T04:50:03     ZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T04:50:03     BACKUP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup
+2014-12-02T04:50:03  Begin Process-ZippedTlogs
+2014-12-02T04:50:03  Begin Get-ZippedTlog
+2014-12-02T04:50:03  Found 0 tlogs
+2014-12-02T04:50:03  End Get-ZippedTlog
+2014-12-02T04:50:03  End Process-ZippedTlogs
+
+                     *******************
+2014-12-02T05:00:04  Params loaded - Program will start
+                     *******************
+
+2014-12-02T05:00:04  Params:
+2014-12-02T05:00:04     ZIPLOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.ziplog
+2014-12-02T05:00:04     LOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.log
+2014-12-02T05:00:04     UNZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T05:00:04     FORWARD_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT
+2014-12-02T05:00:04     ZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T05:00:04     BACKUP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup
+2014-12-02T05:00:04  Begin Process-ZippedTlogs
+2014-12-02T05:00:04  Begin Get-ZippedTlog
+2014-12-02T05:00:04  Found 0 tlogs
+2014-12-02T05:00:04  End Get-ZippedTlog
+2014-12-02T05:00:04  End Process-ZippedTlogs
+
+                     *******************
+2014-12-02T05:10:03  Params loaded - Program will start
+                     *******************
+
+2014-12-02T05:10:03  Params:
+2014-12-02T05:10:03     ZIPLOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.ziplog
+2014-12-02T05:10:03     LOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.log
+2014-12-02T05:10:03     UNZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T05:10:03     FORWARD_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT
+2014-12-02T05:10:03     ZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T05:10:03     BACKUP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup
+2014-12-02T05:10:03  Begin Process-ZippedTlogs
+2014-12-02T05:10:03  Begin Get-ZippedTlog
+2014-12-02T05:10:03  Found 0 tlogs
+2014-12-02T05:10:04  End Get-ZippedTlog
+2014-12-02T05:10:04  End Process-ZippedTlogs
+
+                     *******************
+2014-12-02T05:20:03  Params loaded - Program will start
+                     *******************
+
+2014-12-02T05:20:03  Params:
+2014-12-02T05:20:03     ZIPLOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.ziplog
+2014-12-02T05:20:03     LOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.log
+2014-12-02T05:20:03     UNZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T05:20:03     FORWARD_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT
+2014-12-02T05:20:03     ZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T05:20:03     BACKUP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup
+2014-12-02T05:20:03  Begin Process-ZippedTlogs
+2014-12-02T05:20:03  Begin Get-ZippedTlog
+2014-12-02T05:20:03  Found 0 tlogs
+2014-12-02T05:20:03  End Get-ZippedTlog
+2014-12-02T05:20:03  End Process-ZippedTlogs
+
+                     *******************
+2014-12-02T05:30:06  Params loaded - Program will start
+                     *******************
+
+2014-12-02T05:30:06  Params:
+2014-12-02T05:30:06     ZIPLOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.ziplog
+2014-12-02T05:30:06     LOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.log
+2014-12-02T05:30:06     UNZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T05:30:06     FORWARD_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT
+2014-12-02T05:30:06     ZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T05:30:06     BACKUP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup
+2014-12-02T05:30:06  Begin Process-ZippedTlogs
+2014-12-02T05:30:06  Begin Get-ZippedTlog
+2014-12-02T05:30:06  Found 0 tlogs
+2014-12-02T05:30:06  End Get-ZippedTlog
+2014-12-02T05:30:06  End Process-ZippedTlogs
+
+                     *******************
+2014-12-02T05:40:21  Params loaded - Program will start
+                     *******************
+
+2014-12-02T05:40:21  Params:
+2014-12-02T05:40:21     ZIPLOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.ziplog
+2014-12-02T05:40:21     LOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.log
+2014-12-02T05:40:21     UNZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T05:40:21     FORWARD_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT
+2014-12-02T05:40:21     ZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T05:40:21     BACKUP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup
+2014-12-02T05:40:21  Begin Process-ZippedTlogs
+2014-12-02T05:40:21  Begin Get-ZippedTlog
+2014-12-02T05:40:21  Found 0 tlogs
+2014-12-02T05:40:21  End Get-ZippedTlog
+2014-12-02T05:40:21  End Process-ZippedTlogs
+
+                     *******************
+2014-12-02T05:50:03  Params loaded - Program will start
+                     *******************
+
+2014-12-02T05:50:03  Params:
+2014-12-02T05:50:03     ZIPLOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.ziplog
+2014-12-02T05:50:03     LOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.log
+2014-12-02T05:50:03     UNZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T05:50:03     FORWARD_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT
+2014-12-02T05:50:03     ZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T05:50:03     BACKUP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup
+2014-12-02T05:50:03  Begin Process-ZippedTlogs
+2014-12-02T05:50:03  Begin Get-ZippedTlog
+2014-12-02T05:50:03  Found 1 tlogs
+2014-12-02T05:50:03  Begin Process-ZippedTlog for Tlog03068.zip
+2014-12-02T05:50:03  Begin Clear-UnpackedTlog
+2014-12-02T05:50:03  End Clear-UnpackedTlog
+2014-12-02T05:50:03  Begin Unzip-ZippedTlog
+2014-12-02T05:50:05  Unzipped Tlog03068.zip to Tlog03068.up
+2014-12-02T05:50:05  End Unzip-ZippedTlog
+2014-12-02T05:50:05  Begin Rename-UnpackedTlog
+2014-12-02T05:50:05  Renamed Tlog03068.up to Tlog03068
+2014-12-02T05:50:05  End Rename-UnpackedTlog
+2014-12-02T05:50:05  Begin Forward-UnpackedTlog
+2014-12-02T05:50:05  Begin SafelyMove-Item
+2014-12-02T05:50:05  Moved Tlog03068 to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Tlog03068
+2014-12-02T05:50:05  End SafelyMove-Item
+2014-12-02T05:50:05  End Forward-UnpackedTlog
+2014-12-02T05:50:05  Begin Backup-ZippedTlog
+2014-12-02T05:50:05  Begin SafelyMove-Item
+2014-12-02T05:50:05  Moved Tlog03068.zip to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup\Tlog03068.zip
+2014-12-02T05:50:05  End SafelyMove-Item
+2014-12-02T05:50:05  End Backup-ZippedTlog
+2014-12-02T05:50:05  End Process-ZippedTlog for Tlog03068.zip
+2014-12-02T05:50:05  End Get-ZippedTlog
+2014-12-02T05:50:05  End Process-ZippedTlogs
+
+                     *******************
+2014-12-02T06:00:09  Params loaded - Program will start
+                     *******************
+
+2014-12-02T06:00:09  Params:
+2014-12-02T06:00:09     ZIPLOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.ziplog
+2014-12-02T06:00:09     LOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.log
+2014-12-02T06:00:09     UNZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T06:00:09     FORWARD_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT
+2014-12-02T06:00:09     ZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T06:00:09     BACKUP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup
+2014-12-02T06:00:09  Begin Process-ZippedTlogs
+2014-12-02T06:00:09  Begin Get-ZippedTlog
+2014-12-02T06:00:09  Found 0 tlogs
+2014-12-02T06:00:09  End Get-ZippedTlog
+2014-12-02T06:00:09  End Process-ZippedTlogs
+
+                     *******************
+2014-12-02T06:10:03  Params loaded - Program will start
+                     *******************
+
+2014-12-02T06:10:03  Params:
+2014-12-02T06:10:03     ZIPLOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.ziplog
+2014-12-02T06:10:03     LOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.log
+2014-12-02T06:10:03     UNZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T06:10:03     FORWARD_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT
+2014-12-02T06:10:03     ZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T06:10:03     BACKUP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup
+2014-12-02T06:10:03  Begin Process-ZippedTlogs
+2014-12-02T06:10:03  Begin Get-ZippedTlog
+2014-12-02T06:10:03  Found 0 tlogs
+2014-12-02T06:10:03  End Get-ZippedTlog
+2014-12-02T06:10:03  End Process-ZippedTlogs
+
+                     *******************
+2014-12-02T06:20:04  Params loaded - Program will start
+                     *******************
+
+2014-12-02T06:20:05  Params:
+2014-12-02T06:20:05     ZIPLOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.ziplog
+2014-12-02T06:20:05     LOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.log
+2014-12-02T06:20:05     UNZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T06:20:05     FORWARD_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT
+2014-12-02T06:20:05     ZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T06:20:05     BACKUP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup
+2014-12-02T06:20:05  Begin Process-ZippedTlogs
+2014-12-02T06:20:05  Begin Get-ZippedTlog
+2014-12-02T06:20:05  Found 0 tlogs
+2014-12-02T06:20:05  End Get-ZippedTlog
+2014-12-02T06:20:05  End Process-ZippedTlogs
+
+                     *******************
+2014-12-02T06:30:04  Params loaded - Program will start
+                     *******************
+
+2014-12-02T06:30:04  Params:
+2014-12-02T06:30:04     ZIPLOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.ziplog
+2014-12-02T06:30:04     LOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.log
+2014-12-02T06:30:04     UNZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T06:30:04     FORWARD_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT
+2014-12-02T06:30:04     ZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T06:30:04     BACKUP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup
+2014-12-02T06:30:04  Begin Process-ZippedTlogs
+2014-12-02T06:30:04  Begin Get-ZippedTlog
+2014-12-02T06:30:04  Found 0 tlogs
+2014-12-02T06:30:04  End Get-ZippedTlog
+2014-12-02T06:30:04  End Process-ZippedTlogs
+
+                     *******************
+2014-12-02T06:40:02  Params loaded - Program will start
+                     *******************
+
+2014-12-02T06:40:03  Params:
+2014-12-02T06:40:03     ZIPLOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.ziplog
+2014-12-02T06:40:03     LOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.log
+2014-12-02T06:40:03     UNZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T06:40:03     FORWARD_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT
+2014-12-02T06:40:03     ZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T06:40:03     BACKUP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup
+2014-12-02T06:40:03  Begin Process-ZippedTlogs
+2014-12-02T06:40:03  Begin Get-ZippedTlog
+2014-12-02T06:40:03  Found 0 tlogs
+2014-12-02T06:40:03  End Get-ZippedTlog
+2014-12-02T06:40:03  End Process-ZippedTlogs
+
+                     *******************
+2014-12-02T06:50:03  Params loaded - Program will start
+                     *******************
+
+2014-12-02T06:50:03  Params:
+2014-12-02T06:50:03     ZIPLOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.ziplog
+2014-12-02T06:50:03     LOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.log
+2014-12-02T06:50:03     UNZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T06:50:03     FORWARD_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT
+2014-12-02T06:50:03     ZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T06:50:03     BACKUP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup
+2014-12-02T06:50:03  Begin Process-ZippedTlogs
+2014-12-02T06:50:03  Begin Get-ZippedTlog
+2014-12-02T06:50:03  Found 0 tlogs
+2014-12-02T06:50:03  End Get-ZippedTlog
+2014-12-02T06:50:03  End Process-ZippedTlogs
+
+                     *******************
+2014-12-02T07:00:06  Params loaded - Program will start
+                     *******************
+
+2014-12-02T07:00:06  Params:
+2014-12-02T07:00:06     ZIPLOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.ziplog
+2014-12-02T07:00:06     LOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.log
+2014-12-02T07:00:06     UNZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T07:00:06     FORWARD_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT
+2014-12-02T07:00:06     ZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T07:00:06     BACKUP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup
+2014-12-02T07:00:06  Begin Process-ZippedTlogs
+2014-12-02T07:00:06  Begin Get-ZippedTlog
+2014-12-02T07:00:06  Found 0 tlogs
+2014-12-02T07:00:06  End Get-ZippedTlog
+2014-12-02T07:00:06  End Process-ZippedTlogs
+
+                     *******************
+2014-12-02T07:10:03  Params loaded - Program will start
+                     *******************
+
+2014-12-02T07:10:03  Params:
+2014-12-02T07:10:03     ZIPLOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.ziplog
+2014-12-02T07:10:03     LOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.log
+2014-12-02T07:10:03     UNZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T07:10:03     FORWARD_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT
+2014-12-02T07:10:03     ZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T07:10:03     BACKUP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup
+2014-12-02T07:10:03  Begin Process-ZippedTlogs
+2014-12-02T07:10:03  Begin Get-ZippedTlog
+2014-12-02T07:10:03  Found 0 tlogs
+2014-12-02T07:10:03  End Get-ZippedTlog
+2014-12-02T07:10:03  End Process-ZippedTlogs
+
+                     *******************
+2014-12-02T07:20:03  Params loaded - Program will start
+                     *******************
+
+2014-12-02T07:20:03  Params:
+2014-12-02T07:20:03     ZIPLOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.ziplog
+2014-12-02T07:20:03     LOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.log
+2014-12-02T07:20:03     UNZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T07:20:03     FORWARD_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT
+2014-12-02T07:20:03     ZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T07:20:03     BACKUP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup
+2014-12-02T07:20:03  Begin Process-ZippedTlogs
+2014-12-02T07:20:03  Begin Get-ZippedTlog
+2014-12-02T07:20:03  Found 0 tlogs
+2014-12-02T07:20:03  End Get-ZippedTlog
+2014-12-02T07:20:03  End Process-ZippedTlogs
+
+                     *******************
+2014-12-02T07:30:05  Params loaded - Program will start
+                     *******************
+
+2014-12-02T07:30:05  Params:
+2014-12-02T07:30:05     ZIPLOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.ziplog
+2014-12-02T07:30:05     LOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.log
+2014-12-02T07:30:05     UNZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T07:30:05     FORWARD_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT
+2014-12-02T07:30:05     ZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T07:30:05     BACKUP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup
+2014-12-02T07:30:05  Begin Process-ZippedTlogs
+2014-12-02T07:30:05  Begin Get-ZippedTlog
+2014-12-02T07:30:05  Found 0 tlogs
+2014-12-02T07:30:05  End Get-ZippedTlog
+2014-12-02T07:30:05  End Process-ZippedTlogs
+
+                     *******************
+2014-12-02T07:40:02  Params loaded - Program will start
+                     *******************
+
+2014-12-02T07:40:02  Params:
+2014-12-02T07:40:02     ZIPLOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.ziplog
+2014-12-02T07:40:02     LOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.log
+2014-12-02T07:40:02     UNZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T07:40:03     FORWARD_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT
+2014-12-02T07:40:03     ZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T07:40:03     BACKUP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup
+2014-12-02T07:40:03  Begin Process-ZippedTlogs
+2014-12-02T07:40:03  Begin Get-ZippedTlog
+2014-12-02T07:40:03  Found 0 tlogs
+2014-12-02T07:40:03  End Get-ZippedTlog
+2014-12-02T07:40:03  End Process-ZippedTlogs
+
+                     *******************
+2014-12-02T07:50:03  Params loaded - Program will start
+                     *******************
+
+2014-12-02T07:50:03  Params:
+2014-12-02T07:50:03     ZIPLOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.ziplog
+2014-12-02T07:50:03     LOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.log
+2014-12-02T07:50:03     UNZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T07:50:03     FORWARD_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT
+2014-12-02T07:50:03     ZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T07:50:03     BACKUP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup
+2014-12-02T07:50:03  Begin Process-ZippedTlogs
+2014-12-02T07:50:03  Begin Get-ZippedTlog
+2014-12-02T07:50:03  Found 13 tlogs
+2014-12-02T07:50:03  Begin Process-ZippedTlog for Tlog00086.zip
+2014-12-02T07:50:03  Begin Clear-UnpackedTlog
+2014-12-02T07:50:03  End Clear-UnpackedTlog
+2014-12-02T07:50:03  Begin Unzip-ZippedTlog
+2014-12-02T07:50:03  Unzipped Tlog00086.zip to Tlog00086.up
+2014-12-02T07:50:03  End Unzip-ZippedTlog
+2014-12-02T07:50:03  Begin Rename-UnpackedTlog
+2014-12-02T07:50:03  Renamed Tlog00086.up to Tlog00086
+2014-12-02T07:50:03  End Rename-UnpackedTlog
+2014-12-02T07:50:03  Begin Forward-UnpackedTlog
+2014-12-02T07:50:03  Begin SafelyMove-Item
+2014-12-02T07:50:03  Moved Tlog00086 to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Tlog00086
+2014-12-02T07:50:03  End SafelyMove-Item
+2014-12-02T07:50:03  End Forward-UnpackedTlog
+2014-12-02T07:50:03  Begin Backup-ZippedTlog
+2014-12-02T07:50:03  Begin SafelyMove-Item
+2014-12-02T07:50:03  Moved Tlog00086.zip to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup\Tlog00086.zip
+2014-12-02T07:50:03  End SafelyMove-Item
+2014-12-02T07:50:03  End Backup-ZippedTlog
+2014-12-02T07:50:03  End Process-ZippedTlog for Tlog00086.zip
+2014-12-02T07:50:03  Begin Process-ZippedTlog for Tlog00361.zip
+2014-12-02T07:50:03  Begin Clear-UnpackedTlog
+2014-12-02T07:50:03  End Clear-UnpackedTlog
+2014-12-02T07:50:03  Begin Unzip-ZippedTlog
+2014-12-02T07:50:03  Unzipped Tlog00361.zip to Tlog00361.up
+2014-12-02T07:50:03  End Unzip-ZippedTlog
+2014-12-02T07:50:03  Begin Rename-UnpackedTlog
+2014-12-02T07:50:03  Renamed Tlog00361.up to Tlog00361
+2014-12-02T07:50:03  End Rename-UnpackedTlog
+2014-12-02T07:50:03  Begin Forward-UnpackedTlog
+2014-12-02T07:50:03  Begin SafelyMove-Item
+2014-12-02T07:50:03  Moved Tlog00361 to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Tlog00361
+2014-12-02T07:50:03  End SafelyMove-Item
+2014-12-02T07:50:03  End Forward-UnpackedTlog
+2014-12-02T07:50:03  Begin Backup-ZippedTlog
+2014-12-02T07:50:03  Begin SafelyMove-Item
+2014-12-02T07:50:03  Moved Tlog00361.zip to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup\Tlog00361.zip
+2014-12-02T07:50:03  End SafelyMove-Item
+2014-12-02T07:50:03  End Backup-ZippedTlog
+2014-12-02T07:50:03  End Process-ZippedTlog for Tlog00361.zip
+2014-12-02T07:50:03  Begin Process-ZippedTlog for Tlog00369.zip
+2014-12-02T07:50:03  Begin Clear-UnpackedTlog
+2014-12-02T07:50:03  End Clear-UnpackedTlog
+2014-12-02T07:50:03  Begin Unzip-ZippedTlog
+2014-12-02T07:50:03  Unzipped Tlog00369.zip to Tlog00369.up
+2014-12-02T07:50:03  End Unzip-ZippedTlog
+2014-12-02T07:50:03  Begin Rename-UnpackedTlog
+2014-12-02T07:50:03  Renamed Tlog00369.up to Tlog00369
+2014-12-02T07:50:03  End Rename-UnpackedTlog
+2014-12-02T07:50:03  Begin Forward-UnpackedTlog
+2014-12-02T07:50:03  Begin SafelyMove-Item
+2014-12-02T07:50:03  Moved Tlog00369 to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Tlog00369
+2014-12-02T07:50:03  End SafelyMove-Item
+2014-12-02T07:50:03  End Forward-UnpackedTlog
+2014-12-02T07:50:03  Begin Backup-ZippedTlog
+2014-12-02T07:50:03  Begin SafelyMove-Item
+2014-12-02T07:50:03  Moved Tlog00369.zip to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup\Tlog00369.zip
+2014-12-02T07:50:03  End SafelyMove-Item
+2014-12-02T07:50:03  End Backup-ZippedTlog
+2014-12-02T07:50:03  End Process-ZippedTlog for Tlog00369.zip
+2014-12-02T07:50:03  Begin Process-ZippedTlog for Tlog00484.zip
+2014-12-02T07:50:03  Begin Clear-UnpackedTlog
+2014-12-02T07:50:03  End Clear-UnpackedTlog
+2014-12-02T07:50:03  Begin Unzip-ZippedTlog
+2014-12-02T07:50:03  Unzipped Tlog00484.zip to Tlog00484.up
+2014-12-02T07:50:03  End Unzip-ZippedTlog
+2014-12-02T07:50:03  Begin Rename-UnpackedTlog
+2014-12-02T07:50:03  Renamed Tlog00484.up to Tlog00484
+2014-12-02T07:50:04  End Rename-UnpackedTlog
+2014-12-02T07:50:04  Begin Forward-UnpackedTlog
+2014-12-02T07:50:04  Begin SafelyMove-Item
+2014-12-02T07:50:04  Moved Tlog00484 to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Tlog00484
+2014-12-02T07:50:04  End SafelyMove-Item
+2014-12-02T07:50:04  End Forward-UnpackedTlog
+2014-12-02T07:50:04  Begin Backup-ZippedTlog
+2014-12-02T07:50:04  Begin SafelyMove-Item
+2014-12-02T07:50:04  Moved Tlog00484.zip to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup\Tlog00484.zip
+2014-12-02T07:50:04  End SafelyMove-Item
+2014-12-02T07:50:04  End Backup-ZippedTlog
+2014-12-02T07:50:04  End Process-ZippedTlog for Tlog00484.zip
+2014-12-02T07:50:04  Begin Process-ZippedTlog for Tlog00610.zip
+2014-12-02T07:50:04  Begin Clear-UnpackedTlog
+2014-12-02T07:50:04  End Clear-UnpackedTlog
+2014-12-02T07:50:04  Begin Unzip-ZippedTlog
+2014-12-02T07:50:04  Unzipped Tlog00610.zip to Tlog00610.up
+2014-12-02T07:50:04  End Unzip-ZippedTlog
+2014-12-02T07:50:04  Begin Rename-UnpackedTlog
+2014-12-02T07:50:04  Renamed Tlog00610.up to Tlog00610
+2014-12-02T07:50:04  End Rename-UnpackedTlog
+2014-12-02T07:50:04  Begin Forward-UnpackedTlog
+2014-12-02T07:50:04  Begin SafelyMove-Item
+2014-12-02T07:50:04  Moved Tlog00610 to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Tlog00610
+2014-12-02T07:50:04  End SafelyMove-Item
+2014-12-02T07:50:04  End Forward-UnpackedTlog
+2014-12-02T07:50:04  Begin Backup-ZippedTlog
+2014-12-02T07:50:04  Begin SafelyMove-Item
+2014-12-02T07:50:04  Moved Tlog00610.zip to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup\Tlog00610.zip
+2014-12-02T07:50:04  End SafelyMove-Item
+2014-12-02T07:50:04  End Backup-ZippedTlog
+2014-12-02T07:50:04  End Process-ZippedTlog for Tlog00610.zip
+2014-12-02T07:50:04  Begin Process-ZippedTlog for Tlog00617.zip
+2014-12-02T07:50:04  Begin Clear-UnpackedTlog
+2014-12-02T07:50:04  End Clear-UnpackedTlog
+2014-12-02T07:50:04  Begin Unzip-ZippedTlog
+2014-12-02T07:50:04  Unzipped Tlog00617.zip to Tlog00617.up
+2014-12-02T07:50:04  End Unzip-ZippedTlog
+2014-12-02T07:50:04  Begin Rename-UnpackedTlog
+2014-12-02T07:50:04  Renamed Tlog00617.up to Tlog00617
+2014-12-02T07:50:04  End Rename-UnpackedTlog
+2014-12-02T07:50:04  Begin Forward-UnpackedTlog
+2014-12-02T07:50:04  Begin SafelyMove-Item
+2014-12-02T07:50:04  Moved Tlog00617 to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Tlog00617
+2014-12-02T07:50:04  End SafelyMove-Item
+2014-12-02T07:50:04  End Forward-UnpackedTlog
+2014-12-02T07:50:04  Begin Backup-ZippedTlog
+2014-12-02T07:50:04  Begin SafelyMove-Item
+2014-12-02T07:50:04  Moved Tlog00617.zip to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup\Tlog00617.zip
+2014-12-02T07:50:04  End SafelyMove-Item
+2014-12-02T07:50:04  End Backup-ZippedTlog
+2014-12-02T07:50:04  End Process-ZippedTlog for Tlog00617.zip
+2014-12-02T07:50:04  Begin Process-ZippedTlog for Tlog00674.zip
+2014-12-02T07:50:04  Begin Clear-UnpackedTlog
+2014-12-02T07:50:04  End Clear-UnpackedTlog
+2014-12-02T07:50:04  Begin Unzip-ZippedTlog
+2014-12-02T07:50:04  Unzipped Tlog00674.zip to Tlog00674.up
+2014-12-02T07:50:04  End Unzip-ZippedTlog
+2014-12-02T07:50:04  Begin Rename-UnpackedTlog
+2014-12-02T07:50:04  Renamed Tlog00674.up to Tlog00674
+2014-12-02T07:50:04  End Rename-UnpackedTlog
+2014-12-02T07:50:04  Begin Forward-UnpackedTlog
+2014-12-02T07:50:04  Begin SafelyMove-Item
+2014-12-02T07:50:04  Moved Tlog00674 to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Tlog00674
+2014-12-02T07:50:04  End SafelyMove-Item
+2014-12-02T07:50:04  End Forward-UnpackedTlog
+2014-12-02T07:50:04  Begin Backup-ZippedTlog
+2014-12-02T07:50:04  Begin SafelyMove-Item
+2014-12-02T07:50:04  Moved Tlog00674.zip to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup\Tlog00674.zip
+2014-12-02T07:50:04  End SafelyMove-Item
+2014-12-02T07:50:04  End Backup-ZippedTlog
+2014-12-02T07:50:04  End Process-ZippedTlog for Tlog00674.zip
+2014-12-02T07:50:04  Begin Process-ZippedTlog for Tlog00801.zip
+2014-12-02T07:50:04  Begin Clear-UnpackedTlog
+2014-12-02T07:50:04  End Clear-UnpackedTlog
+2014-12-02T07:50:04  Begin Unzip-ZippedTlog
+2014-12-02T07:50:04  Unzipped Tlog00801.zip to Tlog00801.up
+2014-12-02T07:50:04  End Unzip-ZippedTlog
+2014-12-02T07:50:04  Begin Rename-UnpackedTlog
+2014-12-02T07:50:04  Renamed Tlog00801.up to Tlog00801
+2014-12-02T07:50:04  End Rename-UnpackedTlog
+2014-12-02T07:50:04  Begin Forward-UnpackedTlog
+2014-12-02T07:50:04  Begin SafelyMove-Item
+2014-12-02T07:50:04  Moved Tlog00801 to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Tlog00801
+2014-12-02T07:50:04  End SafelyMove-Item
+2014-12-02T07:50:04  End Forward-UnpackedTlog
+2014-12-02T07:50:04  Begin Backup-ZippedTlog
+2014-12-02T07:50:04  Begin SafelyMove-Item
+2014-12-02T07:50:04  Moved Tlog00801.zip to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup\Tlog00801.zip
+2014-12-02T07:50:04  End SafelyMove-Item
+2014-12-02T07:50:04  End Backup-ZippedTlog
+2014-12-02T07:50:04  End Process-ZippedTlog for Tlog00801.zip
+2014-12-02T07:50:04  Begin Process-ZippedTlog for Tlog00871.zip
+2014-12-02T07:50:04  Begin Clear-UnpackedTlog
+2014-12-02T07:50:04  End Clear-UnpackedTlog
+2014-12-02T07:50:04  Begin Unzip-ZippedTlog
+2014-12-02T07:50:04  Unzipped Tlog00871.zip to Tlog00871.up
+2014-12-02T07:50:04  End Unzip-ZippedTlog
+2014-12-02T07:50:04  Begin Rename-UnpackedTlog
+2014-12-02T07:50:04  Renamed Tlog00871.up to Tlog00871
+2014-12-02T07:50:04  End Rename-UnpackedTlog
+2014-12-02T07:50:04  Begin Forward-UnpackedTlog
+2014-12-02T07:50:04  Begin SafelyMove-Item
+2014-12-02T07:50:04  Moved Tlog00871 to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Tlog00871
+2014-12-02T07:50:04  End SafelyMove-Item
+2014-12-02T07:50:04  End Forward-UnpackedTlog
+2014-12-02T07:50:04  Begin Backup-ZippedTlog
+2014-12-02T07:50:04  Begin SafelyMove-Item
+2014-12-02T07:50:04  Moved Tlog00871.zip to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup\Tlog00871.zip
+2014-12-02T07:50:04  End SafelyMove-Item
+2014-12-02T07:50:04  End Backup-ZippedTlog
+2014-12-02T07:50:04  End Process-ZippedTlog for Tlog00871.zip
+2014-12-02T07:50:04  Begin Process-ZippedTlog for Tlog02052.zip
+2014-12-02T07:50:04  Begin Clear-UnpackedTlog
+2014-12-02T07:50:04  End Clear-UnpackedTlog
+2014-12-02T07:50:04  Begin Unzip-ZippedTlog
+2014-12-02T07:50:04  Unzipped Tlog02052.zip to Tlog02052.up
+2014-12-02T07:50:04  End Unzip-ZippedTlog
+2014-12-02T07:50:04  Begin Rename-UnpackedTlog
+2014-12-02T07:50:04  Renamed Tlog02052.up to Tlog02052
+2014-12-02T07:50:04  End Rename-UnpackedTlog
+2014-12-02T07:50:04  Begin Forward-UnpackedTlog
+2014-12-02T07:50:04  Begin SafelyMove-Item
+2014-12-02T07:50:04  Moved Tlog02052 to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Tlog02052
+2014-12-02T07:50:04  End SafelyMove-Item
+2014-12-02T07:50:04  End Forward-UnpackedTlog
+2014-12-02T07:50:04  Begin Backup-ZippedTlog
+2014-12-02T07:50:04  Begin SafelyMove-Item
+2014-12-02T07:50:04  Moved Tlog02052.zip to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup\Tlog02052.zip
+2014-12-02T07:50:04  End SafelyMove-Item
+2014-12-02T07:50:04  End Backup-ZippedTlog
+2014-12-02T07:50:04  End Process-ZippedTlog for Tlog02052.zip
+2014-12-02T07:50:04  Begin Process-ZippedTlog for Tlog02058.zip
+2014-12-02T07:50:04  Begin Clear-UnpackedTlog
+2014-12-02T07:50:04  End Clear-UnpackedTlog
+2014-12-02T07:50:04  Begin Unzip-ZippedTlog
+2014-12-02T07:50:04  Unzipped Tlog02058.zip to Tlog02058.up
+2014-12-02T07:50:04  End Unzip-ZippedTlog
+2014-12-02T07:50:04  Begin Rename-UnpackedTlog
+2014-12-02T07:50:04  Renamed Tlog02058.up to Tlog02058
+2014-12-02T07:50:04  End Rename-UnpackedTlog
+2014-12-02T07:50:04  Begin Forward-UnpackedTlog
+2014-12-02T07:50:04  Begin SafelyMove-Item
+2014-12-02T07:50:04  Moved Tlog02058 to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Tlog02058
+2014-12-02T07:50:04  End SafelyMove-Item
+2014-12-02T07:50:04  End Forward-UnpackedTlog
+2014-12-02T07:50:04  Begin Backup-ZippedTlog
+2014-12-02T07:50:04  Begin SafelyMove-Item
+2014-12-02T07:50:04  Moved Tlog02058.zip to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup\Tlog02058.zip
+2014-12-02T07:50:04  End SafelyMove-Item
+2014-12-02T07:50:04  End Backup-ZippedTlog
+2014-12-02T07:50:04  End Process-ZippedTlog for Tlog02058.zip
+2014-12-02T07:50:04  Begin Process-ZippedTlog for Tlog02138.zip
+2014-12-02T07:50:04  Begin Clear-UnpackedTlog
+2014-12-02T07:50:04  End Clear-UnpackedTlog
+2014-12-02T07:50:04  Begin Unzip-ZippedTlog
+2014-12-02T07:50:04  Unzipped Tlog02138.zip to Tlog02138.up
+2014-12-02T07:50:04  End Unzip-ZippedTlog
+2014-12-02T07:50:04  Begin Rename-UnpackedTlog
+2014-12-02T07:50:04  Renamed Tlog02138.up to Tlog02138
+2014-12-02T07:50:04  End Rename-UnpackedTlog
+2014-12-02T07:50:04  Begin Forward-UnpackedTlog
+2014-12-02T07:50:04  Begin SafelyMove-Item
+2014-12-02T07:50:04  Moved Tlog02138 to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Tlog02138
+2014-12-02T07:50:04  End SafelyMove-Item
+2014-12-02T07:50:04  End Forward-UnpackedTlog
+2014-12-02T07:50:04  Begin Backup-ZippedTlog
+2014-12-02T07:50:04  Begin SafelyMove-Item
+2014-12-02T07:50:04  Moved Tlog02138.zip to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup\Tlog02138.zip
+2014-12-02T07:50:04  End SafelyMove-Item
+2014-12-02T07:50:04  End Backup-ZippedTlog
+2014-12-02T07:50:04  End Process-ZippedTlog for Tlog02138.zip
+2014-12-02T07:50:04  Begin Process-ZippedTlog for Tlog02186.zip
+2014-12-02T07:50:04  Begin Clear-UnpackedTlog
+2014-12-02T07:50:04  End Clear-UnpackedTlog
+2014-12-02T07:50:04  Begin Unzip-ZippedTlog
+2014-12-02T07:50:05  Unzipped Tlog02186.zip to Tlog02186.up
+2014-12-02T07:50:05  End Unzip-ZippedTlog
+2014-12-02T07:50:05  Begin Rename-UnpackedTlog
+2014-12-02T07:50:05  Renamed Tlog02186.up to Tlog02186
+2014-12-02T07:50:05  End Rename-UnpackedTlog
+2014-12-02T07:50:05  Begin Forward-UnpackedTlog
+2014-12-02T07:50:05  Begin SafelyMove-Item
+2014-12-02T07:50:05  Moved Tlog02186 to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Tlog02186
+2014-12-02T07:50:05  End SafelyMove-Item
+2014-12-02T07:50:05  End Forward-UnpackedTlog
+2014-12-02T07:50:05  Begin Backup-ZippedTlog
+2014-12-02T07:50:05  Begin SafelyMove-Item
+2014-12-02T07:50:05  Moved Tlog02186.zip to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup\Tlog02186.zip
+2014-12-02T07:50:05  End SafelyMove-Item
+2014-12-02T07:50:05  End Backup-ZippedTlog
+2014-12-02T07:50:05  End Process-ZippedTlog for Tlog02186.zip
+2014-12-02T07:50:05  End Get-ZippedTlog
+2014-12-02T07:50:05  End Process-ZippedTlogs
+
+                     *******************
+2014-12-02T08:00:09  Params loaded - Program will start
+                     *******************
+
+2014-12-02T08:00:09  Params:
+2014-12-02T08:00:09     ZIPLOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.ziplog
+2014-12-02T08:00:09     LOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.log
+2014-12-02T08:00:09     UNZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T08:00:09     FORWARD_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT
+2014-12-02T08:00:09     ZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T08:00:09     BACKUP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup
+2014-12-02T08:00:09  Begin Process-ZippedTlogs
+2014-12-02T08:00:09  Begin Get-ZippedTlog
+2014-12-02T08:00:09  Found 2 tlogs
+2014-12-02T08:00:09  Begin Process-ZippedTlog for Tlog00049.zip
+2014-12-02T08:00:09  Begin Clear-UnpackedTlog
+2014-12-02T08:00:09  End Clear-UnpackedTlog
+2014-12-02T08:00:09  Begin Unzip-ZippedTlog
+2014-12-02T08:00:09  Unzipped Tlog00049.zip to Tlog00049.up
+2014-12-02T08:00:09  End Unzip-ZippedTlog
+2014-12-02T08:00:09  Begin Rename-UnpackedTlog
+2014-12-02T08:00:09  Renamed Tlog00049.up to Tlog00049
+2014-12-02T08:00:09  End Rename-UnpackedTlog
+2014-12-02T08:00:09  Begin Forward-UnpackedTlog
+2014-12-02T08:00:09  Begin SafelyMove-Item
+2014-12-02T08:00:09  Moved Tlog00049 to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Tlog00049
+2014-12-02T08:00:09  End SafelyMove-Item
+2014-12-02T08:00:09  End Forward-UnpackedTlog
+2014-12-02T08:00:09  Begin Backup-ZippedTlog
+2014-12-02T08:00:10  Begin SafelyMove-Item
+2014-12-02T08:00:10  Moved Tlog00049.zip to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup\Tlog00049.zip
+2014-12-02T08:00:10  End SafelyMove-Item
+2014-12-02T08:00:10  End Backup-ZippedTlog
+2014-12-02T08:00:10  End Process-ZippedTlog for Tlog00049.zip
+2014-12-02T08:00:10  Begin Process-ZippedTlog for Tlog00133.zip
+2014-12-02T08:00:10  Begin Clear-UnpackedTlog
+2014-12-02T08:00:10  End Clear-UnpackedTlog
+2014-12-02T08:00:10  Begin Unzip-ZippedTlog
+2014-12-02T08:00:11  Unzipped Tlog00133.zip to Tlog00133.up
+2014-12-02T08:00:11  End Unzip-ZippedTlog
+2014-12-02T08:00:11  Begin Rename-UnpackedTlog
+2014-12-02T08:00:11  Renamed Tlog00133.up to Tlog00133
+2014-12-02T08:00:11  End Rename-UnpackedTlog
+2014-12-02T08:00:11  Begin Forward-UnpackedTlog
+2014-12-02T08:00:11  Begin SafelyMove-Item
+2014-12-02T08:00:11  Moved Tlog00133 to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Tlog00133
+2014-12-02T08:00:11  End SafelyMove-Item
+2014-12-02T08:00:11  End Forward-UnpackedTlog
+2014-12-02T08:00:11  Begin Backup-ZippedTlog
+2014-12-02T08:00:11  Begin SafelyMove-Item
+2014-12-02T08:00:11  Moved Tlog00133.zip to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup\Tlog00133.zip
+2014-12-02T08:00:11  End SafelyMove-Item
+2014-12-02T08:00:11  End Backup-ZippedTlog
+2014-12-02T08:00:11  End Process-ZippedTlog for Tlog00133.zip
+2014-12-02T08:00:11  End Get-ZippedTlog
+2014-12-02T08:00:11  End Process-ZippedTlogs
+
+                     *******************
+2014-12-02T08:10:03  Params loaded - Program will start
+                     *******************
+
+2014-12-02T08:10:03  Params:
+2014-12-02T08:10:03     ZIPLOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.ziplog
+2014-12-02T08:10:03     LOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.log
+2014-12-02T08:10:03     UNZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T08:10:03     FORWARD_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT
+2014-12-02T08:10:03     ZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T08:10:03     BACKUP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup
+2014-12-02T08:10:03  Begin Process-ZippedTlogs
+2014-12-02T08:10:03  Begin Get-ZippedTlog
+2014-12-02T08:10:03  Found 0 tlogs
+2014-12-02T08:10:03  End Get-ZippedTlog
+2014-12-02T08:10:03  End Process-ZippedTlogs
+
+                     *******************
+2014-12-02T08:20:03  Params loaded - Program will start
+                     *******************
+
+2014-12-02T08:20:03  Params:
+2014-12-02T08:20:03     ZIPLOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.ziplog
+2014-12-02T08:20:03     LOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.log
+2014-12-02T08:20:03     UNZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T08:20:03     FORWARD_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT
+2014-12-02T08:20:03     ZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T08:20:03     BACKUP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup
+2014-12-02T08:20:03  Begin Process-ZippedTlogs
+2014-12-02T08:20:03  Begin Get-ZippedTlog
+2014-12-02T08:20:03  Found 0 tlogs
+2014-12-02T08:20:03  End Get-ZippedTlog
+2014-12-02T08:20:03  End Process-ZippedTlogs
+
+                     *******************
+2014-12-02T08:30:05  Params loaded - Program will start
+                     *******************
+
+2014-12-02T08:30:05  Params:
+2014-12-02T08:30:05     ZIPLOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.ziplog
+2014-12-02T08:30:05     LOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.log
+2014-12-02T08:30:06     UNZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T08:30:06     FORWARD_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT
+2014-12-02T08:30:06     ZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T08:30:06     BACKUP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup
+2014-12-02T08:30:06  Begin Process-ZippedTlogs
+2014-12-02T08:30:06  Begin Get-ZippedTlog
+2014-12-02T08:30:06  Found 0 tlogs
+2014-12-02T08:30:06  End Get-ZippedTlog
+2014-12-02T08:30:06  End Process-ZippedTlogs
+
+                     *******************
+2014-12-02T08:40:03  Params loaded - Program will start
+                     *******************
+
+2014-12-02T08:40:03  Params:
+2014-12-02T08:40:03     ZIPLOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.ziplog
+2014-12-02T08:40:03     LOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.log
+2014-12-02T08:40:03     UNZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T08:40:03     FORWARD_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT
+2014-12-02T08:40:03     ZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T08:40:03     BACKUP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup
+2014-12-02T08:40:03  Begin Process-ZippedTlogs
+2014-12-02T08:40:03  Begin Get-ZippedTlog
+2014-12-02T08:40:03  Found 0 tlogs
+2014-12-02T08:40:03  End Get-ZippedTlog
+2014-12-02T08:40:03  End Process-ZippedTlogs
+
+                     *******************
+2014-12-02T08:50:03  Params loaded - Program will start
+                     *******************
+
+2014-12-02T08:50:03  Params:
+2014-12-02T08:50:03     ZIPLOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.ziplog
+2014-12-02T08:50:03     LOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.log
+2014-12-02T08:50:03     UNZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T08:50:03     FORWARD_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT
+2014-12-02T08:50:03     ZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T08:50:03     BACKUP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup
+2014-12-02T08:50:03  Begin Process-ZippedTlogs
+2014-12-02T08:50:03  Begin Get-ZippedTlog
+2014-12-02T08:50:03  Found 0 tlogs
+2014-12-02T08:50:03  End Get-ZippedTlog
+2014-12-02T08:50:03  End Process-ZippedTlogs
+
+                     *******************
+2014-12-02T09:00:06  Params loaded - Program will start
+                     *******************
+
+2014-12-02T09:00:06  Params:
+2014-12-02T09:00:06     ZIPLOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.ziplog
+2014-12-02T09:00:06     LOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.log
+2014-12-02T09:00:06     UNZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T09:00:06     FORWARD_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT
+2014-12-02T09:00:06     ZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T09:00:06     BACKUP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup
+2014-12-02T09:00:06  Begin Process-ZippedTlogs
+2014-12-02T09:00:06  Begin Get-ZippedTlog
+2014-12-02T09:00:06  Found 0 tlogs
+2014-12-02T09:00:06  End Get-ZippedTlog
+2014-12-02T09:00:06  End Process-ZippedTlogs
+
+                     *******************
+2014-12-02T09:10:03  Params loaded - Program will start
+                     *******************
+
+2014-12-02T09:10:03  Params:
+2014-12-02T09:10:03     ZIPLOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.ziplog
+2014-12-02T09:10:03     LOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.log
+2014-12-02T09:10:03     UNZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T09:10:03     FORWARD_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT
+2014-12-02T09:10:03     ZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T09:10:03     BACKUP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup
+2014-12-02T09:10:03  Begin Process-ZippedTlogs
+2014-12-02T09:10:03  Begin Get-ZippedTlog
+2014-12-02T09:10:03  Found 0 tlogs
+2014-12-02T09:10:03  End Get-ZippedTlog
+2014-12-02T09:10:03  End Process-ZippedTlogs
+
+                     *******************
+2014-12-02T09:20:03  Params loaded - Program will start
+                     *******************
+
+2014-12-02T09:20:03  Params:
+2014-12-02T09:20:03     ZIPLOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.ziplog
+2014-12-02T09:20:03     LOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.log
+2014-12-02T09:20:03     UNZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T09:20:03     FORWARD_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT
+2014-12-02T09:20:03     ZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T09:20:03     BACKUP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup
+2014-12-02T09:20:03  Begin Process-ZippedTlogs
+2014-12-02T09:20:03  Begin Get-ZippedTlog
+2014-12-02T09:20:03  Found 0 tlogs
+2014-12-02T09:20:03  End Get-ZippedTlog
+2014-12-02T09:20:03  End Process-ZippedTlogs
+
+                     *******************
+2014-12-02T09:30:04  Params loaded - Program will start
+                     *******************
+
+2014-12-02T09:30:04  Params:
+2014-12-02T09:30:04     ZIPLOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.ziplog
+2014-12-02T09:30:04     LOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.log
+2014-12-02T09:30:04     UNZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T09:30:04     FORWARD_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT
+2014-12-02T09:30:04     ZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T09:30:04     BACKUP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup
+2014-12-02T09:30:04  Begin Process-ZippedTlogs
+2014-12-02T09:30:04  Begin Get-ZippedTlog
+2014-12-02T09:30:04  Found 2 tlogs
+2014-12-02T09:30:04  Begin Process-ZippedTlog for Tlog02181.zip
+2014-12-02T09:30:04  Begin Clear-UnpackedTlog
+2014-12-02T09:30:04  End Clear-UnpackedTlog
+2014-12-02T09:30:04  Begin Unzip-ZippedTlog
+2014-12-02T09:30:04  Unzipped Tlog02181.zip to Tlog02181.up
+2014-12-02T09:30:04  End Unzip-ZippedTlog
+2014-12-02T09:30:04  Begin Rename-UnpackedTlog
+2014-12-02T09:30:04  Renamed Tlog02181.up to Tlog02181
+2014-12-02T09:30:04  End Rename-UnpackedTlog
+2014-12-02T09:30:04  Begin Forward-UnpackedTlog
+2014-12-02T09:30:04  Begin SafelyMove-Item
+2014-12-02T09:30:05  Moved Tlog02181 to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Tlog02181
+2014-12-02T09:30:05  End SafelyMove-Item
+2014-12-02T09:30:05  End Forward-UnpackedTlog
+2014-12-02T09:30:05  Begin Backup-ZippedTlog
+2014-12-02T09:30:05  Begin SafelyMove-Item
+2014-12-02T09:30:05  Moved Tlog02181.zip to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup\Tlog02181.zip
+2014-12-02T09:30:05  End SafelyMove-Item
+2014-12-02T09:30:05  End Backup-ZippedTlog
+2014-12-02T09:30:05  End Process-ZippedTlog for Tlog02181.zip
+2014-12-02T09:30:05  Begin Process-ZippedTlog for Tlog03067.zip
+2014-12-02T09:30:05  Begin Clear-UnpackedTlog
+2014-12-02T09:30:05  End Clear-UnpackedTlog
+2014-12-02T09:30:05  Begin Unzip-ZippedTlog
+2014-12-02T09:30:05  Unzipped Tlog03067.zip to Tlog03067.up
+2014-12-02T09:30:05  End Unzip-ZippedTlog
+2014-12-02T09:30:05  Begin Rename-UnpackedTlog
+2014-12-02T09:30:05  Renamed Tlog03067.up to Tlog03067
+2014-12-02T09:30:05  End Rename-UnpackedTlog
+2014-12-02T09:30:05  Begin Forward-UnpackedTlog
+2014-12-02T09:30:05  Begin SafelyMove-Item
+2014-12-02T09:30:05  Moved Tlog03067 to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Tlog03067
+2014-12-02T09:30:05  End SafelyMove-Item
+2014-12-02T09:30:05  End Forward-UnpackedTlog
+2014-12-02T09:30:05  Begin Backup-ZippedTlog
+2014-12-02T09:30:05  Begin SafelyMove-Item
+2014-12-02T09:30:05  Moved Tlog03067.zip to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup\Tlog03067.zip
+2014-12-02T09:30:05  End SafelyMove-Item
+2014-12-02T09:30:05  End Backup-ZippedTlog
+2014-12-02T09:30:05  End Process-ZippedTlog for Tlog03067.zip
+2014-12-02T09:30:05  End Get-ZippedTlog
+2014-12-02T09:30:05  End Process-ZippedTlogs
+
+                     *******************
+2014-12-02T09:40:03  Params loaded - Program will start
+                     *******************
+
+2014-12-02T09:40:03  Params:
+2014-12-02T09:40:03     ZIPLOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.ziplog
+2014-12-02T09:40:03     LOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.log
+2014-12-02T09:40:03     UNZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T09:40:03     FORWARD_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT
+2014-12-02T09:40:03     ZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T09:40:03     BACKUP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup
+2014-12-02T09:40:03  Begin Process-ZippedTlogs
+2014-12-02T09:40:03  Begin Get-ZippedTlog
+2014-12-02T09:40:03  Found 1 tlogs
+2014-12-02T09:40:03  Begin Process-ZippedTlog for Tlog00436.zip
+2014-12-02T09:40:03  Begin Clear-UnpackedTlog
+2014-12-02T09:40:03  End Clear-UnpackedTlog
+2014-12-02T09:40:03  Begin Unzip-ZippedTlog
+2014-12-02T09:40:03  Unzipped Tlog00436.zip to Tlog00436.up
+2014-12-02T09:40:03  End Unzip-ZippedTlog
+2014-12-02T09:40:03  Begin Rename-UnpackedTlog
+2014-12-02T09:40:03  Renamed Tlog00436.up to Tlog00436
+2014-12-02T09:40:03  End Rename-UnpackedTlog
+2014-12-02T09:40:03  Begin Forward-UnpackedTlog
+2014-12-02T09:40:03  Begin SafelyMove-Item
+2014-12-02T09:40:03  Moved Tlog00436 to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Tlog00436
+2014-12-02T09:40:03  End SafelyMove-Item
+2014-12-02T09:40:03  End Forward-UnpackedTlog
+2014-12-02T09:40:03  Begin Backup-ZippedTlog
+2014-12-02T09:40:03  Begin SafelyMove-Item
+2014-12-02T09:40:03  Moved Tlog00436.zip to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup\Tlog00436.zip
+2014-12-02T09:40:03  End SafelyMove-Item
+2014-12-02T09:40:03  End Backup-ZippedTlog
+2014-12-02T09:40:03  End Process-ZippedTlog for Tlog00436.zip
+2014-12-02T09:40:03  End Get-ZippedTlog
+2014-12-02T09:40:03  End Process-ZippedTlogs
+
+                     *******************
+2014-12-02T09:50:03  Params loaded - Program will start
+                     *******************
+
+2014-12-02T09:50:03  Params:
+2014-12-02T09:50:03     ZIPLOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.ziplog
+2014-12-02T09:50:03     LOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.log
+2014-12-02T09:50:03     UNZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T09:50:03     FORWARD_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT
+2014-12-02T09:50:03     ZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T09:50:03     BACKUP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup
+2014-12-02T09:50:03  Begin Process-ZippedTlogs
+2014-12-02T09:50:03  Begin Get-ZippedTlog
+2014-12-02T09:50:03  Found 0 tlogs
+2014-12-02T09:50:03  End Get-ZippedTlog
+2014-12-02T09:50:03  End Process-ZippedTlogs
+
+                     *******************
+2014-12-02T10:00:07  Params loaded - Program will start
+                     *******************
+
+2014-12-02T10:00:07  Params:
+2014-12-02T10:00:07     ZIPLOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.ziplog
+2014-12-02T10:00:07     LOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.log
+2014-12-02T10:00:07     UNZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T10:00:07     FORWARD_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT
+2014-12-02T10:00:07     ZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T10:00:07     BACKUP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup
+2014-12-02T10:00:07  Begin Process-ZippedTlogs
+2014-12-02T10:00:07  Begin Get-ZippedTlog
+2014-12-02T10:00:07  Found 0 tlogs
+2014-12-02T10:00:07  End Get-ZippedTlog
+2014-12-02T10:00:07  End Process-ZippedTlogs
+
+                     *******************
+2014-12-02T10:10:03  Params loaded - Program will start
+                     *******************
+
+2014-12-02T10:10:03  Params:
+2014-12-02T10:10:03     ZIPLOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.ziplog
+2014-12-02T10:10:03     LOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.log
+2014-12-02T10:10:03     UNZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T10:10:03     FORWARD_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT
+2014-12-02T10:10:03     ZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T10:10:03     BACKUP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup
+2014-12-02T10:10:03  Begin Process-ZippedTlogs
+2014-12-02T10:10:03  Begin Get-ZippedTlog
+2014-12-02T10:10:03  Found 0 tlogs
+2014-12-02T10:10:03  End Get-ZippedTlog
+2014-12-02T10:10:03  End Process-ZippedTlogs
+
+                     *******************
+2014-12-02T10:20:03  Params loaded - Program will start
+                     *******************
+
+2014-12-02T10:20:03  Params:
+2014-12-02T10:20:03     ZIPLOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.ziplog
+2014-12-02T10:20:03     LOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.log
+2014-12-02T10:20:03     UNZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T10:20:03     FORWARD_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT
+2014-12-02T10:20:03     ZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T10:20:03     BACKUP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup
+2014-12-02T10:20:03  Begin Process-ZippedTlogs
+2014-12-02T10:20:03  Begin Get-ZippedTlog
+2014-12-02T10:20:03  Found 0 tlogs
+2014-12-02T10:20:03  End Get-ZippedTlog
+2014-12-02T10:20:03  End Process-ZippedTlogs
+
+                     *******************
+2014-12-02T10:30:04  Params loaded - Program will start
+                     *******************
+
+2014-12-02T10:30:04  Params:
+2014-12-02T10:30:04     ZIPLOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.ziplog
+2014-12-02T10:30:04     LOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.log
+2014-12-02T10:30:04     UNZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T10:30:04     FORWARD_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT
+2014-12-02T10:30:04     ZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T10:30:04     BACKUP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup
+2014-12-02T10:30:04  Begin Process-ZippedTlogs
+2014-12-02T10:30:04  Begin Get-ZippedTlog
+2014-12-02T10:30:04  Found 1 tlogs
+2014-12-02T10:30:04  Begin Process-ZippedTlog for Tlog00112.zip
+2014-12-02T10:30:04  Begin Clear-UnpackedTlog
+2014-12-02T10:30:04  End Clear-UnpackedTlog
+2014-12-02T10:30:04  Begin Unzip-ZippedTlog
+2014-12-02T10:30:04  Unzipped Tlog00112.zip to Tlog00112.up
+2014-12-02T10:30:04  End Unzip-ZippedTlog
+2014-12-02T10:30:04  Begin Rename-UnpackedTlog
+2014-12-02T10:30:04  Renamed Tlog00112.up to Tlog00112
+2014-12-02T10:30:04  End Rename-UnpackedTlog
+2014-12-02T10:30:04  Begin Forward-UnpackedTlog
+2014-12-02T10:30:04  Begin SafelyMove-Item
+2014-12-02T10:30:04  Moved Tlog00112 to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Tlog00112
+2014-12-02T10:30:04  End SafelyMove-Item
+2014-12-02T10:30:04  End Forward-UnpackedTlog
+2014-12-02T10:30:04  Begin Backup-ZippedTlog
+2014-12-02T10:30:05  Begin SafelyMove-Item
+2014-12-02T10:30:05  Moved Tlog00112.zip to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup\Tlog00112.zip
+2014-12-02T10:30:05  End SafelyMove-Item
+2014-12-02T10:30:05  End Backup-ZippedTlog
+2014-12-02T10:30:05  End Process-ZippedTlog for Tlog00112.zip
+2014-12-02T10:30:05  End Get-ZippedTlog
+2014-12-02T10:30:05  End Process-ZippedTlogs
+
+                     *******************
+2014-12-02T10:40:03  Params loaded - Program will start
+                     *******************
+
+2014-12-02T10:40:03  Params:
+2014-12-02T10:40:03     ZIPLOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.ziplog
+2014-12-02T10:40:03     LOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.log
+2014-12-02T10:40:03     UNZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T10:40:03     FORWARD_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT
+2014-12-02T10:40:03     ZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T10:40:03     BACKUP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup
+2014-12-02T10:40:03  Begin Process-ZippedTlogs
+2014-12-02T10:40:03  Begin Get-ZippedTlog
+2014-12-02T10:40:03  Found 0 tlogs
+2014-12-02T10:40:03  End Get-ZippedTlog
+2014-12-02T10:40:03  End Process-ZippedTlogs
+
+                     *******************
+2014-12-02T10:50:03  Params loaded - Program will start
+                     *******************
+
+2014-12-02T10:50:03  Params:
+2014-12-02T10:50:03     ZIPLOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.ziplog
+2014-12-02T10:50:03     LOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.log
+2014-12-02T10:50:03     UNZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T10:50:03     FORWARD_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT
+2014-12-02T10:50:03     ZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T10:50:03     BACKUP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup
+2014-12-02T10:50:03  Begin Process-ZippedTlogs
+2014-12-02T10:50:03  Begin Get-ZippedTlog
+2014-12-02T10:50:03  Found 0 tlogs
+2014-12-02T10:50:03  End Get-ZippedTlog
+2014-12-02T10:50:03  End Process-ZippedTlogs
+
+                     *******************
+2014-12-02T11:00:07  Params loaded - Program will start
+                     *******************
+
+2014-12-02T11:00:07  Params:
+2014-12-02T11:00:07     ZIPLOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.ziplog
+2014-12-02T11:00:07     LOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.log
+2014-12-02T11:00:07     UNZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T11:00:07     FORWARD_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT
+2014-12-02T11:00:07     ZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T11:00:07     BACKUP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup
+2014-12-02T11:00:07  Begin Process-ZippedTlogs
+2014-12-02T11:00:07  Begin Get-ZippedTlog
+2014-12-02T11:00:07  Found 0 tlogs
+2014-12-02T11:00:07  End Get-ZippedTlog
+2014-12-02T11:00:07  End Process-ZippedTlogs
+
+                     *******************
+2014-12-02T11:10:03  Params loaded - Program will start
+                     *******************
+
+2014-12-02T11:10:03  Params:
+2014-12-02T11:10:03     ZIPLOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.ziplog
+2014-12-02T11:10:03     LOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.log
+2014-12-02T11:10:03     UNZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T11:10:03     FORWARD_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT
+2014-12-02T11:10:03     ZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T11:10:03     BACKUP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup
+2014-12-02T11:10:03  Begin Process-ZippedTlogs
+2014-12-02T11:10:03  Begin Get-ZippedTlog
+2014-12-02T11:10:03  Found 0 tlogs
+2014-12-02T11:10:03  End Get-ZippedTlog
+2014-12-02T11:10:03  End Process-ZippedTlogs
+
+                     *******************
+2014-12-02T11:20:03  Params loaded - Program will start
+                     *******************
+
+2014-12-02T11:20:03  Params:
+2014-12-02T11:20:03     ZIPLOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.ziplog
+2014-12-02T11:20:03     LOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.log
+2014-12-02T11:20:03     UNZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T11:20:03     FORWARD_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT
+2014-12-02T11:20:03     ZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T11:20:03     BACKUP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup
+2014-12-02T11:20:03  Begin Process-ZippedTlogs
+2014-12-02T11:20:03  Begin Get-ZippedTlog
+2014-12-02T11:20:03  Found 0 tlogs
+2014-12-02T11:20:03  End Get-ZippedTlog
+2014-12-02T11:20:03  End Process-ZippedTlogs
+
+                     *******************
+2014-12-02T11:30:03  Params loaded - Program will start
+                     *******************
+
+2014-12-02T11:30:03  Params:
+2014-12-02T11:30:03     ZIPLOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.ziplog
+2014-12-02T11:30:03     LOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.log
+2014-12-02T11:30:03     UNZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T11:30:03     FORWARD_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT
+2014-12-02T11:30:03     ZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T11:30:03     BACKUP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup
+2014-12-02T11:30:03  Begin Process-ZippedTlogs
+2014-12-02T11:30:04  Begin Get-ZippedTlog
+2014-12-02T11:30:04  Found 0 tlogs
+2014-12-02T11:30:04  End Get-ZippedTlog
+2014-12-02T11:30:04  End Process-ZippedTlogs
+
+                     *******************
+2014-12-02T11:40:02  Params loaded - Program will start
+                     *******************
+
+2014-12-02T11:40:02  Params:
+2014-12-02T11:40:02     ZIPLOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.ziplog
+2014-12-02T11:40:02     LOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.log
+2014-12-02T11:40:02     UNZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T11:40:02     FORWARD_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT
+2014-12-02T11:40:02     ZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T11:40:02     BACKUP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup
+2014-12-02T11:40:02  Begin Process-ZippedTlogs
+2014-12-02T11:40:02  Begin Get-ZippedTlog
+2014-12-02T11:40:02  Found 0 tlogs
+2014-12-02T11:40:02  End Get-ZippedTlog
+2014-12-02T11:40:02  End Process-ZippedTlogs
+
+                     *******************
+2014-12-02T11:50:03  Params loaded - Program will start
+                     *******************
+
+2014-12-02T11:50:03  Params:
+2014-12-02T11:50:03     ZIPLOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.ziplog
+2014-12-02T11:50:03     LOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.log
+2014-12-02T11:50:03     UNZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T11:50:03     FORWARD_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT
+2014-12-02T11:50:03     ZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T11:50:03     BACKUP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup
+2014-12-02T11:50:03  Begin Process-ZippedTlogs
+2014-12-02T11:50:03  Begin Get-ZippedTlog
+2014-12-02T11:50:03  Found 0 tlogs
+2014-12-02T11:50:03  End Get-ZippedTlog
+2014-12-02T11:50:03  End Process-ZippedTlogs
+
+                     *******************
+2014-12-02T12:00:09  Params loaded - Program will start
+                     *******************
+
+2014-12-02T12:00:09  Params:
+2014-12-02T12:00:09     ZIPLOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.ziplog
+2014-12-02T12:00:09     LOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.log
+2014-12-02T12:00:09     UNZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T12:00:09     FORWARD_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT
+2014-12-02T12:00:09     ZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T12:00:09     BACKUP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup
+2014-12-02T12:00:09  Begin Process-ZippedTlogs
+2014-12-02T12:00:09  Begin Get-ZippedTlog
+2014-12-02T12:00:09  Found 0 tlogs
+2014-12-02T12:00:09  End Get-ZippedTlog
+2014-12-02T12:00:09  End Process-ZippedTlogs
+
+                     *******************
+2014-12-02T12:10:03  Params loaded - Program will start
+                     *******************
+
+2014-12-02T12:10:03  Params:
+2014-12-02T12:10:03     ZIPLOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.ziplog
+2014-12-02T12:10:03     LOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.log
+2014-12-02T12:10:03     UNZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T12:10:03     FORWARD_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT
+2014-12-02T12:10:03     ZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T12:10:03     BACKUP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup
+2014-12-02T12:10:03  Begin Process-ZippedTlogs
+2014-12-02T12:10:03  Begin Get-ZippedTlog
+2014-12-02T12:10:03  Found 0 tlogs
+2014-12-02T12:10:03  End Get-ZippedTlog
+2014-12-02T12:10:03  End Process-ZippedTlogs
+
+                     *******************
+2014-12-02T12:20:03  Params loaded - Program will start
+                     *******************
+
+2014-12-02T12:20:03  Params:
+2014-12-02T12:20:03     ZIPLOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.ziplog
+2014-12-02T12:20:03     LOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.log
+2014-12-02T12:20:03     UNZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T12:20:03     FORWARD_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT
+2014-12-02T12:20:03     ZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T12:20:03     BACKUP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup
+2014-12-02T12:20:03  Begin Process-ZippedTlogs
+2014-12-02T12:20:03  Begin Get-ZippedTlog
+2014-12-02T12:20:03  Found 0 tlogs
+2014-12-02T12:20:03  End Get-ZippedTlog
+2014-12-02T12:20:03  End Process-ZippedTlogs
+
+                     *******************
+2014-12-02T12:30:04  Params loaded - Program will start
+                     *******************
+
+2014-12-02T12:30:05  Params:
+2014-12-02T12:30:05     ZIPLOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.ziplog
+2014-12-02T12:30:05     LOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.log
+2014-12-02T12:30:05     UNZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T12:30:05     FORWARD_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT
+2014-12-02T12:30:05     ZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T12:30:05     BACKUP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup
+2014-12-02T12:30:05  Begin Process-ZippedTlogs
+2014-12-02T12:30:05  Begin Get-ZippedTlog
+2014-12-02T12:30:05  Found 0 tlogs
+2014-12-02T12:30:05  End Get-ZippedTlog
+2014-12-02T12:30:05  End Process-ZippedTlogs
+
+                     *******************
+2014-12-02T12:40:03  Params loaded - Program will start
+                     *******************
+
+2014-12-02T12:40:03  Params:
+2014-12-02T12:40:03     ZIPLOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.ziplog
+2014-12-02T12:40:03     LOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.log
+2014-12-02T12:40:03     UNZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T12:40:03     FORWARD_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT
+2014-12-02T12:40:03     ZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T12:40:03     BACKUP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup
+2014-12-02T12:40:03  Begin Process-ZippedTlogs
+2014-12-02T12:40:03  Begin Get-ZippedTlog
+2014-12-02T12:40:03  Found 0 tlogs
+2014-12-02T12:40:03  End Get-ZippedTlog
+2014-12-02T12:40:03  End Process-ZippedTlogs
+
+                     *******************
+2014-12-02T12:50:03  Params loaded - Program will start
+                     *******************
+
+2014-12-02T12:50:03  Params:
+2014-12-02T12:50:03     ZIPLOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.ziplog
+2014-12-02T12:50:03     LOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.log
+2014-12-02T12:50:03     UNZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T12:50:03     FORWARD_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT
+2014-12-02T12:50:03     ZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T12:50:03     BACKUP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup
+2014-12-02T12:50:03  Begin Process-ZippedTlogs
+2014-12-02T12:50:03  Begin Get-ZippedTlog
+2014-12-02T12:50:03  Found 0 tlogs
+2014-12-02T12:50:03  End Get-ZippedTlog
+2014-12-02T12:50:03  End Process-ZippedTlogs
+
+                     *******************
+2014-12-02T13:00:04  Params loaded - Program will start
+                     *******************
+
+2014-12-02T13:00:04  Params:
+2014-12-02T13:00:04     ZIPLOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.ziplog
+2014-12-02T13:00:05     LOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.log
+2014-12-02T13:00:05     UNZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T13:00:05     FORWARD_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT
+2014-12-02T13:00:05     ZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T13:00:05     BACKUP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup
+2014-12-02T13:00:05  Begin Process-ZippedTlogs
+2014-12-02T13:00:05  Begin Get-ZippedTlog
+2014-12-02T13:00:05  Found 0 tlogs
+2014-12-02T13:00:05  End Get-ZippedTlog
+2014-12-02T13:00:05  End Process-ZippedTlogs
+
+                     *******************
+2014-12-02T13:10:05  Params loaded - Program will start
+                     *******************
+
+2014-12-02T13:10:05  Params:
+2014-12-02T13:10:05     ZIPLOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.ziplog
+2014-12-02T13:10:05     LOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.log
+2014-12-02T13:10:05     UNZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T13:10:05     FORWARD_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT
+2014-12-02T13:10:05     ZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T13:10:05     BACKUP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup
+2014-12-02T13:10:05  Begin Process-ZippedTlogs
+2014-12-02T13:10:05  Begin Get-ZippedTlog
+2014-12-02T13:10:05  Found 0 tlogs
+2014-12-02T13:10:05  End Get-ZippedTlog
+2014-12-02T13:10:05  End Process-ZippedTlogs
+
+                     *******************
+2014-12-02T13:20:03  Params loaded - Program will start
+                     *******************
+
+2014-12-02T13:20:03  Params:
+2014-12-02T13:20:03     ZIPLOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.ziplog
+2014-12-02T13:20:03     LOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.log
+2014-12-02T13:20:03     UNZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T13:20:03     FORWARD_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT
+2014-12-02T13:20:03     ZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T13:20:03     BACKUP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup
+2014-12-02T13:20:03  Begin Process-ZippedTlogs
+2014-12-02T13:20:03  Begin Get-ZippedTlog
+2014-12-02T13:20:03  Found 0 tlogs
+2014-12-02T13:20:03  End Get-ZippedTlog
+2014-12-02T13:20:03  End Process-ZippedTlogs
+
+                     *******************
+2014-12-02T13:30:03  Params loaded - Program will start
+                     *******************
+
+2014-12-02T13:30:03  Params:
+2014-12-02T13:30:03     ZIPLOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.ziplog
+2014-12-02T13:30:03     LOG_FILE : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Bin\Logs\Process-ZippedTlog.log
+2014-12-02T13:30:03     UNZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T13:30:03     FORWARD_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT
+2014-12-02T13:30:03     ZIP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip
+2014-12-02T13:30:03     BACKUP_PATH : \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Zip\Backup
+2014-12-02T13:30:03  Begin Process-ZippedTlogs
+2014-12-02T13:30:03  Begin Get-ZippedTlog
+2014-12-02T13:30:03  Found 0 tlogs
+2014-12-02T13:30:03  End Get-ZippedTlog
+2014-12-02T13:30:03  End Process-ZippedTlogs

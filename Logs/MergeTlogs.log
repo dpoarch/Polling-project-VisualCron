@@ -1,0 +1,21 @@
+ 
+
+Tue Dec 02 04:00:36 2014 -- Begin Program 
+
+Tue Dec 02 04:00:36 2014 -- Begin merge tlogs for internal (local) processing 
+
+Tue Dec 02 04:00:58 2014 -- End merge tlogs for internal (local) processing 
+
+Tue Dec 02 04:00:58 2014 -- Begin merge ARS tlogs for mainframe 
+
+Tue Dec 02 04:00:59 2014 -- Begin merge Trovato tlogs for mainframe 
+
+Tue Dec 02 04:01:12 2014 -- Begin create masked Trovato tlogs for mainframe 
+
+Tue Dec 02 04:01:17 2014 -- Wait 10 seconds for the file to arrive... 
+
+Tue Dec 02 04:01:27 2014 -- End create masked Trovato tlogs for mainframe 
+
+Tue Dec 02 04:01:29 2014 -- End merge tlogs for mainframe 
+
+Tue Dec 02 04:01:29 2014 -- End Program 

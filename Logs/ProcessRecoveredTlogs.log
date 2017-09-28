@@ -1,0 +1,2863 @@
+ 
+
+Tue Dec 02 04:30:03 2014 -- Begin Program 
+
+Tue Dec 02 04:30:04 2014 -- Begin process zipped tlogs 
+
+Tue Dec 02 04:30:07 2014 -- End process zipped tlogs 
+
+Tue Dec 02 04:30:07 2014 -- Begin move Internet sales to Recover folder 
+
+Tue Dec 02 04:30:07 2014 -- End move Internet sales to Recover folder 
+
+Tue Dec 02 04:30:07 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 04:30:07 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 04:30:07 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 04:30:07 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 04:30:07 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 04:30:08 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 04:30:08 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 04:30:08 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 04:30:08 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 04:30:08 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 04:30:08 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 04:30:08 2014 -- Begin exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 04:30:08 2014 -- End exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 04:30:09 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 04:30:09 2014 -- End call TlogUpdater 
+
+Tue Dec 02 04:30:09 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 04:30:09 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 04:30:09 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 04:30:09 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 04:30:09 2014 -- End Program 
+ 
+
+Tue Dec 02 04:40:02 2014 -- Begin Program 
+
+Tue Dec 02 04:40:02 2014 -- Begin process zipped tlogs 
+
+Tue Dec 02 04:40:03 2014 -- End process zipped tlogs 
+
+Tue Dec 02 04:40:03 2014 -- Begin move Internet sales to Recover folder 
+
+Tue Dec 02 04:40:03 2014 -- End move Internet sales to Recover folder 
+
+Tue Dec 02 04:40:03 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 04:40:04 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 04:40:04 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 04:40:04 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 04:40:04 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 04:40:04 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 04:40:04 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 04:40:04 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 04:40:04 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 04:40:05 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 04:40:05 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 04:40:05 2014 -- Begin exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 04:40:05 2014 -- End exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 04:40:05 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 04:40:05 2014 -- End call TlogUpdater 
+
+Tue Dec 02 04:40:05 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 04:40:05 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 04:40:05 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 04:40:05 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 04:40:06 2014 -- End Program 
+ 
+
+Tue Dec 02 04:50:02 2014 -- Begin Program 
+
+Tue Dec 02 04:50:02 2014 -- Begin process zipped tlogs 
+
+Tue Dec 02 04:50:03 2014 -- End process zipped tlogs 
+
+Tue Dec 02 04:50:03 2014 -- Begin move Internet sales to Recover folder 
+
+Tue Dec 02 04:50:03 2014 -- End move Internet sales to Recover folder 
+
+Tue Dec 02 04:50:03 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 04:50:03 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 04:50:03 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 04:50:04 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 04:50:04 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 04:50:04 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 04:50:04 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 04:50:04 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 04:50:04 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 04:50:04 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 04:50:04 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 04:50:05 2014 -- Begin exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 04:50:05 2014 -- End exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 04:50:05 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 04:50:05 2014 -- End call TlogUpdater 
+
+Tue Dec 02 04:50:05 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 04:50:05 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 04:50:05 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 04:50:05 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 04:50:05 2014 -- End Program 
+ 
+
+Tue Dec 02 05:00:03 2014 -- Begin Program 
+
+Tue Dec 02 05:00:03 2014 -- Begin process zipped tlogs 
+
+Tue Dec 02 05:00:04 2014 -- End process zipped tlogs 
+
+Tue Dec 02 05:00:05 2014 -- Begin move Internet sales to Recover folder 
+
+Tue Dec 02 05:00:05 2014 -- End move Internet sales to Recover folder 
+
+Tue Dec 02 05:00:05 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 05:00:05 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 05:00:05 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 05:00:05 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 05:00:06 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 05:00:06 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 05:00:06 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 05:00:06 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 05:00:06 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 05:00:06 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 05:00:06 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 05:00:06 2014 -- Begin exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 05:00:07 2014 -- End exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 05:00:07 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 05:00:07 2014 -- End call TlogUpdater 
+
+Tue Dec 02 05:00:07 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 05:00:07 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 05:00:07 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 05:00:07 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 05:00:07 2014 -- End Program 
+ 
+
+Tue Dec 02 05:10:03 2014 -- Begin Program 
+
+Tue Dec 02 05:10:03 2014 -- Begin process zipped tlogs 
+
+Tue Dec 02 05:10:04 2014 -- End process zipped tlogs 
+
+Tue Dec 02 05:10:04 2014 -- Begin move Internet sales to Recover folder 
+
+Tue Dec 02 05:10:04 2014 -- End move Internet sales to Recover folder 
+
+Tue Dec 02 05:10:04 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 05:10:04 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 05:10:04 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 05:10:04 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 05:10:04 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 05:10:04 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 05:10:04 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 05:10:05 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 05:10:05 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 05:10:05 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 05:10:05 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 05:10:05 2014 -- Begin exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 05:10:05 2014 -- End exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 05:10:05 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 05:10:05 2014 -- End call TlogUpdater 
+
+Tue Dec 02 05:10:05 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 05:10:05 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 05:10:06 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 05:10:06 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 05:10:06 2014 -- End Program 
+ 
+
+Tue Dec 02 05:20:02 2014 -- Begin Program 
+
+Tue Dec 02 05:20:02 2014 -- Begin process zipped tlogs 
+
+Tue Dec 02 05:20:03 2014 -- End process zipped tlogs 
+
+Tue Dec 02 05:20:03 2014 -- Begin move Internet sales to Recover folder 
+
+Tue Dec 02 05:20:03 2014 -- End move Internet sales to Recover folder 
+
+Tue Dec 02 05:20:03 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 05:20:03 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 05:20:04 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 05:20:04 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 05:20:04 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 05:20:04 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 05:20:04 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 05:20:04 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 05:20:04 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 05:20:04 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 05:20:05 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 05:20:05 2014 -- Begin exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 05:20:05 2014 -- End exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 05:20:05 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 05:20:05 2014 -- End call TlogUpdater 
+
+Tue Dec 02 05:20:05 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 05:20:05 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 05:20:05 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 05:20:05 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 05:20:05 2014 -- End Program 
+ 
+
+Tue Dec 02 05:30:04 2014 -- Begin Program 
+
+Tue Dec 02 05:30:04 2014 -- Begin process zipped tlogs 
+
+Tue Dec 02 05:30:06 2014 -- End process zipped tlogs 
+
+Tue Dec 02 05:30:06 2014 -- Begin move Internet sales to Recover folder 
+
+Tue Dec 02 05:30:07 2014 -- End move Internet sales to Recover folder 
+
+Tue Dec 02 05:30:07 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 05:30:07 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 05:30:07 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 05:30:07 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 05:30:07 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 05:30:08 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 05:30:08 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 05:30:08 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 05:30:08 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 05:30:08 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 05:30:08 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 05:30:08 2014 -- Begin exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 05:30:09 2014 -- End exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 05:30:09 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 05:30:09 2014 -- End call TlogUpdater 
+
+Tue Dec 02 05:30:09 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 05:30:09 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 05:30:09 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 05:30:09 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 05:30:10 2014 -- End Program 
+ 
+
+Tue Dec 02 05:40:01 2014 -- Begin Program 
+
+Tue Dec 02 05:40:02 2014 -- Begin process zipped tlogs 
+
+Tue Dec 02 05:40:21 2014 -- End process zipped tlogs 
+
+Tue Dec 02 05:40:22 2014 -- Begin move Internet sales to Recover folder 
+
+Tue Dec 02 05:40:22 2014 -- End move Internet sales to Recover folder 
+
+Tue Dec 02 05:40:22 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 05:40:22 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 05:40:23 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 05:40:23 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 05:40:23 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 05:40:23 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 05:40:23 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 05:40:23 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 05:40:23 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 05:40:23 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 05:40:24 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 05:40:24 2014 -- Begin exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 05:40:24 2014 -- End exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 05:40:24 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 05:40:24 2014 -- End call TlogUpdater 
+
+Tue Dec 02 05:40:24 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 05:40:24 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 05:40:24 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 05:40:24 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 05:40:24 2014 -- End Program 
+ 
+
+Tue Dec 02 05:50:02 2014 -- Begin Program 
+
+Tue Dec 02 05:50:02 2014 -- Begin process zipped tlogs 
+
+Tue Dec 02 05:50:05 2014 -- End process zipped tlogs 
+
+Tue Dec 02 05:50:05 2014 -- Begin move Internet sales to Recover folder 
+
+Tue Dec 02 05:50:05 2014 -- End move Internet sales to Recover folder 
+
+Tue Dec 02 05:50:05 2014 -- Begin check Trovato tlogs 
+*** Good Tlog 'Tlog03068' (1479)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Good\
+
+Tue Dec 02 05:50:06 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 05:50:06 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 05:50:15 2014 -- Error copying \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Good\Tlog*.* to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\WizConvert\ToSMTP 
+
+Tue Dec 02 05:50:15 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 05:50:15 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 05:50:15 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 05:50:15 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 05:50:15 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 05:50:16 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 05:50:16 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 05:50:16 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 05:50:16 2014 -- Begin exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 05:50:16 2014 -- End exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 05:50:16 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 05:50:20 2014 -- End call TlogUpdater 
+
+Tue Dec 02 05:50:20 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 05:50:21 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 05:50:21 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 05:50:21 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 05:50:21 2014 -- End Program 
+ 
+
+Tue Dec 02 06:00:08 2014 -- Begin Program 
+
+Tue Dec 02 06:00:08 2014 -- Begin process zipped tlogs 
+
+Tue Dec 02 06:00:09 2014 -- End process zipped tlogs 
+
+Tue Dec 02 06:00:09 2014 -- Begin move Internet sales to Recover folder 
+
+Tue Dec 02 06:00:10 2014 -- End move Internet sales to Recover folder 
+
+Tue Dec 02 06:00:10 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 06:00:10 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 06:00:11 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 06:00:11 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 06:00:11 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 06:00:11 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 06:00:11 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 06:00:11 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 06:00:12 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 06:00:12 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 06:00:12 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 06:00:12 2014 -- Begin exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 06:00:12 2014 -- End exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 06:00:12 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 06:00:13 2014 -- End call TlogUpdater 
+
+Tue Dec 02 06:00:13 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 06:00:13 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 06:00:13 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 06:00:13 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 06:00:13 2014 -- End Program 
+ 
+
+Tue Dec 02 06:10:02 2014 -- Begin Program 
+
+Tue Dec 02 06:10:02 2014 -- Begin process zipped tlogs 
+
+Tue Dec 02 06:10:03 2014 -- End process zipped tlogs 
+
+Tue Dec 02 06:10:03 2014 -- Begin move Internet sales to Recover folder 
+
+Tue Dec 02 06:10:03 2014 -- End move Internet sales to Recover folder 
+
+Tue Dec 02 06:10:03 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 06:10:04 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 06:10:04 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 06:10:04 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 06:10:04 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 06:10:04 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 06:10:04 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 06:10:04 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 06:10:05 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 06:10:05 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 06:10:05 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 06:10:05 2014 -- Begin exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 06:10:05 2014 -- End exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 06:10:05 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 06:10:05 2014 -- End call TlogUpdater 
+
+Tue Dec 02 06:10:05 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 06:10:05 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 06:10:05 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 06:10:05 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 06:10:06 2014 -- End Program 
+ 
+
+Tue Dec 02 06:20:02 2014 -- Begin Program 
+
+Tue Dec 02 06:20:03 2014 -- Begin process zipped tlogs 
+
+Tue Dec 02 06:20:05 2014 -- End process zipped tlogs 
+
+Tue Dec 02 06:20:05 2014 -- Begin move Internet sales to Recover folder 
+
+Tue Dec 02 06:20:06 2014 -- End move Internet sales to Recover folder 
+
+Tue Dec 02 06:20:06 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 06:20:06 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 06:20:06 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 06:20:06 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 06:20:06 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 06:20:07 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 06:20:07 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 06:20:07 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 06:20:07 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 06:20:07 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 06:20:07 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 06:20:08 2014 -- Begin exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 06:20:08 2014 -- End exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 06:20:08 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 06:20:08 2014 -- End call TlogUpdater 
+
+Tue Dec 02 06:20:08 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 06:20:08 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 06:20:08 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 06:20:08 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 06:20:09 2014 -- End Program 
+ 
+
+Tue Dec 02 06:30:03 2014 -- Begin Program 
+
+Tue Dec 02 06:30:03 2014 -- Begin process zipped tlogs 
+
+Tue Dec 02 06:30:04 2014 -- End process zipped tlogs 
+
+Tue Dec 02 06:30:04 2014 -- Begin move Internet sales to Recover folder 
+
+Tue Dec 02 06:30:05 2014 -- End move Internet sales to Recover folder 
+
+Tue Dec 02 06:30:05 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 06:30:05 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 06:30:05 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 06:30:05 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 06:30:05 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 06:30:05 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 06:30:05 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 06:30:06 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 06:30:06 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 06:30:06 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 06:30:06 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 06:30:06 2014 -- Begin exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 06:30:06 2014 -- End exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 06:30:06 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 06:30:06 2014 -- End call TlogUpdater 
+
+Tue Dec 02 06:30:07 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 06:30:07 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 06:30:07 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 06:30:07 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 06:30:07 2014 -- End Program 
+ 
+
+Tue Dec 02 06:40:01 2014 -- Begin Program 
+
+Tue Dec 02 06:40:02 2014 -- Begin process zipped tlogs 
+
+Tue Dec 02 06:40:03 2014 -- End process zipped tlogs 
+
+Tue Dec 02 06:40:03 2014 -- Begin move Internet sales to Recover folder 
+
+Tue Dec 02 06:40:03 2014 -- End move Internet sales to Recover folder 
+
+Tue Dec 02 06:40:03 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 06:40:03 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 06:40:03 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 06:40:03 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 06:40:03 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 06:40:04 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 06:40:04 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 06:40:04 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 06:40:04 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 06:40:04 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 06:40:04 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 06:40:04 2014 -- Begin exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 06:40:04 2014 -- End exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 06:40:04 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 06:40:04 2014 -- End call TlogUpdater 
+
+Tue Dec 02 06:40:05 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 06:40:05 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 06:40:05 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 06:40:05 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 06:40:05 2014 -- End Program 
+ 
+
+Tue Dec 02 06:50:01 2014 -- Begin Program 
+
+Tue Dec 02 06:50:02 2014 -- Begin process zipped tlogs 
+
+Tue Dec 02 06:50:03 2014 -- End process zipped tlogs 
+
+Tue Dec 02 06:50:03 2014 -- Begin move Internet sales to Recover folder 
+
+Tue Dec 02 06:50:03 2014 -- End move Internet sales to Recover folder 
+
+Tue Dec 02 06:50:03 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 06:50:03 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 06:50:03 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 06:50:03 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 06:50:03 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 06:50:04 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 06:50:04 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 06:50:04 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 06:50:04 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 06:50:04 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 06:50:04 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 06:50:04 2014 -- Begin exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 06:50:04 2014 -- End exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 06:50:04 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 06:50:05 2014 -- End call TlogUpdater 
+
+Tue Dec 02 06:50:05 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 06:50:05 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 06:50:05 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 06:50:05 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 06:50:05 2014 -- End Program 
+ 
+
+Tue Dec 02 07:00:05 2014 -- Begin Program 
+
+Tue Dec 02 07:00:05 2014 -- Begin process zipped tlogs 
+
+Tue Dec 02 07:00:07 2014 -- End process zipped tlogs 
+
+Tue Dec 02 07:00:07 2014 -- Begin move Internet sales to Recover folder 
+
+Tue Dec 02 07:00:07 2014 -- End move Internet sales to Recover folder 
+
+Tue Dec 02 07:00:07 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 07:00:07 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 07:00:08 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 07:00:08 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 07:00:08 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 07:00:08 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 07:00:08 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 07:00:08 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 07:00:08 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 07:00:09 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 07:00:09 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 07:00:09 2014 -- Begin exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 07:00:09 2014 -- End exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 07:00:09 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 07:00:09 2014 -- End call TlogUpdater 
+
+Tue Dec 02 07:00:09 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 07:00:09 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 07:00:09 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 07:00:09 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 07:00:10 2014 -- End Program 
+ 
+
+Tue Dec 02 07:10:02 2014 -- Begin Program 
+
+Tue Dec 02 07:10:02 2014 -- Begin process zipped tlogs 
+
+Tue Dec 02 07:10:03 2014 -- End process zipped tlogs 
+
+Tue Dec 02 07:10:03 2014 -- Begin move Internet sales to Recover folder 
+
+Tue Dec 02 07:10:03 2014 -- End move Internet sales to Recover folder 
+
+Tue Dec 02 07:10:04 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 07:10:04 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 07:10:04 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 07:10:04 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 07:10:04 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 07:10:04 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 07:10:04 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 07:10:04 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 07:10:05 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 07:10:05 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 07:10:05 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 07:10:05 2014 -- Begin exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 07:10:05 2014 -- End exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 07:10:05 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 07:10:05 2014 -- End call TlogUpdater 
+
+Tue Dec 02 07:10:05 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 07:10:05 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 07:10:06 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 07:10:06 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 07:10:06 2014 -- End Program 
+ 
+
+Tue Dec 02 07:20:02 2014 -- Begin Program 
+
+Tue Dec 02 07:20:02 2014 -- Begin process zipped tlogs 
+
+Tue Dec 02 07:20:03 2014 -- End process zipped tlogs 
+
+Tue Dec 02 07:20:03 2014 -- Begin move Internet sales to Recover folder 
+
+Tue Dec 02 07:20:03 2014 -- End move Internet sales to Recover folder 
+
+Tue Dec 02 07:20:03 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 07:20:03 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 07:20:04 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 07:20:04 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 07:20:04 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 07:20:04 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 07:20:04 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 07:20:04 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 07:20:04 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 07:20:04 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 07:20:04 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 07:20:05 2014 -- Begin exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 07:20:05 2014 -- End exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 07:20:05 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 07:20:05 2014 -- End call TlogUpdater 
+
+Tue Dec 02 07:20:05 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 07:20:05 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 07:20:05 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 07:20:05 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 07:20:05 2014 -- End Program 
+ 
+
+Tue Dec 02 07:30:04 2014 -- Begin Program 
+
+Tue Dec 02 07:30:04 2014 -- Begin process zipped tlogs 
+
+Tue Dec 02 07:30:05 2014 -- End process zipped tlogs 
+
+Tue Dec 02 07:30:05 2014 -- Begin move Internet sales to Recover folder 
+
+Tue Dec 02 07:30:05 2014 -- End move Internet sales to Recover folder 
+
+Tue Dec 02 07:30:05 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 07:30:05 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 07:30:05 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 07:30:05 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 07:30:06 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 07:30:06 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 07:30:06 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 07:30:06 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 07:30:06 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 07:30:07 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 07:30:07 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 07:30:07 2014 -- Begin exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 07:30:07 2014 -- End exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 07:30:07 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 07:30:08 2014 -- End call TlogUpdater 
+
+Tue Dec 02 07:30:08 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 07:30:08 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 07:30:08 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 07:30:08 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 07:30:08 2014 -- End Program 
+ 
+
+Tue Dec 02 07:40:01 2014 -- Begin Program 
+
+Tue Dec 02 07:40:02 2014 -- Begin process zipped tlogs 
+
+Tue Dec 02 07:40:03 2014 -- End process zipped tlogs 
+
+Tue Dec 02 07:40:03 2014 -- Begin move Internet sales to Recover folder 
+
+Tue Dec 02 07:40:03 2014 -- End move Internet sales to Recover folder 
+
+Tue Dec 02 07:40:03 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 07:40:03 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 07:40:03 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 07:40:03 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 07:40:03 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 07:40:03 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 07:40:04 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 07:40:04 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 07:40:04 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 07:40:04 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 07:40:04 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 07:40:04 2014 -- Begin exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 07:40:04 2014 -- End exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 07:40:04 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 07:40:05 2014 -- End call TlogUpdater 
+
+Tue Dec 02 07:40:05 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 07:40:05 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 07:40:05 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 07:40:05 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 07:40:05 2014 -- End Program 
+ 
+
+Tue Dec 02 07:50:01 2014 -- Begin Program 
+
+Tue Dec 02 07:50:02 2014 -- Begin process zipped tlogs 
+
+Tue Dec 02 07:50:05 2014 -- End process zipped tlogs 
+
+Tue Dec 02 07:50:05 2014 -- Begin move Internet sales to Recover folder 
+
+Tue Dec 02 07:50:05 2014 -- End move Internet sales to Recover folder 
+
+Tue Dec 02 07:50:05 2014 -- Begin check Trovato tlogs 
+*** Good Tlog 'Tlog00086' (533)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Good\
+*** Good Tlog 'Tlog00361' (742)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Good\
+*** Good Tlog 'Tlog00369' (757)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Good\
+*** Good Tlog 'Tlog00484' (869)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Good\
+*** Good Tlog 'Tlog00610' (599)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Good\
+*** Good Tlog 'Tlog00617' (663)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Good\
+*** Good Tlog 'Tlog00674' (579)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Good\
+*** Good Tlog 'Tlog00801' (790)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Good\
+*** Good Tlog 'Tlog00871' (580)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Good\
+*** Good Tlog 'Tlog02052' (544)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Good\
+*** Good Tlog 'Tlog02058' (722)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Good\
+*** Good Tlog 'Tlog02138' (627)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Good\
+*** Good Tlog 'Tlog02186' (853)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Good\
+
+Tue Dec 02 07:50:05 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 07:50:05 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 07:50:06 2014 -- Error copying \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Good\Tlog*.* to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\WizConvert\ToSMTP 
+
+Tue Dec 02 07:50:06 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 07:50:06 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 07:50:06 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 07:50:06 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 07:50:06 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 07:50:07 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 07:50:07 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 07:50:07 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 07:50:07 2014 -- Begin exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 07:50:07 2014 -- End exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 07:50:07 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 07:50:22 2014 -- End call TlogUpdater 
+
+Tue Dec 02 07:50:22 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 07:50:22 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 07:50:22 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 07:50:22 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 07:50:23 2014 -- End Program 
+ 
+
+Tue Dec 02 08:00:07 2014 -- Begin Program 
+
+Tue Dec 02 08:00:07 2014 -- Begin process zipped tlogs 
+
+Tue Dec 02 08:00:11 2014 -- End process zipped tlogs 
+
+Tue Dec 02 08:00:11 2014 -- Begin move Internet sales to Recover folder 
+
+Tue Dec 02 08:00:12 2014 -- End move Internet sales to Recover folder 
+
+Tue Dec 02 08:00:12 2014 -- Begin check Trovato tlogs 
+*** Good Tlog 'Tlog00049' (946)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Good\
+*** Good Tlog 'Tlog00133' (895)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Good\
+
+Tue Dec 02 08:00:12 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 08:00:12 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 08:00:13 2014 -- Error copying \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Good\Tlog*.* to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\WizConvert\ToSMTP 
+
+Tue Dec 02 08:00:13 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 08:00:18 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 08:00:18 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 08:00:18 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 08:00:18 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 08:00:19 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 08:00:19 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 08:00:19 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 08:00:19 2014 -- Begin exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 08:00:19 2014 -- End exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 08:00:20 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 08:00:27 2014 -- End call TlogUpdater 
+
+Tue Dec 02 08:00:27 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 08:00:27 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 08:00:27 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 08:00:27 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 08:00:27 2014 -- End Program 
+ 
+
+Tue Dec 02 08:10:02 2014 -- Begin Program 
+
+Tue Dec 02 08:10:02 2014 -- Begin process zipped tlogs 
+
+Tue Dec 02 08:10:03 2014 -- End process zipped tlogs 
+
+Tue Dec 02 08:10:03 2014 -- Begin move Internet sales to Recover folder 
+
+Tue Dec 02 08:10:04 2014 -- End move Internet sales to Recover folder 
+
+Tue Dec 02 08:10:04 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 08:10:04 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 08:10:04 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 08:10:04 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 08:10:04 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 08:10:04 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 08:10:04 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 08:10:04 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 08:10:05 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 08:10:05 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 08:10:05 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 08:10:05 2014 -- Begin exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 08:10:05 2014 -- End exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 08:10:05 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 08:10:05 2014 -- End call TlogUpdater 
+
+Tue Dec 02 08:10:05 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 08:10:05 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 08:10:06 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 08:10:06 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 08:10:06 2014 -- End Program 
+ 
+
+Tue Dec 02 08:20:02 2014 -- Begin Program 
+
+Tue Dec 02 08:20:03 2014 -- Begin process zipped tlogs 
+
+Tue Dec 02 08:20:04 2014 -- End process zipped tlogs 
+
+Tue Dec 02 08:20:04 2014 -- Begin move Internet sales to Recover folder 
+
+Tue Dec 02 08:20:04 2014 -- End move Internet sales to Recover folder 
+
+Tue Dec 02 08:20:04 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 08:20:04 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 08:20:04 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 08:20:04 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 08:20:04 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 08:20:04 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 08:20:05 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 08:20:05 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 08:20:05 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 08:20:05 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 08:20:05 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 08:20:05 2014 -- Begin exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 08:20:06 2014 -- End exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 08:20:06 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 08:20:06 2014 -- End call TlogUpdater 
+
+Tue Dec 02 08:20:06 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 08:20:06 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 08:20:06 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 08:20:06 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 08:20:06 2014 -- End Program 
+ 
+
+Tue Dec 02 08:30:05 2014 -- Begin Program 
+
+Tue Dec 02 08:30:05 2014 -- Begin process zipped tlogs 
+
+Tue Dec 02 08:30:06 2014 -- End process zipped tlogs 
+
+Tue Dec 02 08:30:06 2014 -- Begin move Internet sales to Recover folder 
+
+Tue Dec 02 08:30:06 2014 -- End move Internet sales to Recover folder 
+
+Tue Dec 02 08:30:06 2014 -- Begin check Trovato tlogs 
+*** Good Tlog 'Tlog00089' (1331)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Good\
+
+Tue Dec 02 08:30:07 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 08:30:07 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 08:30:07 2014 -- Error copying \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Good\Tlog*.* to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\WizConvert\ToSMTP 
+
+Tue Dec 02 08:30:08 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 08:30:08 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 08:30:08 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 08:30:08 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 08:30:08 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 08:30:09 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 08:30:09 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 08:30:09 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 08:30:09 2014 -- Begin exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 08:30:09 2014 -- End exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 08:30:09 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 08:30:15 2014 -- End call TlogUpdater 
+
+Tue Dec 02 08:30:15 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 08:30:15 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 08:30:15 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 08:30:15 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 08:30:15 2014 -- End Program 
+ 
+
+Tue Dec 02 08:40:02 2014 -- Begin Program 
+
+Tue Dec 02 08:40:02 2014 -- Begin process zipped tlogs 
+
+Tue Dec 02 08:40:03 2014 -- End process zipped tlogs 
+
+Tue Dec 02 08:40:03 2014 -- Begin move Internet sales to Recover folder 
+
+Tue Dec 02 08:40:03 2014 -- End move Internet sales to Recover folder 
+
+Tue Dec 02 08:40:03 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 08:40:04 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 08:40:04 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 08:40:04 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 08:40:04 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 08:40:04 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 08:40:04 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 08:40:04 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 08:40:04 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 08:40:05 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 08:40:05 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 08:40:05 2014 -- Begin exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 08:40:05 2014 -- End exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 08:40:05 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 08:40:05 2014 -- End call TlogUpdater 
+
+Tue Dec 02 08:40:05 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 08:40:05 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 08:40:05 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 08:40:05 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 08:40:05 2014 -- End Program 
+ 
+
+Tue Dec 02 08:50:02 2014 -- Begin Program 
+
+Tue Dec 02 08:50:03 2014 -- Begin process zipped tlogs 
+
+Tue Dec 02 08:50:04 2014 -- End process zipped tlogs 
+
+Tue Dec 02 08:50:04 2014 -- Begin move Internet sales to Recover folder 
+
+Tue Dec 02 08:50:04 2014 -- End move Internet sales to Recover folder 
+
+Tue Dec 02 08:50:04 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 08:50:04 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 08:50:04 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 08:50:04 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 08:50:05 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 08:50:05 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 08:50:05 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 08:50:05 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 08:50:05 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 08:50:05 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 08:50:05 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 08:50:05 2014 -- Begin exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 08:50:06 2014 -- End exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 08:50:06 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 08:50:06 2014 -- End call TlogUpdater 
+
+Tue Dec 02 08:50:06 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 08:50:06 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 08:50:06 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 08:50:06 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 08:50:06 2014 -- End Program 
+ 
+
+Tue Dec 02 09:00:05 2014 -- Begin Program 
+
+Tue Dec 02 09:00:05 2014 -- Begin process zipped tlogs 
+
+Tue Dec 02 09:00:06 2014 -- End process zipped tlogs 
+
+Tue Dec 02 09:00:06 2014 -- Begin move Internet sales to Recover folder 
+
+Tue Dec 02 09:00:06 2014 -- End move Internet sales to Recover folder 
+
+Tue Dec 02 09:00:06 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 09:00:07 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 09:00:07 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 09:00:07 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 09:00:07 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 09:00:07 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 09:00:07 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 09:00:07 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 09:00:08 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 09:00:08 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 09:00:08 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 09:00:08 2014 -- Begin exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 09:00:08 2014 -- End exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 09:00:08 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 09:00:08 2014 -- End call TlogUpdater 
+
+Tue Dec 02 09:00:08 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 09:00:08 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 09:00:09 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 09:00:09 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 09:00:09 2014 -- End Program 
+ 
+
+Tue Dec 02 09:10:02 2014 -- Begin Program 
+
+Tue Dec 02 09:10:03 2014 -- Begin process zipped tlogs 
+
+Tue Dec 02 09:10:04 2014 -- End process zipped tlogs 
+
+Tue Dec 02 09:10:04 2014 -- Begin move Internet sales to Recover folder 
+
+Tue Dec 02 09:10:04 2014 -- End move Internet sales to Recover folder 
+
+Tue Dec 02 09:10:04 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 09:10:04 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 09:10:04 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 09:10:04 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 09:10:04 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 09:10:04 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 09:10:04 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 09:10:04 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 09:10:05 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 09:10:05 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 09:10:05 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 09:10:05 2014 -- Begin exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 09:10:05 2014 -- End exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 09:10:05 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 09:10:05 2014 -- End call TlogUpdater 
+
+Tue Dec 02 09:10:05 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 09:10:06 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 09:10:06 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 09:10:06 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 09:10:06 2014 -- End Program 
+ 
+
+Tue Dec 02 09:20:02 2014 -- Begin Program 
+
+Tue Dec 02 09:20:02 2014 -- Begin process zipped tlogs 
+
+Tue Dec 02 09:20:03 2014 -- End process zipped tlogs 
+
+Tue Dec 02 09:20:03 2014 -- Begin move Internet sales to Recover folder 
+
+Tue Dec 02 09:20:03 2014 -- End move Internet sales to Recover folder 
+
+Tue Dec 02 09:20:03 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 09:20:03 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 09:20:03 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 09:20:04 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 09:20:04 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 09:20:04 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 09:20:04 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 09:20:04 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 09:20:04 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 09:20:04 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 09:20:04 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 09:20:04 2014 -- Begin exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 09:20:05 2014 -- End exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 09:20:05 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 09:20:05 2014 -- End call TlogUpdater 
+
+Tue Dec 02 09:20:05 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 09:20:05 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 09:20:05 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 09:20:05 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 09:20:05 2014 -- End Program 
+ 
+
+Tue Dec 02 09:30:03 2014 -- Begin Program 
+
+Tue Dec 02 09:30:03 2014 -- Begin process zipped tlogs 
+
+Tue Dec 02 09:30:05 2014 -- End process zipped tlogs 
+
+Tue Dec 02 09:30:05 2014 -- Begin move Internet sales to Recover folder 
+
+Tue Dec 02 09:30:05 2014 -- End move Internet sales to Recover folder 
+
+Tue Dec 02 09:30:05 2014 -- Begin check Trovato tlogs 
+*** Good Tlog 'Tlog02181' (162)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Good\
+*** Good Tlog 'Tlog03067' (866)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Good\
+
+Tue Dec 02 09:30:05 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 09:30:05 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 09:30:06 2014 -- Error copying \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Good\Tlog*.* to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\WizConvert\ToSMTP 
+
+Tue Dec 02 09:30:06 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 09:30:06 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 09:30:06 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 09:30:06 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 09:30:06 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 09:30:07 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 09:30:07 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 09:30:07 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 09:30:07 2014 -- Begin exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 09:30:07 2014 -- End exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 09:30:07 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 09:30:10 2014 -- End call TlogUpdater 
+
+Tue Dec 02 09:30:10 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 09:30:10 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 09:30:10 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 09:30:10 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 09:30:10 2014 -- End Program 
+ 
+
+Tue Dec 02 09:40:01 2014 -- Begin Program 
+
+Tue Dec 02 09:40:02 2014 -- Begin process zipped tlogs 
+
+Tue Dec 02 09:40:03 2014 -- End process zipped tlogs 
+
+Tue Dec 02 09:40:03 2014 -- Begin move Internet sales to Recover folder 
+
+Tue Dec 02 09:40:03 2014 -- End move Internet sales to Recover folder 
+
+Tue Dec 02 09:40:03 2014 -- Begin check Trovato tlogs 
+*** Good Tlog 'Tlog00436' (1035)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Good\
+
+Tue Dec 02 09:40:03 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 09:40:03 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 09:40:04 2014 -- Error copying \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Good\Tlog*.* to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\WizConvert\ToSMTP 
+
+Tue Dec 02 09:40:04 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 09:40:04 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 09:40:04 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 09:40:04 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 09:40:04 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 09:40:05 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 09:40:05 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 09:40:05 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 09:40:05 2014 -- Begin exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 09:40:05 2014 -- End exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 09:40:05 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 09:40:08 2014 -- End call TlogUpdater 
+
+Tue Dec 02 09:40:08 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 09:40:08 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 09:40:08 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 09:40:08 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 09:40:08 2014 -- End Program 
+ 
+
+Tue Dec 02 09:50:01 2014 -- Begin Program 
+
+Tue Dec 02 09:50:02 2014 -- Begin process zipped tlogs 
+
+Tue Dec 02 09:50:03 2014 -- End process zipped tlogs 
+
+Tue Dec 02 09:50:03 2014 -- Begin move Internet sales to Recover folder 
+
+Tue Dec 02 09:50:03 2014 -- End move Internet sales to Recover folder 
+
+Tue Dec 02 09:50:03 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 09:50:03 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 09:50:03 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 09:50:04 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 09:50:04 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 09:50:04 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 09:50:04 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 09:50:04 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 09:50:04 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 09:50:04 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 09:50:04 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 09:50:04 2014 -- Begin exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 09:50:05 2014 -- End exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 09:50:05 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 09:50:05 2014 -- End call TlogUpdater 
+
+Tue Dec 02 09:50:05 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 09:50:05 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 09:50:05 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 09:50:05 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 09:50:05 2014 -- End Program 
+ 
+
+Tue Dec 02 10:00:06 2014 -- Begin Program 
+
+Tue Dec 02 10:00:06 2014 -- Begin process zipped tlogs 
+
+Tue Dec 02 10:00:07 2014 -- End process zipped tlogs 
+
+Tue Dec 02 10:00:08 2014 -- Begin move Internet sales to Recover folder 
+
+Tue Dec 02 10:00:08 2014 -- End move Internet sales to Recover folder 
+
+Tue Dec 02 10:00:08 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 10:00:08 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 10:00:08 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 10:00:08 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 10:00:08 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 10:00:08 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 10:00:09 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 10:00:09 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 10:00:09 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 10:00:09 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 10:00:09 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 10:00:09 2014 -- Begin exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 10:00:10 2014 -- End exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 10:00:10 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 10:00:10 2014 -- End call TlogUpdater 
+
+Tue Dec 02 10:00:10 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 10:00:10 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 10:00:10 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 10:00:11 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 10:00:11 2014 -- End Program 
+ 
+
+Tue Dec 02 10:10:02 2014 -- Begin Program 
+
+Tue Dec 02 10:10:02 2014 -- Begin process zipped tlogs 
+
+Tue Dec 02 10:10:03 2014 -- End process zipped tlogs 
+
+Tue Dec 02 10:10:03 2014 -- Begin move Internet sales to Recover folder 
+
+Tue Dec 02 10:10:03 2014 -- End move Internet sales to Recover folder 
+
+Tue Dec 02 10:10:03 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 10:10:03 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 10:10:04 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 10:10:04 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 10:10:04 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 10:10:04 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 10:10:04 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 10:10:04 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 10:10:04 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 10:10:04 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 10:10:04 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 10:10:04 2014 -- Begin exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 10:10:05 2014 -- End exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 10:10:05 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 10:10:05 2014 -- End call TlogUpdater 
+
+Tue Dec 02 10:10:05 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 10:10:05 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 10:10:05 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 10:10:05 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 10:10:05 2014 -- End Program 
+ 
+
+Tue Dec 02 10:20:02 2014 -- Begin Program 
+
+Tue Dec 02 10:20:02 2014 -- Begin process zipped tlogs 
+
+Tue Dec 02 10:20:03 2014 -- End process zipped tlogs 
+
+Tue Dec 02 10:20:03 2014 -- Begin move Internet sales to Recover folder 
+
+Tue Dec 02 10:20:03 2014 -- End move Internet sales to Recover folder 
+
+Tue Dec 02 10:20:03 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 10:20:03 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 10:20:03 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 10:20:04 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 10:20:04 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 10:20:04 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 10:20:04 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 10:20:04 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 10:20:04 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 10:20:04 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 10:20:04 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 10:20:04 2014 -- Begin exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 10:20:05 2014 -- End exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 10:20:05 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 10:20:05 2014 -- End call TlogUpdater 
+
+Tue Dec 02 10:20:05 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 10:20:05 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 10:20:05 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 10:20:05 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 10:20:05 2014 -- End Program 
+ 
+
+Tue Dec 02 10:30:02 2014 -- Begin Program 
+
+Tue Dec 02 10:30:03 2014 -- Begin process zipped tlogs 
+
+Tue Dec 02 10:30:05 2014 -- End process zipped tlogs 
+
+Tue Dec 02 10:30:05 2014 -- Begin move Internet sales to Recover folder 
+
+Tue Dec 02 10:30:05 2014 -- End move Internet sales to Recover folder 
+
+Tue Dec 02 10:30:05 2014 -- Begin check Trovato tlogs 
+*** Good Tlog 'Tlog00112' (524)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Good\
+*** Good Tlog 'TLOG00410.UP' (2316)
+Moved to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Good\
+
+Tue Dec 02 10:30:06 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 10:30:06 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 10:30:06 2014 -- Error copying \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\Good\Tlog*.* to \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\WizConvert\ToSMTP 
+
+Tue Dec 02 10:30:07 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 10:30:07 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 10:30:07 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 10:30:07 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 10:30:07 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 10:30:07 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 10:30:08 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 10:30:08 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 10:30:08 2014 -- Begin exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 10:30:08 2014 -- End exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 10:30:08 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 10:30:14 2014 -- End call TlogUpdater 
+
+Tue Dec 02 10:30:14 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 10:30:15 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 10:30:15 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 10:30:15 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 10:30:15 2014 -- End Program 
+ 
+
+Tue Dec 02 10:40:02 2014 -- Begin Program 
+
+Tue Dec 02 10:40:02 2014 -- Begin process zipped tlogs 
+
+Tue Dec 02 10:40:03 2014 -- End process zipped tlogs 
+
+Tue Dec 02 10:40:03 2014 -- Begin move Internet sales to Recover folder 
+
+Tue Dec 02 10:40:03 2014 -- End move Internet sales to Recover folder 
+
+Tue Dec 02 10:40:03 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 10:40:03 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 10:40:04 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 10:40:04 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 10:40:04 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 10:40:04 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 10:40:04 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 10:40:04 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 10:40:04 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 10:40:04 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 10:40:05 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 10:40:05 2014 -- Begin exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 10:40:05 2014 -- End exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 10:40:05 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 10:40:05 2014 -- End call TlogUpdater 
+
+Tue Dec 02 10:40:05 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 10:40:05 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 10:40:05 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 10:40:05 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 10:40:05 2014 -- End Program 
+ 
+
+Tue Dec 02 10:50:01 2014 -- Begin Program 
+
+Tue Dec 02 10:50:02 2014 -- Begin process zipped tlogs 
+
+Tue Dec 02 10:50:03 2014 -- End process zipped tlogs 
+
+Tue Dec 02 10:50:03 2014 -- Begin move Internet sales to Recover folder 
+
+Tue Dec 02 10:50:03 2014 -- End move Internet sales to Recover folder 
+
+Tue Dec 02 10:50:03 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 10:50:03 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 10:50:03 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 10:50:04 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 10:50:04 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 10:50:04 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 10:50:04 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 10:50:04 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 10:50:04 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 10:50:04 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 10:50:04 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 10:50:04 2014 -- Begin exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 10:50:05 2014 -- End exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 10:50:05 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 10:50:05 2014 -- End call TlogUpdater 
+
+Tue Dec 02 10:50:05 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 10:50:05 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 10:50:05 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 10:50:05 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 10:50:05 2014 -- End Program 
+ 
+
+Tue Dec 02 11:00:05 2014 -- Begin Program 
+
+Tue Dec 02 11:00:05 2014 -- Begin process zipped tlogs 
+
+Tue Dec 02 11:00:07 2014 -- End process zipped tlogs 
+
+Tue Dec 02 11:00:08 2014 -- Begin move Internet sales to Recover folder 
+
+Tue Dec 02 11:00:08 2014 -- End move Internet sales to Recover folder 
+
+Tue Dec 02 11:00:08 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 11:00:08 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 11:00:08 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 11:00:08 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 11:00:08 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 11:00:09 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 11:00:09 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 11:00:09 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 11:00:09 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 11:00:09 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 11:00:09 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 11:00:10 2014 -- Begin exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 11:00:10 2014 -- End exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 11:00:10 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 11:00:10 2014 -- End call TlogUpdater 
+
+Tue Dec 02 11:00:11 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 11:00:11 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 11:00:11 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 11:00:11 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 11:00:11 2014 -- End Program 
+ 
+
+Tue Dec 02 11:10:01 2014 -- Begin Program 
+
+Tue Dec 02 11:10:02 2014 -- Begin process zipped tlogs 
+
+Tue Dec 02 11:10:03 2014 -- End process zipped tlogs 
+
+Tue Dec 02 11:10:03 2014 -- Begin move Internet sales to Recover folder 
+
+Tue Dec 02 11:10:03 2014 -- End move Internet sales to Recover folder 
+
+Tue Dec 02 11:10:03 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 11:10:03 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 11:10:03 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 11:10:03 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 11:10:03 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 11:10:03 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 11:10:04 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 11:10:04 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 11:10:04 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 11:10:04 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 11:10:04 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 11:10:04 2014 -- Begin exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 11:10:04 2014 -- End exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 11:10:04 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 11:10:05 2014 -- End call TlogUpdater 
+
+Tue Dec 02 11:10:05 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 11:10:05 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 11:10:05 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 11:10:05 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 11:10:05 2014 -- End Program 
+ 
+
+Tue Dec 02 11:20:02 2014 -- Begin Program 
+
+Tue Dec 02 11:20:02 2014 -- Begin process zipped tlogs 
+
+Tue Dec 02 11:20:03 2014 -- End process zipped tlogs 
+
+Tue Dec 02 11:20:03 2014 -- Begin move Internet sales to Recover folder 
+
+Tue Dec 02 11:20:03 2014 -- End move Internet sales to Recover folder 
+
+Tue Dec 02 11:20:03 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 11:20:03 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 11:20:03 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 11:20:03 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 11:20:04 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 11:20:04 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 11:20:04 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 11:20:04 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 11:20:04 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 11:20:04 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 11:20:04 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 11:20:04 2014 -- Begin exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 11:20:04 2014 -- End exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 11:20:05 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 11:20:05 2014 -- End call TlogUpdater 
+
+Tue Dec 02 11:20:05 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 11:20:05 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 11:20:05 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 11:20:05 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 11:20:05 2014 -- End Program 
+ 
+
+Tue Dec 02 11:30:02 2014 -- Begin Program 
+
+Tue Dec 02 11:30:02 2014 -- Begin process zipped tlogs 
+
+Tue Dec 02 11:30:04 2014 -- End process zipped tlogs 
+
+Tue Dec 02 11:30:04 2014 -- Begin move Internet sales to Recover folder 
+
+Tue Dec 02 11:30:04 2014 -- End move Internet sales to Recover folder 
+
+Tue Dec 02 11:30:04 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 11:30:05 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 11:30:05 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 11:30:05 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 11:30:05 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 11:30:05 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 11:30:05 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 11:30:05 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 11:30:05 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 11:30:06 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 11:30:06 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 11:30:06 2014 -- Begin exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 11:30:06 2014 -- End exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 11:30:06 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 11:30:06 2014 -- End call TlogUpdater 
+
+Tue Dec 02 11:30:06 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 11:30:06 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 11:30:06 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 11:30:06 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 11:30:07 2014 -- End Program 
+ 
+
+Tue Dec 02 11:40:01 2014 -- Begin Program 
+
+Tue Dec 02 11:40:02 2014 -- Begin process zipped tlogs 
+
+Tue Dec 02 11:40:03 2014 -- End process zipped tlogs 
+
+Tue Dec 02 11:40:03 2014 -- Begin move Internet sales to Recover folder 
+
+Tue Dec 02 11:40:03 2014 -- End move Internet sales to Recover folder 
+
+Tue Dec 02 11:40:03 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 11:40:03 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 11:40:03 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 11:40:03 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 11:40:03 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 11:40:03 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 11:40:03 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 11:40:03 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 11:40:04 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 11:40:04 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 11:40:04 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 11:40:04 2014 -- Begin exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 11:40:04 2014 -- End exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 11:40:04 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 11:40:04 2014 -- End call TlogUpdater 
+
+Tue Dec 02 11:40:05 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 11:40:05 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 11:40:05 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 11:40:05 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 11:40:05 2014 -- End Program 
+ 
+
+Tue Dec 02 11:50:01 2014 -- Begin Program 
+
+Tue Dec 02 11:50:01 2014 -- Begin process zipped tlogs 
+
+Tue Dec 02 11:50:03 2014 -- End process zipped tlogs 
+
+Tue Dec 02 11:50:03 2014 -- Begin move Internet sales to Recover folder 
+
+Tue Dec 02 11:50:03 2014 -- End move Internet sales to Recover folder 
+
+Tue Dec 02 11:50:03 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 11:50:03 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 11:50:03 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 11:50:03 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 11:50:03 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 11:50:04 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 11:50:04 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 11:50:04 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 11:50:04 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 11:50:04 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 11:50:04 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 11:50:04 2014 -- Begin exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 11:50:04 2014 -- End exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 11:50:05 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 11:50:05 2014 -- End call TlogUpdater 
+
+Tue Dec 02 11:50:05 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 11:50:05 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 11:50:05 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 11:50:05 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 11:50:05 2014 -- End Program 
+ 
+
+Tue Dec 02 12:00:06 2014 -- Begin Program 
+
+Tue Dec 02 12:00:07 2014 -- Begin process zipped tlogs 
+
+Tue Dec 02 12:00:09 2014 -- End process zipped tlogs 
+
+Tue Dec 02 12:00:09 2014 -- Begin move Internet sales to Recover folder 
+
+Tue Dec 02 12:00:10 2014 -- End move Internet sales to Recover folder 
+
+Tue Dec 02 12:00:10 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 12:00:10 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 12:00:11 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 12:00:12 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 12:00:12 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 12:00:12 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 12:00:13 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 12:00:13 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 12:00:14 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 12:00:14 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 12:00:14 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 12:00:14 2014 -- Begin exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 12:00:15 2014 -- End exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 12:00:15 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 12:00:15 2014 -- End call TlogUpdater 
+
+Tue Dec 02 12:00:16 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 12:00:16 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 12:00:16 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 12:00:17 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 12:00:17 2014 -- End Program 
+ 
+
+Tue Dec 02 12:10:02 2014 -- Begin Program 
+
+Tue Dec 02 12:10:02 2014 -- Begin process zipped tlogs 
+
+Tue Dec 02 12:10:03 2014 -- End process zipped tlogs 
+
+Tue Dec 02 12:10:03 2014 -- Begin move Internet sales to Recover folder 
+
+Tue Dec 02 12:10:03 2014 -- End move Internet sales to Recover folder 
+
+Tue Dec 02 12:10:03 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 12:10:03 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 12:10:03 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 12:10:03 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 12:10:03 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 12:10:04 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 12:10:04 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 12:10:04 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 12:10:04 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 12:10:04 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 12:10:04 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 12:10:04 2014 -- Begin exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 12:10:05 2014 -- End exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 12:10:05 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 12:10:05 2014 -- End call TlogUpdater 
+
+Tue Dec 02 12:10:05 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 12:10:05 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 12:10:05 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 12:10:05 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 12:10:05 2014 -- End Program 
+ 
+
+Tue Dec 02 12:20:02 2014 -- Begin Program 
+
+Tue Dec 02 12:20:02 2014 -- Begin process zipped tlogs 
+
+Tue Dec 02 12:20:03 2014 -- End process zipped tlogs 
+
+Tue Dec 02 12:20:03 2014 -- Begin move Internet sales to Recover folder 
+
+Tue Dec 02 12:20:03 2014 -- End move Internet sales to Recover folder 
+
+Tue Dec 02 12:20:03 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 12:20:03 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 12:20:03 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 12:20:04 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 12:20:04 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 12:20:04 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 12:20:04 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 12:20:04 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 12:20:04 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 12:20:04 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 12:20:04 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 12:20:04 2014 -- Begin exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 12:20:05 2014 -- End exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 12:20:05 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 12:20:05 2014 -- End call TlogUpdater 
+
+Tue Dec 02 12:20:05 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 12:20:05 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 12:20:05 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 12:20:05 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 12:20:05 2014 -- End Program 
+ 
+
+Tue Dec 02 12:30:03 2014 -- Begin Program 
+
+Tue Dec 02 12:30:03 2014 -- Begin process zipped tlogs 
+
+Tue Dec 02 12:30:05 2014 -- End process zipped tlogs 
+
+Tue Dec 02 12:30:05 2014 -- Begin move Internet sales to Recover folder 
+
+Tue Dec 02 12:30:05 2014 -- End move Internet sales to Recover folder 
+
+Tue Dec 02 12:30:05 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 12:30:06 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 12:30:06 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 12:30:06 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 12:30:06 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 12:30:06 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 12:30:06 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 12:30:06 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 12:30:06 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 12:30:06 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 12:30:07 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 12:30:07 2014 -- Begin exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 12:30:07 2014 -- End exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 12:30:07 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 12:30:07 2014 -- End call TlogUpdater 
+
+Tue Dec 02 12:30:07 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 12:30:07 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 12:30:07 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 12:30:07 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 12:30:07 2014 -- End Program 
+ 
+
+Tue Dec 02 12:40:02 2014 -- Begin Program 
+
+Tue Dec 02 12:40:02 2014 -- Begin process zipped tlogs 
+
+Tue Dec 02 12:40:03 2014 -- End process zipped tlogs 
+
+Tue Dec 02 12:40:03 2014 -- Begin move Internet sales to Recover folder 
+
+Tue Dec 02 12:40:03 2014 -- End move Internet sales to Recover folder 
+
+Tue Dec 02 12:40:03 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 12:40:03 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 12:40:03 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 12:40:04 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 12:40:04 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 12:40:04 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 12:40:04 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 12:40:04 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 12:40:04 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 12:40:04 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 12:40:04 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 12:40:05 2014 -- Begin exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 12:40:05 2014 -- End exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 12:40:05 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 12:40:05 2014 -- End call TlogUpdater 
+
+Tue Dec 02 12:40:05 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 12:40:05 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 12:40:05 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 12:40:05 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 12:40:05 2014 -- End Program 
+ 
+
+Tue Dec 02 12:50:01 2014 -- Begin Program 
+
+Tue Dec 02 12:50:02 2014 -- Begin process zipped tlogs 
+
+Tue Dec 02 12:50:03 2014 -- End process zipped tlogs 
+
+Tue Dec 02 12:50:03 2014 -- Begin move Internet sales to Recover folder 
+
+Tue Dec 02 12:50:03 2014 -- End move Internet sales to Recover folder 
+
+Tue Dec 02 12:50:03 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 12:50:03 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 12:50:03 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 12:50:03 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 12:50:03 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 12:50:04 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 12:50:04 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 12:50:04 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 12:50:04 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 12:50:04 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 12:50:04 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 12:50:04 2014 -- Begin exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 12:50:05 2014 -- End exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 12:50:05 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 12:50:05 2014 -- End call TlogUpdater 
+
+Tue Dec 02 12:50:05 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 12:50:05 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 12:50:05 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 12:50:05 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 12:50:05 2014 -- End Program 
+ 
+
+Tue Dec 02 13:00:03 2014 -- Begin Program 
+
+Tue Dec 02 13:00:03 2014 -- Begin process zipped tlogs 
+
+Tue Dec 02 13:00:05 2014 -- End process zipped tlogs 
+
+Tue Dec 02 13:00:05 2014 -- Begin move Internet sales to Recover folder 
+
+Tue Dec 02 13:00:05 2014 -- End move Internet sales to Recover folder 
+
+Tue Dec 02 13:00:05 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 13:00:06 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 13:00:06 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 13:00:06 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 13:00:06 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 13:00:06 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 13:00:06 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 13:00:07 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 13:00:07 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 13:00:07 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 13:00:07 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 13:00:07 2014 -- Begin exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 13:00:07 2014 -- End exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 13:00:07 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 13:00:08 2014 -- End call TlogUpdater 
+
+Tue Dec 02 13:00:08 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 13:00:08 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 13:00:08 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 13:00:08 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 13:00:08 2014 -- End Program 
+ 
+
+Tue Dec 02 13:10:04 2014 -- Begin Program 
+
+Tue Dec 02 13:10:04 2014 -- Begin process zipped tlogs 
+
+Tue Dec 02 13:10:05 2014 -- End process zipped tlogs 
+
+Tue Dec 02 13:10:05 2014 -- Begin move Internet sales to Recover folder 
+
+Tue Dec 02 13:10:06 2014 -- End move Internet sales to Recover folder 
+
+Tue Dec 02 13:10:06 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 13:10:06 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 13:10:06 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 13:10:06 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 13:10:06 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 13:10:06 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 13:10:06 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 13:10:06 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 13:10:07 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 13:10:07 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 13:10:07 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 13:10:07 2014 -- Begin exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 13:10:07 2014 -- End exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 13:10:07 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 13:10:07 2014 -- End call TlogUpdater 
+
+Tue Dec 02 13:10:08 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 13:10:08 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 13:10:08 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 13:10:08 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 13:10:08 2014 -- End Program 
+ 
+
+Tue Dec 02 13:20:02 2014 -- Begin Program 
+
+Tue Dec 02 13:20:02 2014 -- Begin process zipped tlogs 
+
+Tue Dec 02 13:20:03 2014 -- End process zipped tlogs 
+
+Tue Dec 02 13:20:03 2014 -- Begin move Internet sales to Recover folder 
+
+Tue Dec 02 13:20:03 2014 -- End move Internet sales to Recover folder 
+
+Tue Dec 02 13:20:03 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 13:20:03 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 13:20:03 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 13:20:03 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 13:20:04 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 13:20:04 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 13:20:04 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 13:20:04 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 13:20:04 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 13:20:04 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 13:20:04 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 13:20:04 2014 -- Begin exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 13:20:04 2014 -- End exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 13:20:05 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 13:20:05 2014 -- End call TlogUpdater 
+
+Tue Dec 02 13:20:05 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 13:20:05 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 13:20:05 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 13:20:05 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 13:20:05 2014 -- End Program 
+ 
+
+Tue Dec 02 13:30:02 2014 -- Begin Program 
+
+Tue Dec 02 13:30:02 2014 -- Begin process zipped tlogs 
+
+Tue Dec 02 13:30:03 2014 -- End process zipped tlogs 
+
+Tue Dec 02 13:30:03 2014 -- Begin move Internet sales to Recover folder 
+
+Tue Dec 02 13:30:03 2014 -- End move Internet sales to Recover folder 
+
+Tue Dec 02 13:30:03 2014 -- Begin check Trovato tlogs 
+
+Tue Dec 02 13:30:04 2014 -- End check Trovato tlogs 
+
+Tue Dec 02 13:30:04 2014 -- Begin copy Trovato tlogs for Wizmail converting 
+
+Tue Dec 02 13:30:04 2014 -- End copy for Wizmail converting 
+
+Tue Dec 02 13:30:04 2014 -- Begin convert Trovato tlogs for ARS format 
+
+Tue Dec 02 13:30:04 2014 -- This has been turned off. The tlogs will simply 
+
+Tue Dec 02 13:30:04 2014 -- End convert Trovato tlogs for ARS format 
+
+Tue Dec 02 13:30:04 2014 -- Begin exclude tlogs from all processing 
+
+Tue Dec 02 13:30:05 2014 -- End exclude tlogs from all processing 
+
+Tue Dec 02 13:30:05 2014 -- Begin exclude tlogs from internal (local) processing 
+
+Tue Dec 02 13:30:05 2014 -- End exclude tlogs from internal (local) processing 
+
+Tue Dec 02 13:30:05 2014 -- Begin exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 13:30:05 2014 -- End exclude tlogs from all processing except payroll processing. 
+
+Tue Dec 02 13:30:05 2014 -- Begin call TlogUpdater 
+
+Tue Dec 02 13:30:05 2014 -- End call TlogUpdater 
+
+Tue Dec 02 13:30:05 2014 -- Begin translate tlogs and send to AuditWorks 
+
+Tue Dec 02 13:30:05 2014 -- End translate tlogs and send to AuditWorks 
+
+Tue Dec 02 13:30:06 2014 -- Begin exclude tlogs from mainframe upload 
+
+Tue Dec 02 13:30:06 2014 -- End exclude tlogs from mainframe upload 
+
+Tue Dec 02 13:30:06 2014 -- End Program 

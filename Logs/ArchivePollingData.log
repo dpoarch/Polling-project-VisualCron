@@ -1,0 +1,29 @@
+ 
+
+Tue Dec 02 04:02:57 2014 -- Begin Program 
+
+Tue Dec 02 04:02:57 2014 -- Begin setting archive folder name 
+
+Tue Dec 02 04:02:57 2014 -- End setting archive folder name 
+
+Tue Dec 02 04:02:57 2014 -- Begin archive \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\*.* 
+
+Tue Dec 02 04:02:59 2014 -- End archive \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Data\RecoverT\*.* 
+
+Tue Dec 02 04:02:59 2014 -- Begin archive \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\*.* 
+
+Tue Dec 02 04:03:06 2014 -- End archive \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\TlogT\*.* 
+
+Tue Dec 02 04:03:06 2014 -- Begin archive \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Upload\*.* 
+
+Tue Dec 02 04:03:06 2014 -- End archive \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\Upload\*.* 
+
+Tue Dec 02 04:03:06 2014 -- Begin archive \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\OutboundT\*.* 
+
+Tue Dec 02 04:03:54 2014 -- End archive \\sgicorp.spencergifts.com\spencergifts\POS\Polling\Poll\OutboundT\*.* 
+
+Tue Dec 02 04:03:54 2014 -- Begin archive \\sgicorp.spencergifts.com\spencergifts\POS\Polling\SupportData\DealPricing\*.* 
+
+Tue Dec 02 04:04:18 2014 -- End archive \\sgicorp.spencergifts.com\spencergifts\POS\Polling\SupportData\DealPricing\*.* 
+
+Tue Dec 02 04:04:18 2014 -- End Program 

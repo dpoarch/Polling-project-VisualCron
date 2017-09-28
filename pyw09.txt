@@ -1,0 +1,6 @@
+open s390.mca.com
+snobat
+snobat
+quote site lrecl=101 blocksize=101 cyl primary=10 secondary=5 recfm=f unit=disk retpd
+put F:\Poll\HR\pay.dat 'P.R.PO.PYW09.PS020.STS.POSDPAY'
+bye

@@ -1,0 +1,11 @@
+:: ProcessRecoveredCartTlogs_run.cmd
+::
+:: Dynamically built and executed by ProcessRecoveredCartTlogs.cmd
+
+  :: Set variables.
+  @set ERROR_FLAG=FALSE
+  @set WARNING_FLAG=FALSE
+  @set PROG_FOLDER=\\sghpnas\pos\Poll\Bin
+  @set LOG_FILE=%PROG_FOLDER%\Logs\ProcessRecoveredCartTlogs.log
+  @set ERR_FILE=%PROG_FOLDER%\Logs\ProcessRecoveredCartTlogs.err
+
